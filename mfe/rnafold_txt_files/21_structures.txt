@@ -1,0 +1,63 @@
+>atpi
+CGAUCUCUCGGGAGCGCAGCGCGGUGGUGCAAUGCGAUUCUUGCUGUGGCUGUUGCCUAUAAAAAUCCCGAAUACUUUCAUAUGGCAAGUACAGUUAUUGGAUUAAUGACAAUAUACCCUGUCAUUAUGAUAGAUUCCUUUAUCCAGCUUAAACGUUCAUCAAUGGAAGAGAGGUGAAAACCCUUUGAAUCAUGGUUACA
+..((((((((((((((((((((....))))..)))).)))))(((((((((((((((..........................))))...)))))))......((((((((........)))))))).((((((....)))))))))).....((((....))))...)))))))...((((...........))))... (-45.90)
+>cggR
+UGCGGUAGCGGGCGGAUCAUCAAAAGCCGAAGCGAUCGAGGCUUACUUUAAAAAGCCACGCAACACGGUUCUCGUCACAGACGAAGGAGCCGCAAAGAAGUUAUUAAGGGAUGAAUAAUCCCUCAAUAUAAAUAUCUCUCACUUAUUUAAAGGAGGAAACAAUCAUGGCAGUAAAAGUCGGUAUUAACGGUUUUGGUCGU
+(((........)))(((((....((((((.....(((((...(((((.......((((.......(((((((((((...)))))..)))))).........((((.((((((.....)))))).))))......((.(((.(((.....))))))))........)))))))))...))))).....))))))))))).. (-50.30)
+>cwlO
+GUACAUAAGGAAUUAGUGUUUUUUACAUAUGAUGUGAAAUAAACGCUAUACAACCAGAAUAAGAGAUGCACAGAAUAAUUAACCAUAAACAACCAUCAUUCCUCGUAGAGUAUGAGGAACGAAACUUGAUGUUCAAAAUACGAUUCCAAAUGAGGACAGGUUCACAGUAAAAGGGAGGAUAUAAA
+........((...(((((((((((((((...)))))))..)))))))).....)).............................(((..(..((.((.(((((((((...))))))))).))((((((.(.((((...............)))).)))))))..........))..)..)))... (-29.00)
+>dacA
+GUUGUGCAUUGAAAAUGUCCUUAACGGCUUAAUUAUAGAUGAAGAAAAUGAAAUACGGAGGUCGUACGAUUGAACAUCAAGAAAUGUAAACAGCUACUGAUGUCAUUGGUUG
+....((((((....((((.(...(((((((...(((................)))...)))))))......).)))).....))))))..((((((.((....)).)))))) (-13.90)
+>ddl
+AAUUACAUACAAAUGCAUUCAACAUCAGCAUGCCCAAAAAUAAUUAGAUCAUUUUCCGGUGAAAAUGAUAAGAUAGUAAAGAUGAAUUGUAGUGGGGGGAGUAUCCAUUGAAAACAAGUCUAGGAUUAGUGUACGGAGGAAAG
+...(((((....((((...........))))...........(((..(((((((((....)))))))))..))).....((((......(((((((.......))))))).......)))).......))))).......... (-20.80)
+>glnA
+ACAUGGCAGGAAUUAAACAGAUUCUGGCGAAAGCCGAAGCCGAGCCAGAACAAAAACAAAACGAGAAGACGAAAAAACCAAUGAAACAUGAUCUGUCCGAUGACGAACUGAGACAGCUCCUGAAAAACGAGCUCAUGCAAGCCGGCCGUUUUCAAAGAGGGAAUACAUUCCGUCAAGGCGACAUGUCCCGCUUCUUUCAU
+..((((.((((..........(((((((....((....))...)))))))..............(((((((...............((.((.(((((((.........)).))))).)).)).....((.(((......)))))..)))))))...((.((((....)))).))..((((........)))))))))))) (-41.70)
+>menA
+GGAAGCAAAAGGAGUUUUUUAUUAAGCUGCCGGCUGAAAAAAAGUAAGCCUUUUAAUAGAAAGGAAGAGGAAGAUGAACCAAACAAAUAAGGGUGAGGGUCAGACAGCGCCGCAAAAAGAAAGC
+....((....(((((((......))))).)).(((.......)))...((((((....))))))....((........))...........((((..(......)..))))))........... (-19.80)
+>metN
+GGCAAUUGCCGGAGCCAUUGGUUCAGGAGGCCUUGGAAACCUUGCGUACGUAGAAGGAUAUCAGUCUAAUAACGCUGAUGUUACCUUCGUUGCUACUGUGUUUAUUUUAAUCAUCGUGUUUAUUAUUCAAAUCAUCGGUGAUCUAAUAACAAAUAUUAUAGACAAACGAUAAGGGAGGAUUUACAUUGAAAAAGCUAUUU
+(((.....((.(((((...))))).))..))).((..((((((.(.(((((.(((((((((((((........))))))))..))))).((((((..((((((...((((((((((((.((........)).)).))))))).)))....))))))..))).)))))).)).).)))).))..))............... (-44.60)
+>metQ
+GAAAAAACCGGAAGAUUUCUUAGAAUAGUGUUAAGGCAGGUGAUUGCUUUGAUCAAUCUUCAGGAUGUUUCAAAAGUUUACAAGUCGAAACAUGGAGAUGUCAAUGCUGUCCAAAACGUCUCGCUUUCCAUUAAAAAAGGUGAGAUUUUUGGAAUUAUAGGAUAUAGCGGAGCUGGUAAGAGUUCCUUAAUCCGUCUGCU
+.......((.(((((((............((((((((((....)))))))))).))))))).))(((((((...............)))))))(.((((..........(((((((.((((((((((.........)))))))))))))))))......((((.(((.((((((......))))))))))))))))).). (-52.10)
+>ydiH/rex1
+GAUGAAUCAGUUGCCAUUCUUACAGUGCCAGCAGUUGCCGCUCAAUCCAUUACAGACAGAUUGGUCGCAUUAGGAAUCAAGGGAAUCCUUAAUUUUACGCCGGCCCGUUUGAAUGUGCCGGAACACAUUCGAAUUCAUCAUAUAGAUUUAGCAGUUGAGCUUCAGUCACUGGUUUAUUUUUUGAAGCAUUAUUCAGUUUU
+(((((((((((...............(((.((...(((.((.(((((...........))))))).)))...(((((.((((....)))).)))))..)).)))..(((((((((((......)))))))))))..........((((.(((......)))..)))))))))))))))..(((((......))))).... (-43.80)
+>rpsL
+GUGCUCGAAAUAAACCUGUUACUUUGGAGGAUAUGUUUAUGUCUUAUGAUAAAGUAUCACAGGCCAAAUCAAUUAUUAUUGGUACGAAGCAAACAGUGAAAGCUCUAAAGCGAGGUUCAGUAAAGGAAGUAGUCGUUGCAAAAGACGCAGAUCCGAUACUCACGUCAAGUGUUGUUUCA
+((((.((((((((.((((((((((((..((((((....)))))).....)))))))..))))).........))))).)))))))(((((((.((.(....(((....)))((.((..((((..(((..(.(.((((......))))))..)))..)))).)).)).).))))))))). (-37.40)
+>rpoB
+CAAUAUCUAUGUAUAAAUUAUACAAGUAUGGAAAUGCUAAUAAAAUCGGUAUUUGUUUUUGGAUGUGGUUUUCUUAAUUAGAAACCCUUUUUUCUUUUGUCUUGUAAAAGUAUUUUCUUUCUUUGGAAGAAAUGCUUAUUACACAUAUAAUACGCAUGAUUUGAGGGGUGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+..(((((((............((((((((.((.............)).))))))))...)))))))...(((((.....)))))(((((...((...(((..(((((((((((((.(((((...))))))))))))).)))))........)))...))...))))).(((((.((((((....)))))).))))).... (-40.20)
+>pyrG
+UGGGCUCUUCAAAAACGAAGAGAGAACAUAGUACGUUAUGCUCCCUUUCAAGAAAUUGAAAGGGAGCUUUCUUAUUUUCACCCCUCAUUUUUCUUAUAAAUCAUUUAAAAGGCUAAAUGAUUUUUUAUAAAAUAGUACAUUUUAAAAAUGUAGCUAAGAGCGAAGAGAGGAGCAAACGAAAUGACGAAAUAU
+....((((((......))))))...........((((((((((((((((((....))))))))))))...............((((.((((.(((..((((((((((......)))))))))).........((((((((((...)))))).)))).))).)))).))))..........))))))...... (-50.00)
+>ruvA
+AGCAGGUAAGACAGGCUAUUCGCGAGGAUCGUCUGGGUGAUUUCAGAGAAGAGUUCUUUGAGCGUUACGGCUAUAACAAGCCAAAUGCGAAAAGCUUCUAAAUAAACAUAACAGGCUUACAGAAAGGGGUGAAAAUGAUGACUGGC
+(((..((...))..)))....((.((.((((((((.(((.((....(((((....((((..(((((..((((......)))).)))))..)))))))))....)).)))..)))))((((........))))....)))..)).)) (-31.70)
+>tagA
+GCUUGAUUUUGCUUUUAGAAACUCUCGGUUUUUAACUAUAUAAAUAGAAUCUUAAAGGAAGGAGGAGCCAGACAUGCAAACAGAGACUAUUCACAAUAUUCCUUAUGUUAAC
+((((..((((.((((((((((((...)))))))).((((....))))......)))).))))..))))..((((((.....((.((.((((...)))).))))))))))... (-13.30)
+>ybfG
+AAGUCGCUACCGCAUUAUCUGCUAUGUUACUGGCCAUUUUUGCUUAUUAUACUAGCUAACUUUAAUACAAAACUGCAUGAACAUAAGUUAAAAUAUGCUCAUGCAGUUUUUUUAGUUUAUCUAUCGUCUUUUGGAGGUUUAUCAAAAAUGAAAAAUGAUCAAAUAGUUUUUGAAAAAACAAAAAACAUCGCUCAUGAUAU
+.....((....))(((((..((.(((((.............(((.........)))............((((((((((((.((((........)))).)))))))))))).........((((........)))).((((.((((((((................))))))))..))))....))))).))..))))).. (-34.70)
+>ffh
+CUGCUUAAGCAGUUUGAUGAAAUGAAAAAAAUGAUGAAGCAGAUGACAAACAUGUCAAAAGGCAAGAAAAAAGGGUUUAAGCUACCUUUUAUGUAAUCGGUUAUACAUGAUAAAACCGUUGUUAAGAAAAAACACUUUACAAACACUUUUAUCAUUGUUAAUAUACUAUCUUGUUGAAAUAUUUUCGGAGGUGCUAGUAA
+.((((..((((.(((..(((((.......(((((((((((...(((((....)))))....))......(((((((.......))))))).......(((((...........)))))((((.(((........))).)))).....))))))))).((((((........)))))).....)))))))).)))))))). (-33.70)
+>yonR
+AAUUGCUGGAUAUAAUGGAAUGAUCUCGGAAGAGCAAGCUAAAGAGUUACUGUAUUAUCUUUUAAAAAAAGAGUUCGAAGAACAUUAGUAGCUAUUCUUAAUUCUUCUGGUAAAACAUUUGUUUAAUAAAAAGAAAACAAACUGUUUAACACCAUUAAGUUAAAUGAAAGAAAAGAAAAAAUAACUGGAGUAAAAAGGGG
+........(((.((((((........((((((((.(((......((((((((.....(((((.((........)).)))))....))))))))...)))..))))))))((.((((((((((((..........))))))).))))).)).)))))).)))....................................... (-28.70)
+>yqhL
+AAUCAGUUUAUCAAACUGUCGGGAAAAUGAAAAAUAUUUUAGUUCCAUUAUAGAUGACAAUCACGCUGUGCUUUACUAUAAUAGUAUUUGUCGAAAACGGCUCUAUGACCUUGUUUUAUGAAGCAGGGUUUUGAUUUUAUAUGCUAAAGGAGUAGAAUCACAUUGUCUAAUAUGAUCGUUUUGAUUAUUUUUGCUGCAUU
+...((((((...))))))..(.((((((((........((((..(.((((((...(((((......((((.((((((....((((((..((((....)))).....((((((((((....))))))))))..........))))))....))))))..)))))))))...)))))).)..)))))))))))).)...... (-37.40)
+>dltA
+GCAAUUAAUGAAACAGCUGUAUGAAAAACCCGCUGUCAAGUGGACAUGUCAUACAGGCUUUUAUUUGAUGAUACUGCUUGUUUUGUUUUUUAUGUAUGGUUUUCACACCGCGAAUACCGGUUCAUAUAUUUAUAACGAUUUCUAAUUGGAGAGAGAAUAACUAUGAAACUUUUACAUGCUAUUCAAACACAUGCGGAAAC
+...(((((..(((.((((((((((.....(((((....))))).....))))))).))))))..)))))....((((.(((((((..(..((((((.(((.(((.......))).)))((((((((...((((..(..(((((....)))))..).)))).)))).))))..))))))..)..)))).))).)))).... (-43.20)
+>dusC
+UUUUAUCCAAAAAGUUCAAAAGCAAGGCCACUAAGAAAGACGAAGGUCAGCGCCAGUUAACCAGAAUAUAAAAAAUAGGGUAGAUAAUCAUCCCACGUGAAAUCUUCAAAAUUUACUAUAGAUUGAUAAGAAAUGCUUUCGCAUGCGAUAAGUGUAAAAGAAGCAUGGUCAGUUUUUAAUUUGGGAUAAAGGUUCAGCCG
+.(((((((...(((((.((((((..((((...............(((.(((....))).)))...............(((...........)))........((((...((((((...))))))...)))).(((((((...((((.....))))....))))))))))).))))))))))).)))))))(((...))). (-35.70)

@@ -1,0 +1,127 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+rpsl_pseudofirmus           ---------------------------------------AAGUGUGCCUC
+rpsl_clausii                -----------------------------------------GUGCCUGAU
+rpsl_cellulosilyticus       ----------------------------------------AGUGUGCCAA
+rpsl_smithii                ------------------------------------------UCCUAUCU
+rpsl_simplex                ----------------------------------------GCUCCUAUGU
+rpsl_amyloliquefaciens      ---------------------------------------UGCUCGAAAUA
+rpsl_atrophaeus             --------------------------------------GUGCUCGAAUUA
+rpsl_subtilis               --------------------------------------GUGCUCGAAAUA
+rpsl_pumilus                --------------------------------------GUGCUCAAAAUA
+rpsl_licheniformis          -------------------------------------GGUGCUCAAUUUA
+rpsl_glycinifermentans      -------------------------------------GGUGCUCAAUUUA
+rpsl_methanolicus           ------------------------------------AGGUGCUUCAAUUA
+rpsl_oceanisediminis        --------------------------------------GUGCUCCUAUUC
+rpsl_horikoshii             ------------------------------------AGGUGCUUAUAUA-
+rpsl_megaterium             ----------------------------------------GCUCCUAUAA
+rpsl_cytotoxicus            ---------------------------------CAAGGUUGCUCCUGAA-
+rpsl_anthracis_ames         ---------------------------------CAAGGUUGCUCCUGAA-
+rpsl_anthracis_sterne       UUGACAUUGUAUGAGUCAAAAUGUUACUAUAAGCAAGGUUGCUCCUGAA-
+rpsl_thuringiensis          UUGACAUUGUAUGAGUCAAAAUGUUACUAUAAGCAAGGUUGCUCCUGAA-
+rpsl_mycoides               -----------UGAGACAAAAUGUUACUAUAAUCAAGGUUGCUCCUGAA-
+rpsl_cereus                 ------------------AAAUGUUACUAUAAUCAAGGUUGCUCCUGAA-
+rpsl_flexus                 -----------------GGAAUGAUACUAUA-UCAAAGGUGCUCCUAUAA
+rpsl_weihaiensis            ----------------UCCGAUGUUACUAUAUUCAAGGUGUCAAUCUAAA
+                                                                              
+
+rpsl_pseudofirmus           AGAACCUGUUGCUUUGGAGGAUGA---ACAAUGUCUUAUGAAAAAGUAAA
+rpsl_clausii                GAGGCCUGUUGCUUUGGAGGAUGAGA-AUGAUGUCUUAUGAAAAAGUGGA
+rpsl_cellulosilyticus       AUAACCUGAUGCUUUGGAGGAUUG-A-GAGAUGUCUUAUGAAAAAGUAGU
+rpsl_smithii                AUACCUUGUUACUUUGGAGGAUGUUUCAAUAUGUCUUAUGAAAAAGUAGC
+rpsl_simplex                -UACCCUGUAACUUUGGAGGAUAUGG-ACCAUGUCUUAUGAAAAAGUAAU
+rpsl_amyloliquefaciens      AAA-CCUGUUACUUUGGAGGAUAU-G-UUUAUGUCUUAUGAUAAAGUAUC
+rpsl_atrophaeus             AA--CCUGUUACUUUGGAGGAUAU-G-UUUAUGUCUUAUGAUAAAGUAUC
+rpsl_subtilis               AA--CCUGUUACUUUGGAGGAUAU-G-UUUAUGUCUUAUGAUAAAGUAUC
+rpsl_pumilus                AAA-CCUGUUACUUUGGAGGAUAU---UCGAUGUCUUAUGAUAAAGUAUC
+rpsl_licheniformis          AA--CCUGUUACUUUGGAGGAUAU-A-U-GAUGUCUUAUGAUAAAGUAUC
+rpsl_glycinifermentans      AA--CCUGUUACUUUGGAGGAUGU-A-U-AAUGUCUUAUGAUAAAGUAUC
+rpsl_methanolicus           ----CCUGUUACUUUGGAGGAUAU-A-UAUAUGUCUUAUGAAAAAGUAUC
+rpsl_oceanisediminis        A---CCGGAUACUUUGGAGGAUGUCG-UAAAUGUCUUAUGAUAAAGUAUU
+rpsl_horikoshii             A---CCUGUUGCUUUGGAGGAUAU-G-UUAAUGUCUUAUGAAAAAGUGAU
+rpsl_megaterium             ACUACCUGUUACUUUGGAGGAUAU-G-AUAAUGUCUUAUGAAAAAGUAUU
+rpsl_cytotoxicus            ------CGAUGCUUUGGAGGAUAUGUA--UAUGUCUUAUCAAAAAGUAUC
+rpsl_anthracis_ames         ------CGAUGCUUUGGAGGAUAUUUA--UAUGUCUUAUCAAAAAGUGUC
+rpsl_anthracis_sterne       ------CGAUGCUUUGGAGGAUAUUUA--UAUGUCUUAUCAAAAAGUGUC
+rpsl_thuringiensis          ------CGAUGCUUUGGAGGAUAUUUA--UAUGUCUUAUCAAAAAGUGUC
+rpsl_mycoides               ------CGAUGCUUUGGAGGAUAUUUA--AAUGUCUUAUCAAAAAGUGUC
+rpsl_cereus                 ------CGAUGCUUUGGAGGAUAUUUA--UAUGUCUUAUCAAAAAGUAUC
+rpsl_flexus                 ACUACCUGUUGCUUUGGAGGAUAUGAU--AAUGUCUUAUGAAAAAGUAUC
+rpsl_weihaiensis            ----CCUGUUGCUUUGGAGGAUAUUUCACUAUGUCUUAUGAAAAAGUAUC
+                                   *   ***********        ********* * *****   
+
+rpsl_pseudofirmus           GCAGGCUAGUAACCUUAUUAUAGGUACUAAGCAAACAUUAAAGGCGCUAG
+rpsl_clausii                GCAGGCAAAAGAUCCGAUUAUCGGUAAGAAACAGACACAAAAAGCUUUAC
+rpsl_cellulosilyticus       GCAGGCAACGGAAAGAGUCGUUGGCACGAAACAAACGAUUAAAGCACUGG
+rpsl_smithii                ACAGGCAAAAAAAGUGAUUAUAGGAACAAAACAAACAGCAAAAGCCAUCA
+rpsl_simplex                ACAGGCAAAGUCAGUGAUUAUAGGGACGAAACAAGCAGUUAGAGCUCUUA
+rpsl_amyloliquefaciens      ACAGGCCAAAUCAAUUAUUAUUGGUACGAAGCAAACAGUGAAAGCUCUGA
+rpsl_atrophaeus             GCAGGCCAAAUCAAUUAUUAUUGGUACGAAGCAAACAGUGAAAGCUCUAA
+rpsl_subtilis               ACAGGCCAAAUCAAUUAUUAUUGGUACGAAGCAAACAGUGAAAGCUCUAA
+rpsl_pumilus                ACAGGCCCAAUCCAUUAUUAUUGGUACGAAGCAAACAGUAAAAGCUCUGA
+rpsl_licheniformis          ACAGGCUCAAUCUAUUAUUAUCGGUACGAAGCAGACAGUCAAAGCACUGA
+rpsl_glycinifermentans      ACAGGCUCAAUCUAUUAUUAUCGGUACGAAGCAGACAGUUAAAGCUCUCA
+rpsl_methanolicus           ACAGGCUAGAAACAUUAUUGUAGGAACAAAGCAAGCAGUGAAAGCUCUUA
+rpsl_oceanisediminis        GCAGGCUAAAAGUUUUAUUGUAGGAACAAAGCAAACAGUCAAGGCUCUCA
+rpsl_horikoshii             GCAGGCAAACACCUUCAUUGUUGGUACAAAACAAACGGUGAAGGCGCUGA
+rpsl_megaterium             ACAGGCUGAUCAUAUUAUUGUAGGAACAAAGCAGACGGUGAAAGCAUUAA
+rpsl_cytotoxicus            AAAUGCGGAAAAUGUUAUCGUUGGUCAUAAACGAACGUUGAAAGCAAUCA
+rpsl_anthracis_ames         AAAUGCUGAAAAUGUAGUCGUUGGUCAUAAACGUACAUUGGAAGCAAUCA
+rpsl_anthracis_sterne       AAAUGCUGAAAAUGUAGUCGUUGGUCAUAAACGUACAUUGGAAGCAAUCA
+rpsl_thuringiensis          AAAUGCUGAAAAUGUAGUCGUUGGUCAUAAACGUACAUUGGAAGCAAUCA
+rpsl_mycoides               AAAUGCUGAAAAUGUAGUCGUUGGUCAUAAACGAACAUUGGAAGCAAUCA
+rpsl_cereus                 AACUGCUGAAAAUGUAGUCGUUGGUCAUAAACGCACAUUGGAAGCAAUCA
+rpsl_flexus                 ACAGGCUGAUCAUAUUAUUGUAGGAACUAAGCAGACAGUGAAAGCUUUAA
+rpsl_weihaiensis            ACAGGCAAGUAAAAUUAUUGUUGGUACUAAGCAAUCAGUGAAAGCUCUAU
+                                **           *  * **    ** *   *       **  *  
+
+rpsl_pseudofirmus           AGAUCGGUGAGGUUUGUGAACUGGUUGUAGCAGAAGAUGCUGAUACUCGU
+rpsl_clausii                ACGCUCGUUUAGUCAGUGAAUUGUACGUGGCAAAAGACGCUGACCCACGA
+rpsl_cellulosilyticus       AAGAUAAGCAGGUAAAAGAAGUCAUCGUAGCAGAGGAUGCCGAUGCGAAA
+rpsl_smithii                AGAAUAAUCGUGCCCUAGAAGUAGUCGUUGCUUCCGACGCUGAUAGCAGA
+rpsl_simplex                AAAACAAUUUAAUUCAAGAAGUUAUCAUCGCUGAUGAUGCAGAUA-UAUA
+rpsl_amyloliquefaciens      AACGAGGUUCAGUGAAGGAAGUCGUCGUGGCAAAAGACGCGGAUUCAGUU
+rpsl_atrophaeus             AACGAGGUUCAGUAAAGGAAGUCGUCGUUGCAAAGGACGCUGAUCCCAUU
+rpsl_subtilis               AGCGAGGUUCAGUAAAGGAAGUAGUCGUUGCAAAAGACGCAGAUCCGAUA
+rpsl_pumilus                AACGAGAUUCAGUAAAGGAAAUCGUCGUAGCGAAAGAUGCUGAUCCUGCU
+rpsl_licheniformis          AGCGCAAUUCUGUUAAGGAAGUCGUCGUAGCAAAGGACGCUGAUCCUUGU
+rpsl_glycinifermentans      AACGCAAUUCUGUCAAAGAAGUUGUCGUAGCGAAAGACGCAGAUCCUUGU
+rpsl_methanolicus           AAUCAGGGAUAGUAAUGGAACUUGUGAUAGCCGACGAUGCUGAUCCAAAU
+rpsl_oceanisediminis        AACUGGGAACAAUUGAUGAAGUCGUAGUCGCCAGUGAUGCUGAUCCUAGG
+rpsl_horikoshii             AAUCCGGAACAGUAAAAGAGGUUGUCAUUGCAGAGGACGCGGAUGUGAUU
+rpsl_megaterium             AAAAAGGUACAGUAAAGGAAGUCAUCAUUGCUGAAGACGCUGAUUUUUAU
+rpsl_cytotoxicus            AAAAUGGUAUAGUUAAAGAGGUUGUCGUUGCGGAAGAUGCUGACAUGCGG
+rpsl_anthracis_ames         AAAAUGGUAUAGUUAAAGAAGUUGUCAUUGCAGAAGAUGCUGAUAUGCGG
+rpsl_anthracis_sterne       AAAAUGGUAUAGUUAAAGAAGUUGUCAUUGCAGAAGAU------------
+rpsl_thuringiensis          AAAAUGGUAUAGUUAAAGAAGUUGUCAUUGCAGAAGAU------------
+rpsl_mycoides               AAAAUGGUAUAGUUAAAGAAGUUGUUAUUGCGGAAGAUGCUGAUGUGCG-
+rpsl_cereus                 AAAAUGGUACAGUUAAAGAAGUUGUCAUCGCAGAGGAUGCUGACAUGCGG
+rpsl_flexus                 AAAAAGGAAUUGUAAAGGAAGUUAUACUUGCGGAUAAUGCAGACACCUA-
+rpsl_weihaiensis            UAAACAAUGAAGUUAGAGAGAUAAUCAUUGCUGAAGAUGCUGAUCAUCG-
+                                             **  *     * **     *             
+
+rpsl_pseudofirmus           GUUGUAUACAAA-GUUGAAGCG
+rpsl_clausii                GUUGUGGCAGAC-GUAGUGGAA
+rpsl_cellulosilyticus       GUUCUUCAAAAA-GUGACAUUA
+rpsl_smithii                GUCGUCGAAGCA-GUGAUUCAA
+rpsl_simplex                CUUGACUGGGCGUGUCGUUGAG
+rpsl_amyloliquefaciens      CUUACGGCUGGC-GUUAUCCAG
+rpsl_atrophaeus             CUUACGUCAAGC-GUUAUAAAG
+rpsl_subtilis               CUCACGUCAAGU-GUUGUUUCA
+rpsl_pumilus                UUAACAGCUAGU-GUAACAAAA
+rpsl_licheniformis          CUGACGUCAGGU-GUUAUCAAU
+rpsl_glycinifermentans      CUGACGACAGGU-GUUAUCAAU
+rpsl_methanolicus           GUAACAGCAAAG-GUUAUCGAU
+rpsl_oceanisediminis        GUUACAGCUAAA-GUGGUUAGU
+rpsl_horikoshii             GUCACACAGAAA-GUUGUCCAA
+rpsl_megaterium             GUCACAUCCAUU-GUGGCAAAA
+rpsl_cytotoxicus            UUAACCCAUGUUAUCACUCAG-
+rpsl_anthracis_ames         UUAACCCAUGUUAUCAUUCGC-
+rpsl_anthracis_sterne       ----------------------
+rpsl_thuringiensis          ----------------------
+rpsl_mycoides               ----------------------
+rpsl_cereus                 UUAACC----------------
+rpsl_flexus                 ----------------------
+rpsl_weihaiensis            ----------------------
+                                                  

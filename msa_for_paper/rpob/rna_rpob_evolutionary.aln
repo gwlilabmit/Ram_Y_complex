@@ -1,0 +1,127 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+rpob_licheniformis          ------------GGUUUGUAUAAAAUAUACA-UUAUUGGGAAC--A-CUA
+rpob_glycinifermentans      -----------AGACCUGUAUAAAAUAUACA-UUUUUGGGAAC--G-CUA
+rpob_subtilis               -------CAAUAUCUAUGUAUAAAUUAUACA-AGUAUGGAAAU--G-CUA
+rpob_amyloliquefaciens      -----AUCAUAGUGCAUGUAUAAAUUAUACA-AACAUGGAAAU--G-CUA
+rpob_atrophaeus             ---------------AUGUAUAAUUUAUACA-AGUAUGGAAAU--G-CUA
+rpob_pumilus                -----------------GUAUAAAUUAUGCA-UACUUGGGAAA--A-CUA
+rpob_methanolicus           ---UUCAAUGAGA-GUUGUAUAAAAUUGGUUUUAUAAGGAAAA--A-AUA
+rpob_smithii                -----AAAUAAGCUGAUGGUUAAAUUUUGGGUAUUAUGGAAAA--G-AUA
+rpob_simplex                --UUUUAUACCAUUGGUGUAUAACCAAUGGAUAAUAUGGGAAA--A-AUA
+rpob_megaterium             ----ACAUAAAAUAAAAGGUAUAAUUUUGAAUUAUAUGGGAAA--AACUA
+rpob_flexus                 UUAUACAUAAAAUUGCACGUAUAAUUUGAGAAUGUAUGGGAAA--A-CUA
+rpob_horikoshii             -AAUCAAUAGAGCGAUUGUAAAAACGUGGUUUUCUGUAUUGAA--ACCAU
+rpob_weihaiensis            ----UUGCGUUGUACUUAGAUUUCCUUUGUUUUGAAAGCAGAUU-AAUUG
+rpob_clausii                -------------GGUUCCUG-AUUUUCAUACUAUAA----AGCUUUUUU
+rpob_oceanisediminis        ---------------UCCCUGUACUUUUUCGGGAAAAGUCCAGCUUCUAA
+rpob_anthracis_ames         -------------CAGAAUGAUGGUUUUCUUAUAGAAGCCAUUUUUCUUU
+rpob_anthracis_sterne       -------------CAGAAUGAUGGUUUUCUUAUAGAAGCCAUUUUUCUUU
+rpob_thuringiensis          --------------AGAAUGAUGGUUUUCUUAUAGAAGCCAUUUUUCUUU
+rpob_mycoides               -----------AACAGAAUGAUGGUUUUCUUAUAGAAGCCAUUUUUCUUU
+rpob_cereus                 -----------AACAGAAUGAUGGUUUUCUUAUAGAAGCCAUUUUUCUUU
+rpob_cytotoxicus            -----------AAUAGAGUGAUGGUUUUCUUAUAGAAGCCAUUUUUCUUU
+rpob_pseudofirmus           ------------CUAUGUCAGGUAAUACAAGCUUUAAGCUUAUAUGAGUU
+rpob_cellulosilyticus       -----------------ACUAGUAACGUCUUUUAUGCCUUUACAAAAUUA
+                                                                              
+
+rpob_licheniformis          AUAAAAUCGGUAUUUUGUUUU--UGG----AUGUGGUUUUCUAAA-UUAG
+rpob_glycinifermentans      AUAAAAUCGGUAUUUUGUUUU--UGG----AUGUGGUUUUCUAA--UUAG
+rpob_subtilis               AUAAAAUCGGUAUUU-GUUUU--UGG----AUGUGGUUUUCUUAA-UUAG
+rpob_amyloliquefaciens      AUAAAAUCGGUAUUU-GUUUU--UGG----AUGUGGUUUUCUUAA-UUAG
+rpob_atrophaeus             AUAAAAUCGGUAUUU-GUUUU--UGG----AUGUGGUUUUCUUAA-UUAG
+rpob_pumilus                AUAAAAUCGGUAUUU-GUUUU--UGG----AUGUGGUUUUCUUAUUUUAG
+rpob_methanolicus           ACAAAAUAA-UAGUUCGUAUU-GUGA--AAAUGUGGUUUU-UAA---UAA
+rpob_smithii                AUAUAAUAACUAGUUC---UU-GUGA--AUUUGAGGUUUUCUAA---GAA
+rpob_simplex                UAUAAAUAA-UAGUUCGUUUU-AUGAGAAAUAGUGGUUUUUAAA---AUA
+rpob_megaterium             AUAAAAUCAAUAGUACGUUUUUAUGA--AAUUGUGGUUUUCUAUU-UAAA
+rpob_flexus                 AUAAAAUCAAUAGUACGUUUU-AUGA--AAUUGUGGUUUUCUAUU-UAAA
+rpob_horikoshii             UUUUUAUUUUUAACAUGGAUUCUUUUAGCAGUAUUGUUUUCAUG---UUG
+rpob_weihaiensis            GUAGUAUAUUAGAUAAAGUUUUUCAA--GAGAAUGAUCUUAUGU-----G
+rpob_clausii                GCGGUUUUG-UAUAGUCUCUUCGCAG----AUUCGAUACAAAAACAAGCC
+rpob_oceanisediminis        GCCAGUUCGCUGGCGGCACUUUGCGC----CAUCGGUUCCGGCUCUUUUG
+rpob_anthracis_ames         UUUGAGCAGGUAGAAAGACUCAACGU----AUUUAUCUUUAAGAGAAAAA
+rpob_anthracis_sterne       UUUGAGCAGGUAGAAAGACUCAACGU----AUUUAUCUUUAAGAGAAAAA
+rpob_thuringiensis          UUUGAGCAGGUAGAAAGACUCAACGU----AUUUAUCUUUAAGAGAAAAA
+rpob_mycoides               UUUGAGCAGGUAGAAAGACUCAACGU----AUCUAUCUUUAAGAGAAAAA
+rpob_cereus                 UUUGAGCAGGUAGAAAGACUCAACGU----AUUUAUCUUUAAGAGAAAGA
+rpob_cytotoxicus            UUUGAACAGAUGGAAAGACUCAACGU----AUCUAUCUUUGAGAGAAAAA
+rpob_pseudofirmus           GUGUGAGAAUGCGGCAGUAUAAGUGU----GUACGCAAUCU----AUAAA
+rpob_cellulosilyticus       AGGCUAUCACGCCUUUUUUUUAUUUU----CUAUCCUAUAUUAAUAUAAA
+                                               *                              
+
+rpob_licheniformis          AAACCCUUUUUUCUUUUGUCUUG--UAAAAGUAUU---UCUUACAUAUUU
+rpob_glycinifermentans      AAACCCUUUUUUCUUUUGUCUUG--UAAAAGUAUU---UCUUACAUAUAU
+rpob_subtilis               AAACCCUUUUUUCUUUUGUCUUG--UAAAAGUAUU---UUCUUUCUUU--
+rpob_amyloliquefaciens      AAACCCUUUUUUCUUUUGUCUUG--UAAAAGUAUU---UCUUCAUUGU--
+rpob_atrophaeus             AAACCCUUUUUUCUUUUGUCUUG--UAAAAGUAUUCUCUUUUACUUGUAU
+rpob_pumilus                AAACCCUUUUUUCUUUUGUCUUG--UAAAAGUAUUUCUUUACUGACAUUU
+rpob_methanolicus           AAACCCUUUUUCUUUUUGUCUUA--UGACAGGC-U---UGUCCUGGGU--
+rpob_smithii                AAAACCUUUUUCUUUUUGCCUUAGUUGUUAGGGGC---UAUCCCCGAC--
+rpob_simplex                AAAACCAUUUUCUUUUUGUCU------AUGGAAAU---GAUUCCUUUU--
+rpob_megaterium             GAGACCAUUUUUCUUUUGUUC-----AAUAAUAAA---CAUAUGGUUU--
+rpob_flexus                 GAAACCAUUUUUCUUUUGUUC-----AAUAAUAAA---CA-AUAGUUU--
+rpob_horikoshii             AAUGUUUUUUUAUGUUUGGCUUU-----GAGUGGU--UUAUAUUUUUU--
+rpob_weihaiensis            CGUUCUCUUAUUCGUCUGUCU-----AAAAAUUUUAGGUAUACAUAAC--
+rpob_clausii                UUUUUGUCUGAACGGGUACCUCUGUUUAUAGGUUUUUUUAUGCAGCUU--
+rpob_oceanisediminis        CUUGUUGCCGAUAGGCAGGCGCU--CUAUAGCUUUUCUUAUA-AGAUG--
+rpob_anthracis_ames         AGACUACGCUAAA---UAGCAGUAGUUGUA--UUUAUUUGUG-AUUUU--
+rpob_anthracis_sterne       AGACUACGCUAAA---UAGCAGUAGUUGUA--UUUAUUUGUG-AUUUU--
+rpob_thuringiensis          AGACUACGCUAAA---UAGCAGUAGUUGUA--UUUAUUUGUG-AUUUU--
+rpob_mycoides               A-ACUACGCUAA----UAGCAGUAGUUGUA--UUUAUUUGUG-AUUUU--
+rpob_cereus                 G-ACUACGCUAA----UAGCAGUAGUUGUA--UUUAUUUGUG-AUUUU--
+rpob_cytotoxicus            G--CUACGCUAC----UAGCGUUAGCUAUA--UUUAUUUGUG-AUUUU--
+rpob_pseudofirmus           AAUGUUUA-AUCUGCAAUCUUUUCUUAUGAUCUAUAGGGAGAGAGUAG--
+rpob_cellulosilyticus       AAUAUUUAUGUUUAUCAAAAAUUAUGUCUAUC-AAAGGAGUUACGCAU--
+                                                                              
+
+rpob_licheniformis          G--AGGAAGAAAUGCUUGUUACACAUAUAUUACGCA--UGAUUUGAGGGG
+rpob_glycinifermentans      G--GGGAAGAAAUGCUUGUUACACAUAUAUUACGCA--UGAUUUGAGGGG
+rpob_subtilis               ----GGAAGAAAUGCUUAUUACACAUAUAAUACGCA--UGAUUUGAGGGG
+rpob_amyloliquefaciens      ------AAGGGAUGCUUAUUACACAUAUAAUACGCA--UGAUUUGAGGGG
+rpob_atrophaeus             UU-AAAAAGAAAUACUUAUUACACAUAUAAUACGCA--UGAUUUGAGGGG
+rpob_pumilus                GAAAGGCUGAAAUACUUUUUACACAUAUAAUACGCA--UGAUUUGAGGGG
+rpob_methanolicus           ------AAGGCGCAAAUAG-AUGCAAUUAUUACGCU--UGAUUUGAGGGG
+rpob_smithii                ------AUAA-AAGGAUAG-AUGCAACUAAAACGCU--UGAUUUGAGGGG
+rpob_simplex                ------CCGAGGCAAUUGG-AUCC--UUAUAACGCU--UGAUUUAAGGGG
+rpob_megaterium             ------AUUAUAUAUUUUG-A----AUAAUAACGCU--UGAUUUGAGGGG
+rpob_flexus                 ------AUUAUAUGUCUUG-A----AUAAUAACGCU--UGAUUUGAGGGG
+rpob_horikoshii             ---------GAACUACUAU------UUAAUAACGCU--UGAUACGAGGGG
+rpob_weihaiensis            --------AGUACAAUCGCAA--GAUCUAUUACGCU--UGAUUUGAGGGG
+rpob_clausii                -----AUAAACAGUGUUUUUUAGAUACUAUAACGCG--AGAUUUAAGGGG
+rpob_oceanisediminis        -----AUAUAAAUUGCUAUU-AGCAACAAUAACGCU--UGAUUUGAGGGG
+rpob_anthracis_ames         -----GCACAAAUU-UUUU-GUGCAUUUAUAAUACUCAUGAUUUGAGGGG
+rpob_anthracis_sterne       -----GCACAAAUU-UUUU-GUGCAUUUAUAAUACUCAUGAUUUGAGGGG
+rpob_thuringiensis          -----GCACAAAUU-UUUUUGUGCAUUUAUAAUACUCAUGAUUUGAGGGG
+rpob_mycoides               -----GCACAAAUU-UUUUUGUGCAUUUAUAAUACUCAUGAUUUGAGGGG
+rpob_cereus                 -----GCACAAAUU-UUUU-GUGCAUUUAUAAUACUCAUGAUUUGAGGGG
+rpob_cytotoxicus            -----GCACAAAUU-UUUUUGUGCAUUUAUAAUACUCAUGAUUUGAGGGG
+rpob_pseudofirmus           ------AUGAAGU-CAUUUUUAGAUACUAUAACGCG--AGAUUUGAGGGG
+rpob_cellulosilyticus       ------UUCAUGCGUCCUUUUGAAGAUAAAAACGUU--AGUUUUGAGGGG
+                                                        *  *       * *   *****
+
+rpob_licheniformis          UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_glycinifermentans      UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_subtilis               UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_amyloliquefaciens      UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_atrophaeus             UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_pumilus                UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_methanolicus           UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_smithii                UGAAUCAGUUGACAGGUCAACUAGUUCAAUAC
+rpob_simplex                UGAAUCAGUUGACAGGUCAACUUGUUCAGUAU
+rpob_megaterium             UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_flexus                 UGAAUCAGUUGACAGGUCAACUAGUUCAGUA-
+rpob_horikoshii             UGAAUCAGUUGACAGGUCAACUAGUUCAAUAC
+rpob_weihaiensis            UGAAUGAGUUGACAGGUCAACUAGUUCAGUA-
+rpob_clausii                UGAAUCAGUUGACAGGUCAACUAAUUCAGUAU
+rpob_oceanisediminis        UGAAUCAGUUGACAGGUCAACUAGUUCAGUAU
+rpob_anthracis_ames         UGAAGCAGUUGACAGGUCAACUAGUUCAAUAC
+rpob_anthracis_sterne       UGAAGCAGUUGACAGGUCAACUAGUUCAAUAC
+rpob_thuringiensis          UGAAGCAGUUGACAGGUCAACUAGUUCAAUAC
+rpob_mycoides               UGAAGCAGUUGACAGGUCAACUAGUUCAAUA-
+rpob_cereus                 UGAAGCAGUUGACAGGUCAACUAGUUCAAUAC
+rpob_cytotoxicus            UGAAGCAGUUGACAGGUCAACUAGUUCAAUAC
+rpob_pseudofirmus           UGAAUCAGUUGACAGGUCAACUUGUUCAGUAU
+rpob_cellulosilyticus       UGAAGCAGUUGACAGGUCAACUAGUUCAGUAU
+                            ****  ****************  **** ** 

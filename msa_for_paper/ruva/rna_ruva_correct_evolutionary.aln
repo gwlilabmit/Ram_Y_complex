@@ -1,0 +1,127 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ruva_licheniformis          UUGGAAUUCGUUUAACUUCUUAUCAUAAUCUUUAUUUUCUGUUAAAAUUA
+ruva_glycinifermentans      UUGGAAUUCGUUUAACUUCUUAUCAUAAUCUUUAUUUUCUGUUAAAAUUA
+ruva_anthracis_ames         UCGGAAUUCGUUUAACGUCUUAUCACAACCUUCAUUUUCUGUUAAACUUA
+ruva_anthracis_sterne       UCGGAAUUCGUUUAACGUCUUAUCACAACCUUCAUUUUCUGUUAAACUUA
+ruva_thuringiensis          UCGGAAUUCGUUUAACGUCUUAUCACAACCUUCAUUUUCUGUUAAACUUA
+ruva_cereus                 UCGGAAUUCGUUUAACGUCUUAUCACAACCUUCAUUUUCUGUUAAACUUA
+ruva_cytotoxicus            UCGGAAUUCGUUUAACAUCUUAUCACAAUCUGCAUUUUCUGUUAAACUUA
+ruva_amyloliquefaciens      UUGGAAUUCGAUUAACAACUUACCAUAACCUUCAUUUUCUGUUACACUUA
+ruva_atrophaeus             UCGGUAUCCGAUUAACAACUUAUCAUAAUCUUCAUUUUCUGUUAAACUUA
+ruva_pumilus                UCGGAAUUCGAUUAACAACUUAUCAUAAUCUUCAUUUUCUGUUAAAAUUA
+ruva_simplex                UCGGAAUUCGUCUUACGACUUACCAUAACCUUCAUUUUCUGUUAAACUUA
+ruva_megaterium             UUGGAAUUCGUUUAACAUCUUACCAUAACUUAUAUUUUCUGCUAAACUUA
+ruva_smithii                UGGGAAUUAGGUUGACGACUUACCACAAUCUUUAUUUUCUGUUAAAAUUA
+ruva_methanolicus           UUGGUAUUCGCCUAACAACUUACCACAAUUUAUAUUUUCUGCUAAAAUUA
+ruva_horikoshii             UGGGAAUUAGGCUAACAACUUACCAUAACCUUUAUUUUCUGGUAAAAUUA
+ruva_oceanisediminis        UUGGAAUCAGGCUUACAACUUACCAUAAUCUCUAUUUUCUGCUAAAAUUA
+ruva_pseudofirmus           --------------------------------------------------
+ruva_clausii                --------------------------------------------------
+ruva_subtilis               --------------------------------------------------
+ruva_weihaiensis            --------------------------------------------------
+ruva_flexus                 --------------------------------------------------
+ruva_mycoides               --------------------------------------------------
+ruva_cellulosilyticus       --------------------------------------------------
+                                                                              
+
+ruva_licheniformis          AUGGGGCAAGUGAGAGAUGCCAUUCGUGAAGAUCGUUUAGGUGAUUUCCG
+ruva_glycinifermentans      AUGGGGCAAGUGAGAGAUGCCAUUCGUGAAGAUCGUUUAGGUGAUUUCCG
+ruva_anthracis_ames         AUGGAGCAGGUGAGACAAGCUAUUCGUGAAGACCGUCUUGGCGAUUUCCG
+ruva_anthracis_sterne       AUGGAGCAGGUGAGACAAGCUAUUCGUGAAGACCGUCUUGGCGAUUUCCG
+ruva_thuringiensis          AUGGAGCAGGUGAGACAAGCUAUUCGUGAAGACCGUCUUGGCGAUUUCCG
+ruva_cereus                 AUGGAGCAGGUGAGACAAGCUAUUCGUGAAGACCGUCUUGGCGAUUUCCG
+ruva_cytotoxicus            AUGGAGCAGGUGAGACAAGCCAUUCGUGAAGAUCGUCUUGGCGAUUUCCG
+ruva_amyloliquefaciens      AUGGAGCAGGUCAGACAAGCUAUCCGGGAGGAUCGUCUUGGUGAUUUCCG
+ruva_atrophaeus             AUGGAGCAAGUAAGACAGGCCAUUCGUGAGGAUCGCCUGGGUGAUUUCAG
+ruva_pumilus                AUGGAGCAAGUGAGAGAAGCUAUCCGUGAGGAUCGUUUAGGUGAUUUUAA
+ruva_simplex                AUGGAACAGGUCAGACAAGCUAUUCGAGAAGAUCGUCUUGGAGACUUUAG
+ruva_megaterium             AUGGAGCAAGUCCGUGAAGCCAUUCGCGAAGACCGACUUGGCGAUUUCCG
+ruva_smithii                AUGGAGAAAAUCAGACAAGCUAUCCGGGAAGACCGGCUUGGUGAUUUUAG
+ruva_methanolicus           AUGGAGCAAGUCAGACAAGCGAUCCGCGAAGAUCGGCUUGGAGACUUUCG
+ruva_horikoshii             AUGGAGAAUGUCAGACAAGCGAUCCGCGAAGAUCGUCUGGGGGACUUCAA
+ruva_oceanisediminis        AUGGAGCAGGUAAGACAGGCGAUUAGAGAUGAUCGCUUGGGUGAUUUUAG
+ruva_pseudofirmus           -----ACAGGUAAGACAGGCAAUUCGCGAUGAUCGUUUGCUUGACUUUAG
+ruva_clausii                -----GCAAGUUCGCCAAGCGAUUAUGGAUGACUGCCUUCUUGAUUUUCG
+ruva_subtilis               ----AGCAGGUAAGACAGGCUAUUCGCGAGGAUCGUCUGGGUGAUUUCAG
+ruva_weihaiensis            -----GCAAGUAAGACAAGCUAUCCGUGAAGAUCGUUUAGGUGACUUCCG
+ruva_flexus                 -----GCAAGUCCGUGAAGCUAUUCGCGAAGAUCGAUUAGGUGACUUCCG
+ruva_mycoides               -----GCAGGUGAGACAAGCUAUUCGUGAAGACCGUCUUGGCGAUUUCCG
+ruva_cellulosilyticus       -----AAAUGUGAGAACAGCAAUUAGAGAAGAUCGUCUCUUAGAUUUUAG
+                                   *  *  *    ** **    ** **  *  *    ** **   
+
+ruva_licheniformis          GGAAGAGUUUUUUGAGCGCUACGGUUUUAAUAAACCAAAUGCUAAA----
+ruva_glycinifermentans      CGAAGAGUUCUUUGAGCGGUACGGAUUUAAUAAACCGAAUGCUAAA----
+ruva_anthracis_ames         CGAAGAAUUCUUUGAACAGUAUGGCUUUAAUAAACCGAAUGCUAAA----
+ruva_anthracis_sterne       CGAAGAAUUCUUUGAACAGUAUGGCUUUAAUAAACCGAAUGCUAAA----
+ruva_thuringiensis          CGAAGAAUUCUUUGAACAGUAUGGCUUUAAUAAACCGAAUGCUAAA----
+ruva_cereus                 CGAAGAGUUCUUUGAACAGUAUGGCUUUAAUAAACCGAAUGCUAAA----
+ruva_cytotoxicus            CGAAGAGUUCUUUGAACAGUAUGGCUUUAAUAAACCGAAUGCUAAA----
+ruva_amyloliquefaciens      AGAAGAGUUCUUUGAGCGUUACGGCUAUAAUAAGCCAAAUGCGAAA----
+ruva_atrophaeus             AGAAGAGUUCUUUGAGCGUUACGGCUAUAACAAGCCAAAUGCGAAA----
+ruva_pumilus                AGAAGAGUUUUUUGAGCGUUACGGCUUUAACGAACCGAAUGCGAAA----
+ruva_simplex                GGAAGAGUUUUUUGAGCAAUAUGGUUUCAACGAACCAAAUGCGAGA----
+ruva_megaterium             UGAUGAGUUCUUUGAAAAAUAUGGGUUUAACGGUCCAGACGCAAAG----
+ruva_smithii                AGAAGAGUUUUUUGAACAGUACGGUUUUAAUCGUCCUGAUGCCAAA----
+ruva_methanolicus           AGAAGAGUUUUUUGAAAAAUACGGUUUCAAUAAACCGAAUGCUAAA----
+ruva_horikoshii             AGAAGAGUUUUUUGAGAAAUAUGGAUUCAAUAAACCGAAUGCAAAG----
+ruva_oceanisediminis        AGAAGAGUUUUUCGAAAGGUAUGGAUUCAAUAAGCCUAACGCGAAG----
+ruva_pseudofirmus           AGAAGAGUUUUUUGAACAAUACGGUUUCAAUAAACCGAACGCAAAGAACU
+ruva_clausii                CGAGCAGUUUUUUGAGGAAUACGGCUUUAACAAGGAAAACGCACGCAACU
+ruva_subtilis               AGAAGAGUUCUUUGAGCGUUACGGCUAUAACAAGCCAAAUGCGAAAAGCU
+ruva_weihaiensis            UGAAGAAUUCUUUGAAAAAUACGGUUUUAACAAACCAAAUGCUAAGAAUU
+ruva_flexus                 UGAUGAAUUCUUUGAUAAAUAUGGAUUUAACGGACCAAAUGCAAAAAAUU
+ruva_mycoides               CGAAGAGUUCUUUGAACAGUAUGGCUUUAAUAAACCGAAUGCUAAAAACU
+ruva_cellulosilyticus       AGAAGAAUUUUUUGAAAUGUAUGGUUUUAAUAAACCCAAUGCUAAAAACU
+                             **  * ** ** **    ** ** *  **        * **        
+
+ruva_licheniformis          --------------------------------------------------
+ruva_glycinifermentans      --------------------------------------------------
+ruva_anthracis_ames         --------------------------------------------------
+ruva_anthracis_sterne       --------------------------------------------------
+ruva_thuringiensis          --------------------------------------------------
+ruva_cereus                 --------------------------------------------------
+ruva_cytotoxicus            --------------------------------------------------
+ruva_amyloliquefaciens      --------------------------------------------------
+ruva_atrophaeus             --------------------------------------------------
+ruva_pumilus                --------------------------------------------------
+ruva_simplex                --------------------------------------------------
+ruva_megaterium             --------------------------------------------------
+ruva_smithii                --------------------------------------------------
+ruva_methanolicus           --------------------------------------------------
+ruva_horikoshii             --------------------------------------------------
+ruva_oceanisediminis        --------------------------------------------------
+ruva_pseudofirmus           UCUAAUCAU----AAGCUUGUACAGUAAAGUAUG-GAAAGGGGGGAAUUU
+ruva_clausii                UCUAGUUCUCUAGAAAAGGUGGCGUUAAAGCAAG-GAAAGGGGGGUGUUU
+ruva_subtilis               UCUAAAUAAACAUAACAGGCUUACAGAAAGGGGU-GAAAAUGAUGACUGG
+ruva_weihaiensis            UCUAAUUAUUUGAAAGGGGUGAAAAAAGAAUGGAAUUAUUAGGUACAGUU
+ruva_flexus                 UCUAGGUCAUU-ACAGGGGUUUUUCAUCAACAUA-UGAAUAAGUACCUGU
+ruva_mycoides               UCUAAUACAUA-AUUUAAAAGGAGGAACACAAGA-UGAAUGCAGGUAUGA
+ruva_cellulosilyticus       UUUAAGUUUGGUGAGUAAAAUUGUGUAACAUAUAGGUUAUCUAUUGAUUU
+                                                                              
+
+ruva_licheniformis          ------
+ruva_glycinifermentans      ------
+ruva_anthracis_ames         ------
+ruva_anthracis_sterne       ------
+ruva_thuringiensis          ------
+ruva_cereus                 ------
+ruva_cytotoxicus            ------
+ruva_amyloliquefaciens      ------
+ruva_atrophaeus             ------
+ruva_pumilus                ------
+ruva_simplex                ------
+ruva_megaterium             ------
+ruva_smithii                ------
+ruva_methanolicus           ------
+ruva_horikoshii             ------
+ruva_oceanisediminis        ------
+ruva_pseudofirmus           UGAAUG
+ruva_clausii                CA----
+ruva_subtilis               C-----
+ruva_weihaiensis            U-----
+ruva_flexus                 UGA---
+ruva_mycoides               UGA---
+ruva_cellulosilyticus       U-----
+                                  

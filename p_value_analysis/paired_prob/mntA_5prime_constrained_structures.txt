@@ -1,0 +1,1000 @@
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....((.(((.(((.......)))))).))..........((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.60)
+ free energy of ensemble = -55.49 kcal/mol
+ frequency of mfe structure in ensemble 0.000357115;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....((.(((.(((.......)))))).))..........((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.60)
+ free energy of ensemble = -55.42 kcal/mol
+ frequency of mfe structure in ensemble 0.000401147;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....((.(((.(((.......)))))).))..........((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.60)
+ free energy of ensemble = -55.40 kcal/mol
+ frequency of mfe structure in ensemble 0.000412064;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.67 kcal/mol
+ frequency of mfe structure in ensemble 0.000510597;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.68 kcal/mol
+ frequency of mfe structure in ensemble 0.000503316;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((......((.((((......))))))......)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.80)
+ free energy of ensemble = -55.51 kcal/mol
+ frequency of mfe structure in ensemble 0.00047954;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((......((.((((......))))))......)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.80)
+ free energy of ensemble = -55.42 kcal/mol
+ frequency of mfe structure in ensemble 0.000557983;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.56 kcal/mol
+ frequency of mfe structure in ensemble 0.000607841;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((......((.((((......))))))......)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.80)
+ free energy of ensemble = -55.26 kcal/mol
+ frequency of mfe structure in ensemble 0.000721007;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((....((.(.((((......)))).).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.00)
+ free energy of ensemble = -54.33 kcal/mol
+ frequency of mfe structure in ensemble 0.000894521;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.......(((.(.(((((.....)))...)).).)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.90)
+ free energy of ensemble = -54.38 kcal/mol
+ frequency of mfe structure in ensemble 0.000700787;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.25 kcal/mol
+ frequency of mfe structure in ensemble 0.00101073;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -55.13 kcal/mol
+ frequency of mfe structure in ensemble 0.000397386;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....(((....(.(((........))).)....)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.70)
+ free energy of ensemble = -54.59 kcal/mol
+ frequency of mfe structure in ensemble 0.000359199;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+........(((((..(((...((((....(((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).)))..(((((((((.......((..((((.....)).))..)))))))))))..)))).))).....))))) (-49.60)
+ free energy of ensemble = -54.53 kcal/mol
+ frequency of mfe structure in ensemble 0.000338242;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -54.91 kcal/mol
+ frequency of mfe structure in ensemble 0.00176207;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.08 kcal/mol
+ frequency of mfe structure in ensemble 0.00133918;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.57 kcal/mol
+ frequency of mfe structure in ensemble 0.00059816;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.65 kcal/mol
+ frequency of mfe structure in ensemble 0.000532245;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.63 kcal/mol
+ frequency of mfe structure in ensemble 0.000544238;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.54 kcal/mol
+ frequency of mfe structure in ensemble 0.000632478;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.60 kcal/mol
+ frequency of mfe structure in ensemble 0.000573868;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.......(((.(.(((((.....)))...)).).)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.90)
+ free energy of ensemble = -54.71 kcal/mol
+ frequency of mfe structure in ensemble 0.000408684;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....(((....(.(((........))).)....)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.70)
+ free energy of ensemble = -54.15 kcal/mol
+ frequency of mfe structure in ensemble 0.000734177;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....(((....(.(((........))).)....)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.70)
+ free energy of ensemble = -54.22 kcal/mol
+ frequency of mfe structure in ensemble 0.000648678;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+........(((((..(((...((((....(((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).)))..(((((((((.......((..((((.....)).))..)))))))))))..)))).))).....))))) (-49.60)
+ free energy of ensemble = -54.37 kcal/mol
+ frequency of mfe structure in ensemble 0.000434358;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((....((.(.((((......)))).).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.00)
+ free energy of ensemble = -54.61 kcal/mol
+ frequency of mfe structure in ensemble 0.000563222;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.......(((.(.(((((.....)))...)).).)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.90)
+ free energy of ensemble = -54.69 kcal/mol
+ frequency of mfe structure in ensemble 0.000420934;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.38 kcal/mol
+ frequency of mfe structure in ensemble 0.000825185;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((......((.((((......))))))......)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.80)
+ free energy of ensemble = -54.76 kcal/mol
+ frequency of mfe structure in ensemble 0.00161524;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((......((.((((......))))))......)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.80)
+ free energy of ensemble = -54.81 kcal/mol
+ frequency of mfe structure in ensemble 0.00150519;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.37 kcal/mol
+ frequency of mfe structure in ensemble 0.000838692;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.65 kcal/mol
+ frequency of mfe structure in ensemble 0.000531563;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.30 kcal/mol
+ frequency of mfe structure in ensemble 0.000938614;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....((.(((.(((.......)))))).))..........((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.60)
+ free energy of ensemble = -54.53 kcal/mol
+ frequency of mfe structure in ensemble 0.00171304;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....((.(((.(((.......)))))).))..........((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.60)
+ free energy of ensemble = -55.03 kcal/mol
+ frequency of mfe structure in ensemble 0.000759564;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.....((.(((.(((.......)))))).))..........((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.60)
+ free energy of ensemble = -55.12 kcal/mol
+ frequency of mfe structure in ensemble 0.00065603;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.26 kcal/mol
+ frequency of mfe structure in ensemble 0.000996976;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.27 kcal/mol
+ frequency of mfe structure in ensemble 0.000984473;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.28 kcal/mol
+ frequency of mfe structure in ensemble 0.000965984;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.33 kcal/mol
+ frequency of mfe structure in ensemble 0.000882109;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.90 kcal/mol
+ frequency of mfe structure in ensemble 0.000577753;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.84 kcal/mol
+ frequency of mfe structure in ensemble 0.00063731;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.79 kcal/mol
+ frequency of mfe structure in ensemble 0.00068916;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.80 kcal/mol
+ frequency of mfe structure in ensemble 0.00067451;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.66 kcal/mol
+ frequency of mfe structure in ensemble 0.000518869;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.40 kcal/mol
+ frequency of mfe structure in ensemble 0.000798395;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((((((........))))..(((((((((((....)).))))).)))).........))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -54.73 kcal/mol
+ frequency of mfe structure in ensemble 9.23213e-05;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((....((((((.((((...)))))))))).......(((((...))))).......((((..((((((..(((.....)))...))))))..)))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.70)
+ free energy of ensemble = -53.95 kcal/mol
+ frequency of mfe structure in ensemble 0.000198375;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((....((((((.((((...)))))))))).......(((((...))))).......((((..((((((..(((.....)))...))))))..)))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.70)
+ free energy of ensemble = -54.00 kcal/mol
+ frequency of mfe structure in ensemble 0.000185357;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.56 kcal/mol
+ frequency of mfe structure in ensemble 0.000609445;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.57 kcal/mol
+ frequency of mfe structure in ensemble 0.000604809;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.(((.(((......(((((((..((.(((...))))))))))))...))))))..))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.70)
+ free energy of ensemble = -54.41 kcal/mol
+ frequency of mfe structure in ensemble 9.41795e-05;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.............)))).(((((((((((....)).))))).))))...(((.....)))..).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.70)
+ free energy of ensemble = -54.25 kcal/mol
+ frequency of mfe structure in ensemble 0.00012327;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.............)))).(((((((((((....)).))))).))))...(((.....)))..).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.70)
+ free energy of ensemble = -53.97 kcal/mol
+ frequency of mfe structure in ensemble 0.000194848;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..(((............(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))...)))..)))...)))).. (-49.40)
+ free energy of ensemble = -54.31 kcal/mol
+ frequency of mfe structure in ensemble 0.00034936;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.64 kcal/mol
+ frequency of mfe structure in ensemble 0.000533764;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.63 kcal/mol
+ frequency of mfe structure in ensemble 0.000542603;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.64 kcal/mol
+ frequency of mfe structure in ensemble 0.000539209;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.65 kcal/mol
+ frequency of mfe structure in ensemble 0.000530011;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.66 kcal/mol
+ frequency of mfe structure in ensemble 0.000519391;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.65 kcal/mol
+ frequency of mfe structure in ensemble 0.000532634;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.62 kcal/mol
+ frequency of mfe structure in ensemble 0.000559676;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.63 kcal/mol
+ frequency of mfe structure in ensemble 0.000544661;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.40 kcal/mol
+ frequency of mfe structure in ensemble 0.000792364;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.35 kcal/mol
+ frequency of mfe structure in ensemble 0.000865162;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -54.72 kcal/mol
+ frequency of mfe structure in ensemble 0.00238927;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((.................((((((((....)).))))))(((((..(((.....)))...))))).............(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-48.80)
+ free energy of ensemble = -53.59 kcal/mol
+ frequency of mfe structure in ensemble 0.000424654;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((((((........))))..(((((((((((....)).))))).)))).........))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -54.28 kcal/mol
+ frequency of mfe structure in ensemble 0.000190653;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((.(((((((((((....)).))))))(((((..(((.....)))...)))))))).)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.70)
+ free energy of ensemble = -55.09 kcal/mol
+ frequency of mfe structure in ensemble 0.000801215;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((....((((((((....)).))))))(((((..(((.....)))...)))))....)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.40)
+ free energy of ensemble = -54.48 kcal/mol
+ frequency of mfe structure in ensemble 0.00133183;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((....((((((((....)).))))))(((((..(((.....)))...)))))....)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.40)
+ free energy of ensemble = -54.70 kcal/mol
+ frequency of mfe structure in ensemble 0.000930808;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.51 kcal/mol
+ frequency of mfe structure in ensemble 0.000668787;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.07 kcal/mol
+ frequency of mfe structure in ensemble 0.00136588;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.06 kcal/mol
+ frequency of mfe structure in ensemble 0.00138579;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........((((.....)))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.80)
+ free energy of ensemble = -53.78 kcal/mol
+ frequency of mfe structure in ensemble 0.00155893;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.(((.(((......(((((((.((.((....)).)).)))))))...))))))..))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-47.40)
+ free energy of ensemble = -52.11 kcal/mol
+ frequency of mfe structure in ensemble 0.000478575;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.(((.(((......(((((((..((.(((...))))))))))))...))))))..))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.70)
+ free energy of ensemble = -53.25 kcal/mol
+ frequency of mfe structure in ensemble 0.000626512;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.(((.(((......(((((((..((..........)))))))))...))))))..))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.20)
+ free energy of ensemble = -52.73 kcal/mol
+ frequency of mfe structure in ensemble 0.000644573;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((.(((((((((.........))))))(((((..(((.....)))...)))))))).)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.00)
+ free energy of ensemble = -54.49 kcal/mol
+ frequency of mfe structure in ensemble 0.000689378;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.35 kcal/mol
+ frequency of mfe structure in ensemble 0.000861434;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.58 kcal/mol
+ frequency of mfe structure in ensemble 0.000596102;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.69 kcal/mol
+ frequency of mfe structure in ensemble 0.000499351;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.62 kcal/mol
+ frequency of mfe structure in ensemble 0.000554504;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.61 kcal/mol
+ frequency of mfe structure in ensemble 0.000567724;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.25 kcal/mol
+ frequency of mfe structure in ensemble 0.00101781;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.23 kcal/mol
+ frequency of mfe structure in ensemble 0.00104232;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((.(((((((((((....)).))))))(((((..(((.....)))...)))))))).)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.70)
+ free energy of ensemble = -55.42 kcal/mol
+ frequency of mfe structure in ensemble 0.000474363;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.(((.(((......(((((((.((.((....)).)).)))))))...))))))..))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-47.40)
+ free energy of ensemble = -52.67 kcal/mol
+ frequency of mfe structure in ensemble 0.00019188;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((.(((.(((......((((((...((.(((...))))).))))))...))))))..))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.00)
+ free energy of ensemble = -52.75 kcal/mol
+ frequency of mfe structure in ensemble 0.000447003;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......(((...((((((..(((.....)))...))))))...)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-47.80)
+ free energy of ensemble = -52.47 kcal/mol
+ frequency of mfe structure in ensemble 0.000509117;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.02 kcal/mol
+ frequency of mfe structure in ensemble 0.00147446;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.04 kcal/mol
+ frequency of mfe structure in ensemble 0.00142335;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((...(((((..(((.....)))...)))))...))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.40)
+ free energy of ensemble = -54.18 kcal/mol
+ frequency of mfe structure in ensemble 0.000426012;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((...((((..((((........)))))))).((((((((....)).))))))..(((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.90)
+ free energy of ensemble = -54.80 kcal/mol
+ frequency of mfe structure in ensemble 0.000350772;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((...((((..((((........)))))))).((((((((....)).))))))..(((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.90)
+ free energy of ensemble = -54.46 kcal/mol
+ frequency of mfe structure in ensemble 0.000608751;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.((((..((((........)))))))).((((((((....)).)))))).......(((.....)))....))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.40)
+ free energy of ensemble = -54.21 kcal/mol
+ frequency of mfe structure in ensemble 0.000409298;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.((((..((((........)))))))).((((((((....)).)))))).......(((.....)))....))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.40)
+ free energy of ensemble = -53.92 kcal/mol
+ frequency of mfe structure in ensemble 0.00064869;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.((((..((((........)))))))).((((((((....)).)))))).......(((.....)))....))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.40)
+ free energy of ensemble = -54.60 kcal/mol
+ frequency of mfe structure in ensemble 0.000215937;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.65 kcal/mol
+ frequency of mfe structure in ensemble 0.000524831;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.57 kcal/mol
+ frequency of mfe structure in ensemble 0.000599952;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((...(((....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.80)
+ free energy of ensemble = -54.96 kcal/mol
+ frequency of mfe structure in ensemble 0.000233028;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((((((........))))..(((((((((((....)).))))).)))).........))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -54.44 kcal/mol
+ frequency of mfe structure in ensemble 0.000146084;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.(.((((((((........))))..(((((((((((....)).))))).)))).........))))...).))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -54.06 kcal/mol
+ frequency of mfe structure in ensemble 0.000273343;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.56 kcal/mol
+ frequency of mfe structure in ensemble 0.000607733;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.68 kcal/mol
+ frequency of mfe structure in ensemble 0.000500722;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.69 kcal/mol
+ frequency of mfe structure in ensemble 0.000499227;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.64 kcal/mol
+ frequency of mfe structure in ensemble 0.000539778;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.63 kcal/mol
+ frequency of mfe structure in ensemble 0.000544705;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.((((..((((........)))))))).((((((((....)).))))))...((....))...........))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -53.83 kcal/mol
+ frequency of mfe structure in ensemble 0.000395627;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.((((..((((........)))))))).((((((((....)).))))))...((....))...........))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -53.92 kcal/mol
+ frequency of mfe structure in ensemble 0.000342601;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((...((.....))....))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.80)
+ free energy of ensemble = -54.80 kcal/mol
+ frequency of mfe structure in ensemble 0.000297626;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.68 kcal/mol
+ frequency of mfe structure in ensemble 0.000506538;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.61 kcal/mol
+ frequency of mfe structure in ensemble 0.000565564;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.60 kcal/mol
+ frequency of mfe structure in ensemble 0.000576942;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((((.((((..((((........)))))))).((((((((....)).)))))).......(((.....)))....))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.40)
+ free energy of ensemble = -54.67 kcal/mol
+ frequency of mfe structure in ensemble 0.000192915;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.(((((((..((((..((((........)))))))).((((((((....)).)))))).......(((.....))).....)))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-47.70)
+ free energy of ensemble = -52.46 kcal/mol
+ frequency of mfe structure in ensemble 0.000443189;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((((...((((..((((........)))))))).((((((((....)).))))))...((..(((.....)))...)).))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-46.10)
+ free energy of ensemble = -50.78 kcal/mol
+ frequency of mfe structure in ensemble 0.000502213;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.(((((....((((..((((........)))))))).((((((((....)).))))))..(((..(((.....)))...))).)))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-48.60)
+ free energy of ensemble = -53.24 kcal/mol
+ frequency of mfe structure in ensemble 0.000537668;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((.(((((((((((....)).)))))).((((..(((.....)))...)))).))).)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-49.20)
+ free energy of ensemble = -53.77 kcal/mol
+ frequency of mfe structure in ensemble 0.000603791;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((....((((((((....)).))))))(((((..(((.....)))...)))))....)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.40)
+ free energy of ensemble = -54.62 kcal/mol
+ frequency of mfe structure in ensemble 0.00105602;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.22 kcal/mol
+ frequency of mfe structure in ensemble 0.00106908;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.21 kcal/mol
+ frequency of mfe structure in ensemble 0.00108786;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((..........(((.(((((((((((....)).))))))(((((..(((.....)))...)))))))).)))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.70)
+ free energy of ensemble = -54.82 kcal/mol
+ frequency of mfe structure in ensemble 0.00125229;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((.................((((((((....)).))))))(((((..(((.....)))...))))).............(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-48.80)
+ free energy of ensemble = -53.83 kcal/mol
+ frequency of mfe structure in ensemble 0.000285759;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((.................((((((((....)).))))))(((((..(((.....)))...))))).............(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-48.80)
+ free energy of ensemble = -53.18 kcal/mol
+ frequency of mfe structure in ensemble 0.000822855;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((.................((((((((....)).))))))(((((..(((.....)))...))))).............(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-48.80)
+ free energy of ensemble = -53.65 kcal/mol
+ frequency of mfe structure in ensemble 0.000381796;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.65 kcal/mol
+ frequency of mfe structure in ensemble 0.000530793;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.49 kcal/mol
+ frequency of mfe structure in ensemble 0.000686935;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.53 kcal/mol
+ frequency of mfe structure in ensemble 0.000645732;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.56 kcal/mol
+ frequency of mfe structure in ensemble 0.000608044;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.61 kcal/mol
+ frequency of mfe structure in ensemble 0.000561625;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.51 kcal/mol
+ frequency of mfe structure in ensemble 0.000668392;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).))....))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.00)
+ free energy of ensemble = -54.19 kcal/mol
+ frequency of mfe structure in ensemble 0.00111944;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).).))))....)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -54.02 kcal/mol
+ frequency of mfe structure in ensemble 0.000289738;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).).))))....)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -54.21 kcal/mol
+ frequency of mfe structure in ensemble 0.000214193;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).).))))....)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-49.00)
+ free energy of ensemble = -54.31 kcal/mol
+ frequency of mfe structure in ensemble 0.000180623;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.91 kcal/mol
+ frequency of mfe structure in ensemble 0.000560567;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.......(((((.((((((.((((....((((((.(((((......((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))...(.((((....)).)).)....))))).))))))...)))))))))).)))))((..((.((...)).))..)).... (-48.30)
+ free energy of ensemble = -53.35 kcal/mol
+ frequency of mfe structure in ensemble 0.000278055;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.......(((((.((((((.((((....((((((.(((((......((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))...(((((.....))).)).....))))).))))))...)))))))))).)))))((..((.((...)).))..)).... (-48.80)
+ free energy of ensemble = -52.60 kcal/mol
+ frequency of mfe structure in ensemble 0.00210397;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.......(((((.((((((.((((....((((((.(((((......((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))..((((((.....))).)))....))))).))))))...)))))))))).)))))((..((.((...)).))..)).... (-48.90)
+ free energy of ensemble = -52.88 kcal/mol
+ frequency of mfe structure in ensemble 0.00155996;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......((((((((.......(((..((((.....)).))..)))))))))))..))))..)))...)))).. (-50.80)
+ free energy of ensemble = -54.88 kcal/mol
+ frequency of mfe structure in ensemble 0.00134058;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.49 kcal/mol
+ frequency of mfe structure in ensemble 0.000684411;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.68 kcal/mol
+ frequency of mfe structure in ensemble 0.000502251;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.57 kcal/mol
+ frequency of mfe structure in ensemble 0.000597973;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.56 kcal/mol
+ frequency of mfe structure in ensemble 0.000613422;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.60 kcal/mol
+ frequency of mfe structure in ensemble 0.000574015;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.59 kcal/mol
+ frequency of mfe structure in ensemble 0.000579197;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.51 kcal/mol
+ frequency of mfe structure in ensemble 0.000668831;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((..((((....)))).....(((...))).)))))))))..))))..)))...)))).. (-50.30)
+ free energy of ensemble = -54.45 kcal/mol
+ frequency of mfe structure in ensemble 0.00118105;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((..((((....)))).....(((...))).)))))))))..))))..)))...)))).. (-50.30)
+ free energy of ensemble = -54.38 kcal/mol
+ frequency of mfe structure in ensemble 0.00133468;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.44 kcal/mol
+ frequency of mfe structure in ensemble 0.000741033;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.39 kcal/mol
+ frequency of mfe structure in ensemble 0.000812272;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -55.02 kcal/mol
+ frequency of mfe structure in ensemble 0.000470394;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.((((...............)))).....)))))))))..))))..)))...)))).. (-48.60)
+ free energy of ensemble = -53.67 kcal/mol
+ frequency of mfe structure in ensemble 0.000268498;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((..........))..)))))))))))..))))..)))...)))).. (-50.20)
+ free energy of ensemble = -54.23 kcal/mol
+ frequency of mfe structure in ensemble 0.00144924;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((..((((....)))).....(((...))).)))))))))..))))..)))...)))).. (-50.30)
+ free energy of ensemble = -54.57 kcal/mol
+ frequency of mfe structure in ensemble 0.000976364;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.69 kcal/mol
+ frequency of mfe structure in ensemble 0.000499277;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.69 kcal/mol
+ frequency of mfe structure in ensemble 0.000498687;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.68 kcal/mol
+ frequency of mfe structure in ensemble 0.000503533;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.68 kcal/mol
+ frequency of mfe structure in ensemble 0.000504909;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.62 kcal/mol
+ frequency of mfe structure in ensemble 0.000557016;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((..........))..)))))))))))..))))..)))...)))).. (-50.20)
+ free energy of ensemble = -54.29 kcal/mol
+ frequency of mfe structure in ensemble 0.00132103;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((..........))..)))))))))))..))))..)))...)))).. (-50.20)
+ free energy of ensemble = -54.47 kcal/mol
+ frequency of mfe structure in ensemble 0.000983683;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.11 kcal/mol
+ frequency of mfe structure in ensemble 0.00126787;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....))).)..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.01 kcal/mol
+ frequency of mfe structure in ensemble 0.00149817;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....))))...)))))))))))..))))..)))...)))).. (-50.90)
+ free energy of ensemble = -54.95 kcal/mol
+ frequency of mfe structure in ensemble 0.00139182;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.41 kcal/mol
+ frequency of mfe structure in ensemble 0.000779481;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.40 kcal/mol
+ frequency of mfe structure in ensemble 0.000797436;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((...........((((.....)))).....)))))))))..))))..)))...)))).. (-49.40)
+ free energy of ensemble = -54.11 kcal/mol
+ frequency of mfe structure in ensemble 0.000482298;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((..((((....)))).....(((...))).)))))))))..))))..)))...)))).. (-50.30)
+ free energy of ensemble = -54.37 kcal/mol
+ frequency of mfe structure in ensemble 0.00135028;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.85 kcal/mol
+ frequency of mfe structure in ensemble 0.00062475;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((....((.......))..)).)))).))). (-49.70)
+ free energy of ensemble = -54.47 kcal/mol
+ frequency of mfe structure in ensemble 0.00043479;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((....((.......))..)).)))).))). (-49.70)
+ free energy of ensemble = -54.50 kcal/mol
+ frequency of mfe structure in ensemble 0.000414696;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((....((.......))..)).)))).))). (-49.70)
+ free energy of ensemble = -54.55 kcal/mol
+ frequency of mfe structure in ensemble 0.000382715;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.72 kcal/mol
+ frequency of mfe structure in ensemble 0.00076863;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.85 kcal/mol
+ frequency of mfe structure in ensemble 0.000619274;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.82 kcal/mol
+ frequency of mfe structure in ensemble 0.000653619;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.83 kcal/mol
+ frequency of mfe structure in ensemble 0.000641333;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.91 kcal/mol
+ frequency of mfe structure in ensemble 0.000567175;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.62 kcal/mol
+ frequency of mfe structure in ensemble 0.00055604;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.63 kcal/mol
+ frequency of mfe structure in ensemble 0.000549608;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((....((.......))..)).)))).))). (-49.70)
+ free energy of ensemble = -54.77 kcal/mol
+ frequency of mfe structure in ensemble 0.000267336;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((....((.......))..)).)))).))). (-49.70)
+ free energy of ensemble = -54.69 kcal/mol
+ frequency of mfe structure in ensemble 0.000303708;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.......(((((.((((((.((((....((((((.(((((......((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))..((((((.....))).)))....))))).))))))...)))))))))).)))))((..((.((...)).))..)).... (-48.90)
+ free energy of ensemble = -54.31 kcal/mol
+ frequency of mfe structure in ensemble 0.00015326;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.73 kcal/mol
+ frequency of mfe structure in ensemble 0.000761515;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.64 kcal/mol
+ frequency of mfe structure in ensemble 0.000539425;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.57 kcal/mol
+ frequency of mfe structure in ensemble 0.000597662;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).)))....(((...)))(((((..((.....)).....))))).... (-49.10)
+ free energy of ensemble = -54.20 kcal/mol
+ frequency of mfe structure in ensemble 0.00025436;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).)))....(((...)))(((((..((.....)).....))))).... (-49.10)
+ free energy of ensemble = -54.33 kcal/mol
+ frequency of mfe structure in ensemble 0.000205552;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -54.90 kcal/mol
+ frequency of mfe structure in ensemble 0.000569913;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.52 kcal/mol
+ frequency of mfe structure in ensemble 0.000651161;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.48 kcal/mol
+ frequency of mfe structure in ensemble 0.000694871;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.38 kcal/mol
+ frequency of mfe structure in ensemble 0.000823588;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))..).))).. (-50.10)
+ free energy of ensemble = -54.95 kcal/mol
+ frequency of mfe structure in ensemble 0.000384224;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).))).....(((((((((.(((.......)))...)).)))).))). (-50.30)
+ free energy of ensemble = -55.04 kcal/mol
+ frequency of mfe structure in ensemble 0.000458686;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+.........(((.((((.....((((((((((.(((.((((.....((((..((((........)))))))).((((((((....)).))))))(((((..(((.....)))...)))))))))))).....))))).)))))......)))).)))....(((...)))(((((..((.....)).....))))).... (-49.10)
+ free energy of ensemble = -54.63 kcal/mol
+ frequency of mfe structure in ensemble 0.000126678;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...))).....(((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))... (-49.80)
+ free energy of ensemble = -54.59 kcal/mol
+ frequency of mfe structure in ensemble 0.000421216;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.33 kcal/mol
+ frequency of mfe structure in ensemble 0.000888073;
+>mntA
+AAGAAAAGAGGUGGAGGAUAUGUUCCCUGUUGAGCUUGAUAAUGUGACGGUUGCUUAUCAUAAAAAGCCUGUACUGCAGGACAUUUCGCUGCAGGUGCCUGAAGGAAAACUUAUUGGCAUUAUCGGCCCAAACGGCGCGGGAAAAUCAACCUUGAUCAAAACGAUUCUCGGUCUUGUGCCCAGAGCUUCCGGAGACAUCU
+(((..((.(((.(((.......)))))).))...)))....((((..(((..((((...........(((((...))))).......((((..((((((..(((.....)))...))))))..))))......(((((((((.......((..((((.....)).))..)))))))))))..))))..)))...)))).. (-51.00)
+ free energy of ensemble = -55.60 kcal/mol
+ frequency of mfe structure in ensemble 0.000574791;
