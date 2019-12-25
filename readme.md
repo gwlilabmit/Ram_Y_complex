@@ -2,6 +2,7 @@
 
 This is meant to act as an accompaniment to the paper. Below you will find detailed instructions for recreating each figure/means of analysis presented in the paper. 
 
+### Figure 1
 ![Figure 1](figures/fig1.png)
 
 Should you want rend-seq visualizations of the 200nt windows I've been using, look no further than rend\_seq/. I've included the following wigs [all libraries prepared from cells in LB exponential]: 
