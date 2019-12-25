@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import mstats
 
 '''
-This script gives you isoform levels upstream and downstream of the cleavage site based on rend-seq data. You specify the location of the cleavage site, the script calculates the upstream and downstream isoform levels [average read counts, excluding zero-value reads is set as the default but you can change that] and plots this in a bar plot.   
+This script plots data for the 5 S. aureus sites of interest. The 6th site corresponds to the sequence TACTTACTAAATTTTATTTAACCTAAAAATGAACCACCTGGATGTGTGGG and doesn't appear to be Y-dependent.
 '''
 
 ####opening rend-seq files######
@@ -21,8 +21,6 @@ rend_reverse_3 = open("staph_ylbf_3_r.wig", "r")
 
 #open bedfile with indices pertaining to the window of interest as well as a text file for output. Again, change path as needed. 
 bedfile=open("staph_sites.bed12", "r")
-#sequence=open("21_cleavage_windows_final.txt", "r")
-'''output = open("dms_windows.txt", "w")'''
 
 ######initializing arrays######
 
@@ -133,34 +131,9 @@ for i in range(len(starting)):
 	downstream = normalizedreadcounts[cleavage+offset:-offset-1] #exclude the number of nts specified by offset from each side of the window to normalize	
 	upstream = normalizedreadcounts[offset:cleavage-offset-1] #the -1 here accounts for python's indexing here and in downstream
 
-	'''
-	In case you want to include zero-valued reads in the mean, use this and comment out the section below:  
-	'''
 	averagedownstream = np.mean(downstream) #Get average reads downstream of the cleavage site
 	averageupstream = np.mean(upstream)
 	
-	'''
-	#it might help to get rid of zeros to get a more accurate mean value. 
-	downstreamwithoutzeros = []
-	for i in range(len(downstream)): 
-		if downstream[i]>0: 
-			downstreamwithoutzeros.append(downstream[i])
-
-	upstreamwithoutzeros = []
-	for i in range(len(upstream)): 
-		if upstream[i]>0: 
-			upstreamwithoutzeros.append(upstream[i])
-
-	if len(downstreamwithoutzeros)>0: 	
-		averagedownstream = np.mean(downstreamwithoutzeros) #Get average reads downstream of the cleavage site
-	else: 
-		averagedownstream=0
-	
-	if len(upstreamwithoutzeros)>0:
-		averageupstream = np.mean(upstreamwithoutzeros)
-	else: 
-		averageupstream=0
-	'''
 	
 	#########plotting unnormalized rend-seq values#############
 		
@@ -178,7 +151,6 @@ for i in range(len(starting)):
 	#add lines corresponding to the average downstream and upstream read counts 
 	#from https://stackoverflow.com/questions/36470343/how-to-draw-a-line-with-matplotlib
 	
-	#pylab.legend(loc='upper right') #show a legend for the cleavage site and start codon 
 	plt.xticks(np.arange(0,len(normalizedreadcounts),10),rotation="vertical")
 	plt.autoscale()	
 	plt.xlabel("Location along window")
@@ -249,52 +221,21 @@ for i in range(len(starting)):
 	downstream = normalizedreadcounts[cleavage+offset:-offset-1] #exclude the number of nts specified by offset from each side of the window to normalize	
 	upstream = normalizedreadcounts[offset:cleavage-offset-1] #the -1 here accounts for python's indexing here and in downstream
 
-	'''
-	In case you want to include zero-valued reads in the mean, use this and comment out the section below:  
-	'''
 	averagedownstream = np.mean(downstream) #Get average reads downstream of the cleavage site
 	averageupstream = np.mean(upstream)
 	
-	'''
-	#it might help to get rid of zeros to get a more accurate mean value. 
-	downstreamwithoutzeros = []
-	for i in range(len(downstream)): 
-		if downstream[i]>0: 
-			downstreamwithoutzeros.append(downstream[i])
-
-	upstreamwithoutzeros = []
-	for i in range(len(upstream)): 
-		if upstream[i]>0: 
-			upstreamwithoutzeros.append(upstream[i])
-
-	if len(downstreamwithoutzeros)>0: 	
-		averagedownstream = np.mean(downstreamwithoutzeros) #Get average reads downstream of the cleavage site
-	else: 
-		averagedownstream=0
-	
-	if len(upstreamwithoutzeros)>0:
-		averageupstream = np.mean(upstreamwithoutzeros)
-	else: 
-		averageupstream=0
-	'''
-	
-		
+			
 	#########plotting unnormalized rend-seq values#############
 		
 	plt.figure(j)
-	#plt.scatter(cleavage, 0, s=1, color="b", label="Cleavage site 5'") #add a dot to the cleavage site bar so we can label it
-	
 	color = ["#cc6633" for i in normalizedreadcounts]
 	edgecolor = ["#cc6633" for i in normalizedreadcounts]
 
 	plt.scatter(cleavage, 0, s=1, color=color, label="5' reads") #add a dot to the cleavage site bar so we can label it	
 
-	#color[cleavage]="b" #color the cleavage site bar red
-	#edgecolor[cleavage]="b" #color the cleavage site bar's edge red
 	
 	plt.bar(np.arange(len(normalizedreadcounts)),normalizedreadcounts, color=color, edgecolor=edgecolor)
 		
-	#pylab.legend(loc='upper right') #show a legend for the cleavage site and start codon 
 	plt.xticks(np.arange(0,len(normalizedreadcounts),10),rotation="vertical")
 	plt.autoscale()	
 	plt.xlabel("Location along window")
@@ -314,7 +255,6 @@ for i in range(len(starting)):
 plt.show()
 
 ##close rend-seq files
-'''output.close()'''
 rend_reverse_5.close()
 rend_forward_5.close()
 rend_reverse_3.close()
