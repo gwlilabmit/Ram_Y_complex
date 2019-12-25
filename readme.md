@@ -2,6 +2,8 @@
 
 Below you will find detailed instructions for recreating each figure/means of analysis presented in the paper. If you have questions that are beyond the scope of the paper or this repository please contact me. 
 
+Please note that all figures used in the paper can also be found under figures/. 
+
 ### Figure 1
 ![Figure 1](figures/fig1.png)
 
@@ -24,6 +26,8 @@ Use sequences/rna\_21\_cleavage\_for\_seqlogo.txt [This is a fasta-format file c
 ### Figure 4
 ![Figure 4a](figures/fig4a.png)
 ![Figure 4b](figures/fig4b.png)
+
+Run staph/values\_from\_rend\_seq\_staph.py. I'm only plotting the 5 seemingly Y complex-dependent sites. The sixth one corresponds to the sequence TACTTACTAAATTTTATTTAACCTAAAAATGAACCACCTGGATGTGTGGG and doesn't seem to be Y complex-dependent. 
 
 
 
