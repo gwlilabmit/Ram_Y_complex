@@ -1,1 +1,2 @@
 rend_seq/intermediate_files/*.bed filter=lfs diff=lfs merge=lfs -text
+genome_fasta_files/all_genomes.fasta filter=lfs diff=lfs merge=lfs -text
