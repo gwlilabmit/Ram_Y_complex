@@ -1,6 +1,6 @@
 ## Scripts and figures accompanying _Diverse Primary and Secondary Structural Features Are Associated With Y Complex-Dependent mRNA Maturation in Bacillus subtilis_
 
-Below you will find detailed instructions for recreating each figure/means of analysis presented in the paper. 
+Below you will find detailed instructions for recreating each figure/means of analysis presented in the paper. If you have questions that are beyond the scope of the paper or this repository please contact me. 
 
 ### Figure 1
 ![Figure 1](figures/fig1.png)
@@ -19,7 +19,7 @@ If you want to visualize a different set of windows, just use a different bedfil
 ### Figure 3
 ![Figure 3](figures/fig3.png)
 
-Use sequences/rna\_shortened\_21\_cleavage\_final.txt [this is a fasta-format file containing RNA sequences of all 21 windows used--the length of each window is standardized to be the length of the shortest window out of all 21 and all cleavage sites occur between one-indexed nucleotides 11 and 12] as an input to [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option.
+Use sequences/rna\_21\_cleavage\_for\_seqlogo.txt [This is a fasta-format file containing RNA sequences of all 21 windows used. I've shortened my windows from the original ~200nt for visualization purposes so each window contains 25nt after the cleavage site. Since not all windows contain 25nt before the cleavage site I've standardized the length of all windows to be that of the shortest window, meaning that there are 12nt before the cleavage site. Please see methods if the rationale behind this is confusing. All cleavage sites occur between one-indexed nucleotides 11 and 12] as an input to [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option. You can view the full 112nt window used for frequency plot analysis using rna\_shortened\_21\_cleavage\_final.txt. 
 
 ### Figure 4
 ![Figure 4a](figures/fig4a.png)
