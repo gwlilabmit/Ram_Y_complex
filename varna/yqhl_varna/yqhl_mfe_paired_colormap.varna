@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE VARNASession SYSTEM "users.dtd">
+<VARNASession>
+<RNA drawn="false" mode="2" id="" delta="0.65">
+<name><![CDATA[yqhL]]></name>
+<bases>
+<nt index="0" num="1" custom="true" val="0.8640747434825014" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="0.0" y="0.0"/>
+<p r="center" x="0.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="1" num="2" custom="true" val="0.758843950874465" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="35.0" y="0.0"/>
+<p r="center" x="35.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="2" num="3" custom="true" val="0.758843950874465" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="70.0" y="0.0"/>
+<p r="center" x="70.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="3" num="4" custom="true" val="0.11733274450692356" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="105.0" y="0.0"/>
+<p r="center" x="105.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="4" num="5" custom="true" val="0.0781938993967436" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="105.0" y="-40.0"/>
+<p r="center" x="137.5" y="-40.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="5" num="6" custom="true" val="0.06435386265758035" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="105.0" y="-80.0"/>
+<p r="center" x="137.5" y="-80.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="6" num="7" custom="true" val="0.10138426111191784" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="105.0" y="-120.0"/>
+<p r="center" x="137.5" y="-120.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="7" num="8" custom="true" val="0.5139915422627507" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="105.0" y="-160.0"/>
+<p r="center" x="137.5" y="-160.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="8" num="9" custom="true" val="0.6884197964379" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="105.0" y="-200.0"/>
+<p r="center" x="137.5" y="-200.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="9" num="10" custom="true" val="0.6245313223904189" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="106.88040227711429" y="-234.94949577384295"/>
+<p r="center" x="137.5" y="-215.77672288454824"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="10" num="11" custom="true" val="0.5948461590153626" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="137.5" y="-251.90365169085317"/>
+<p r="center" x="137.5" y="-215.77672288454824"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="11" num="12" custom="true" val="0.5852680376789788" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="168.11959772288571" y="-234.94949577384295"/>
+<p r="center" x="137.5" y="-215.77672288454824"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="12" num="13" custom="true" val="0.2912132099152574" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="170.0" y="-200.0"/>
+<p r="center" x="137.5" y="-200.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="13" num="14" custom="true" val="0.176061982325188" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="170.0" y="-160.0"/>
+<p r="center" x="137.5" y="-160.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="14" num="15" custom="true" val="0.1909478879208065" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="170.0" y="-120.0"/>
+<p r="center" x="137.5" y="-120.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="15" num="16" custom="true" val="0.23966952741252232" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="170.0" y="-80.0"/>
+<p r="center" x="137.5" y="-80.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="16" num="17" custom="true" val="0.3837590186752749" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="170.0" y="-40.0"/>
+<p r="center" x="137.5" y="-40.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="17" num="18" custom="true" val="0.22460188780169194" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="170.0" y="0.0"/>
+<p r="center" x="170.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="18" num="19" custom="true" val="0.6664286233595221" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="205.0" y="0.0"/>
+<p r="center" x="205.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="19" num="20" custom="true" val="0.7227746524257325" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="240.0" y="0.0"/>
+<p r="center" x="240.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="20" num="21" custom="true" val="0.5758441417787756" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="275.0" y="0.0"/>
+<p r="center" x="275.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="21" num="22" custom="true" val="0.23581040555488308" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="261.6432456970215" y="-32.35107286016546"/>
+<p r="center" x="307.5" y="-32.35107286016546"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="22" num="23" custom="true" val="0.12318811002814868" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="275.0" y="-64.70214572033103"/>
+<p r="center" x="307.5" y="-32.35107286016546"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="23" num="24" custom="true" val="0.09348055211451997" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="275.0" y="-104.70214572033103"/>
+<p r="center" x="307.5" y="-104.70214572033103"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="24" num="25" custom="true" val="0.22098538275893193" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="275.0" y="-144.70214572033103"/>
+<p r="center" x="307.5" y="-144.70214572033103"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="25" num="26" custom="true" val="0.758843950874465" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="275.0" y="-184.70214572033103"/>
+<p r="center" x="307.5" y="-184.70214572033103"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="26" num="27" custom="true" val="0.758843950874465" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="275.0" y="-224.70214572033092"/>
+<p r="center" x="307.5" y="-224.70214572033092"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="27" num="28" custom="true" val="0.18484816784601088" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="275.0" y="-264.7021457203309"/>
+<p r="center" x="307.5" y="-264.7021457203309"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="28" num="29" custom="true" val="0.1099562226442282" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="275.0" y="-304.7021457203309"/>
+<p r="center" x="307.5" y="-304.7021457203309"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="29" num="30" custom="true" val="0.06540703669975813" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="275.0" y="-344.7021457203309"/>
+<p r="center" x="307.5" y="-344.7021457203309"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="30" num="31" custom="true" val="0.2685108255202325" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="247.3538374126971" y="-366.1658348913652"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="31" num="32" custom="true" val="0.4739218161276064" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="231.96275157523414" y="-397.6001272387075"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="32" num="33" custom="true" val="0.8640747434825014" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="231.96275200322555" y="-432.6001309334838"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="33" num="34" custom="true" val="0.8782156365502214" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="247.35383860946604" y="-464.03442290441194"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="34" num="35" custom="true" val="0.8925879504044913" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="275.0000017216989" y="-485.49811139931353"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="35" num="36" custom="true" val="0.9071954723294418" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="309.26819949311914" y="-492.61786421336365"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="36" num="37" custom="true" val="0.5224031981891384" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="343.17611791229064" y="-483.9429966574203"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="37" num="38" custom="true" val="0.31074953590015025" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="369.81485165959157" y="-461.24105570571396"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="38" num="39" custom="true" val="0.10304345090533237" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="383.7566275812839" y="-429.13767359753615"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="39" num="40" custom="true" val="0.16499324727369863" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="422.5085301339721" y="-419.22353982060145"/>
+<p r="center" x="414.4532964402126" y="-387.7376189965421"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="40" num="41" custom="true" val="0.1972488898661471" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="461.2604326866603" y="-409.30940604366674"/>
+<p r="center" x="453.2051989929008" y="-377.8234852196074"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="41" num="42" custom="true" val="0.7967132492072909" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="500.0123352393485" y="-399.39527226673204"/>
+<p r="center" x="491.957101545589" y="-367.9093514426727"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="42" num="43" custom="true" val="0.3837590186752749" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="532.4572498756623" y="-412.52266732159205"/>
+<p r="center" x="536.2106911122725" y="-356.58768777784644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="43" num="44" custom="true" val="0.3057458946813797" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="566.3651765430327" y="-403.8477900426742"/>
+<p r="center" x="536.2106911122725" y="-356.58768777784644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="44" num="45" custom="true" val="0.13579004060925667" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="588.51952237764" y="-376.7519241712048"/>
+<p r="center" x="536.2106911122725" y="-356.58768777784644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="45" num="46" custom="true" val="0.2912132099152574" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="623.1716032800637" y="-381.67359975669297"/>
+<p r="center" x="611.805913575047" y="-337.2476724986939"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="46" num="47" custom="true" val="0.45878265723355216" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="651.2027149117398" y="-360.7153941529343"/>
+<p r="center" x="611.805913575047" y="-337.2476724986939"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="47" num="48" custom="true" val="0.3655182215245033" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="689.9546482745717" y="-350.8013808060282"/>
+<p r="center" x="681.8995124302104" y="-319.3154349487272"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="48" num="49" custom="true" val="0.3481444442077991" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="728.7065816374037" y="-340.88736745912183"/>
+<p r="center" x="720.6514457930423" y="-309.40142160182086"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="49" num="50" custom="true" val="0.22098538275893193" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="767.4585150002355" y="-330.9733541122157"/>
+<p r="center" x="759.4033791558742" y="-299.4874082549147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="50" num="51" custom="true" val="0.18787327440651988" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="806.2104483630674" y="-321.05934076530934"/>
+<p r="center" x="798.1553125187061" y="-289.5733949080086"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="51" num="52" custom="true" val="0.19407281858793252" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="844.9623817258993" y="-311.1453274184032"/>
+<p r="center" x="836.907245881538" y="-279.65938156110224"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="52" num="53" custom="true" val="0.7967132492072909" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="874.874758564832" y="-329.31813356069097"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="53" num="54" custom="true" val="0.8782156365502214" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="909.8708344864217" y="-329.8433395486827"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="54" num="55" custom="true" val="0.8501615448993928" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="940.3150766260032" y="-312.5763394680082"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="55" num="56" custom="true" val="0.07209806342155672" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="957.8252167449032" y="-282.2712876736955"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="56" num="57" custom="true" val="0.08077418408895644" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="996.5771449533883" y="-272.3572541794806"/>
+<p r="center" x="988.5219927393387" y="-240.87131251008623"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="57" num="58" custom="true" val="0.11925293695084045" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="1035.3290731618736" y="-262.4432206852657"/>
+<p r="center" x="1027.2739209478239" y="-230.95727901587134"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="58" num="59" custom="true" val="0.11925293695084045" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="1074.0810013703588" y="-252.52918719105082"/>
+<p r="center" x="1066.025849156309" y="-221.04324552165644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="59" num="60" custom="true" val="0.1314523061326923" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="1112.832929578844" y="-242.61515369683593"/>
+<p r="center" x="1104.7777773647942" y="-211.12921202744155"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="60" num="61" custom="true" val="0.3900393726467308" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1142.7453087251092" y="-260.7879422305123"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="61" num="62" custom="true" val="0.8925879504044913" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="1177.7413776619405" y="-261.3131357645507"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="62" num="63" custom="true" val="0.8925879504044913" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="1208.1856093960807" y="-244.04613187280324"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="63" num="64" custom="true" val="0.9220420515895036" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="1225.695741988545" y="-213.7410840115317"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="64" num="65" custom="true" val="0.3837590186752749" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="1225.450680945699" y="-178.7419323880291"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="65" num="66" custom="true" val="0.40291010336057753" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="1207.5178993399502" y="-148.6850527569003"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="66" num="67" custom="true" val="0.23581040555488308" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1176.8348603343259" y="-131.84605674588533"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="67" num="68" custom="true" val="0.09348055211451997" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="1166.0704455469538" y="-93.32168297699184"/>
+<p r="center" x="1134.7693918597279" y="-102.06776999173167"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="68" num="69" custom="true" val="0.08343961441457963" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1155.3060307595817" y="-54.79730920809834"/>
+<p r="center" x="1124.0049770723558" y="-63.54339622283828"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="69" num="70" custom="true" val="0.45878265723355216" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="1144.5416159722097" y="-16.272935439204957"/>
+<p r="center" x="1113.2405622849838" y="-25.019022453944785"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="70" num="71" custom="true" val="0.783884695041549" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="1144.5709017185227" y="41.59010876650504"/>
+<p r="center" x="1102.7068306989208" y="12.679767570269519"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="71" num="72" custom="true" val="0.49757237909340374" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1090.4485806595483" y="62.057329036883424"/>
+<p r="center" x="1102.7068306989208" y="12.679767570269519"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="72" num="73" custom="true" val="0.5057153295259778" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1058.2342979363068" y="85.76892933351185"/>
+<p r="center" x="1038.968622695296" y="59.59482462087845"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="73" num="74" custom="true" val="0.3210038175868511" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1026.0200152130647" y="109.48052963013997"/>
+<p r="center" x="1006.7543399720548" y="83.30642491750673"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="74" num="75" custom="true" val="0.2557479945175646" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="993.8057324898242" y="133.19212992676916"/>
+<p r="center" x="974.5400572488136" y="107.01802521413533"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="75" num="76" custom="true" val="0.23966952741252232" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="961.5914497665817" y="156.90373022339674"/>
+<p r="center" x="942.3257745255727" y="130.7296255107641"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="76" num="77" custom="true" val="0.37150005830873106" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="929.3771670433422" y="180.61533052002656"/>
+<p r="center" x="910.111491802331" y="154.4412258073927"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="77" num="78" custom="true" val="0.5852680376789788" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="925.4133091560001" y="224.95630278082785"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="78" num="79" custom="true" val="0.836472374499359" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="897.7383033623513" y="259.79364957339897"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="79" num="80" custom="true" val="0.8640747434825014" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="855.4612092356475" y="273.6833679295228"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="80" num="81" custom="true" val="0.783884695041549" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="812.495202863633" y="262.03302641066773"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="81" num="82" custom="true" val="0.3481444442077991" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="783.0179966218944" y="228.6724463412778"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="82" num="83" custom="true" val="0.22460188780169194" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="743.0179966218952" y="228.67244634127698"/>
+<p r="center" x="743.0179966218947" y="196.17244634127968"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="83" num="84" custom="true" val="0.20047693868989175" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="703.0179966218947" y="228.6724463412792"/>
+<p r="center" x="703.0179966218949" y="196.1724463412802"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="84" num="85" custom="true" val="0.176061982325188" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="663.0179966218946" y="228.67244634127724"/>
+<p r="center" x="663.0179966218943" y="196.1724463412801"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="85" num="86" custom="true" val="0.3262571601860513" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="623.0179966218946" y="228.67244634128028"/>
+<p r="center" x="623.0179966218941" y="196.17244634128028"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="86" num="87" custom="true" val="0.6773349667878948" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="583.0179966218946" y="228.6724463412792"/>
+<p r="center" x="583.0179966218943" y="196.17244634128093"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="87" num="88" custom="true" val="0.8925879504044913" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="570.5994269079908" y="262.2082464131545"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="88" num="89" custom="true" val="0.8501615448993928" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="550.24826212636" y="291.6140426484362"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="89" num="90" custom="true" val="0.1336035702664359" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="523.2373026146583" y="315.05074093257656"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="90" num="91" custom="true" val="0.1448996496809614" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="537.3288264271334" y="352.4864051664654"/>
+<p r="center" x="506.9123492369955" y="363.9357682641131"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="91" num="92" custom="true" val="0.42301690250931445" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="551.420350239629" y="389.9220694004692"/>
+<p r="center" x="521.0038730494928" y="401.3714324981247"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="92" num="93" custom="true" val="0.2685108255202325" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="565.5118740521287" y="427.3577336344865"/>
+<p r="center" x="535.0953968619914" y="438.80709673213903"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="93" num="94" custom="true" val="0.7346031188276299" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="584.2282664056927" y="456.9330893154177"/>
+<p r="center" x="543.7622715568068" y="461.83159112681875"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="94" num="95" custom="true" val="0.8925879504044913" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="573.1093995375238" y="490.1200717928038"/>
+<p r="center" x="543.7622715568068" y="461.83159112681875"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="95" num="96" custom="true" val="0.9680555771461302" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="540.3531263980448" y="502.4501803242892"/>
+<p r="center" x="543.7622715568068" y="461.83159112681875"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="96" num="97" custom="true" val="0.5852680376789788" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="510.1103891277819" y="484.83252302292885"/>
+<p r="center" x="543.7622715568068" y="461.83159112681875"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="97" num="98" custom="true" val="0.10818572446379085" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="504.6789196718557" y="450.25645982979387"/>
+<p r="center" x="535.0953968619914" y="438.80709673213903"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="98" num="99" custom="true" val="0.08619300005539149" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="490.5873958593568" y="412.8207955957785"/>
+<p r="center" x="521.0038730494928" y="401.3714324981247"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="99" num="100" custom="true" val="0.08760357941344458" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="476.49587204685776" y="375.38513136176124"/>
+<p r="center" x="506.9123492369955" y="363.9357682641131"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="100" num="101" custom="true" val="0.09656527406216013" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="462.4043482343602" y="337.9494671277506"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="101" num="102" custom="true" val="0.8782156365502214" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="427.4054813430461" y="338.2310986672786"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="102" num="103" custom="true" val="0.8640747434825014" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="393.38654597961977" y="330.0023662777229"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="103" num="104" custom="true" val="0.9071954723294418" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="362.38552797375286" y="313.75623188827706"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="104" num="105" custom="true" val="0.836472374499359" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="336.2596175851195" y="290.4659591040174"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="105" num="106" custom="true" val="0.9524680951766462" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="316.5739500712041" y="261.5268075177749"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="106" num="107" custom="true" val="0.17322705937262536" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="304.5078425097571" y="228.6724463412821"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="107" num="108" custom="true" val="0.029524436113288616" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="264.5078425097571" y="228.67244634128164"/>
+<p r="center" x="264.5078425097573" y="196.17244634128295"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="108" num="109" custom="true" val="0.010968329737619124" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="224.50784250975676" y="228.67244634128085"/>
+<p r="center" x="224.50784250975676" y="196.17244634128238"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="109" num="110" custom="true" val="0.015423659850313087" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="184.50784250975528" y="228.67244634128338"/>
+<p r="center" x="184.50784250975755" y="196.17244634128346"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="110" num="111" custom="true" val="0.01311260248634491" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="144.5078425097571" y="228.67244634127852"/>
+<p r="center" x="144.50784250975755" y="196.17244634128372"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="111" num="112" custom="true" val="0.009324852154700228" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="104.50784250975744" y="228.67244634128042"/>
+<p r="center" x="104.50784250975869" y="196.17244634128397"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="112" num="113" custom="true" val="0.0056376287178852465" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="64.50784250975721" y="228.67244634128474"/>
+<p r="center" x="64.50784250975812" y="196.17244634128423"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="113" num="114" custom="true" val="0.008597905811488844" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="24.50784250975869" y="228.67244634128326"/>
+<p r="center" x="24.50784250975869" y="196.17244634128448"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="114" num="115" custom="true" val="0.08619300005539149" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="-15.492157490241993" y="228.6724463412835"/>
+<p r="center" x="-15.492157490241425" y="196.17244634128357"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="115" num="116" custom="true" val="0.3057458946813797" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="-55.49215749024074" y="228.6724463412851"/>
+<p r="center" x="-55.492157490242334" y="196.172446341285"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="116" num="117" custom="true" val="1.0" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="-89.76504682542293" y="235.76991511575866"/>
+<p r="center" x="-80.0938253017199" y="196.1724463412843"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="117" num="118" custom="true" val="1.0" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="-116.90742071849206" y="213.6724821011433"/>
+<p r="center" x="-80.0938253017199" y="196.1724463412843"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="118" num="119" custom="true" val="0.9838981538483049" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="-116.9074207184932" y="178.67241058142744"/>
+<p r="center" x="-80.0938253017199" y="196.1724463412843"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="119" num="120" custom="true" val="0.9838981538483049" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="-89.76504682542406" y="156.57497756681045"/>
+<p r="center" x="-80.0938253017199" y="196.1724463412843"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="120" num="121" custom="true" val="0.2959790185358472" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="-55.49215749024404" y="163.67244634128514"/>
+<p r="center" x="-55.492157490242334" y="196.172446341285"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="121" num="122" custom="true" val="0.07693483325865612" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="-15.492157490242676" y="163.6724463412848"/>
+<p r="center" x="-15.492157490241425" y="196.17244634128357"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="122" num="123" custom="true" val="0.0038185630603913396" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="24.507842509757552" y="163.67244634128235"/>
+<p r="center" x="24.50784250975869" y="196.17244634128448"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="123" num="124" custom="true" val="9.129215786581522E-5" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="64.5078425097579" y="163.6724463412813"/>
+<p r="center" x="64.50784250975812" y="196.17244634128423"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="124" num="125" custom="true" val="0.006214348384488035" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="104.50784250975676" y="163.6724463412865"/>
+<p r="center" x="104.50784250975869" y="196.17244634128397"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="125" num="126" custom="true" val="0.018142034232021004" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="144.5078425097572" y="163.67244634128548"/>
+<p r="center" x="144.50784250975755" y="196.17244634128372"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="126" num="127" custom="true" val="0.003353521788788766" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="184.50784250975676" y="163.67244634128247"/>
+<p r="center" x="184.50784250975755" y="196.17244634128346"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="127" num="128" custom="true" val="0.004951053693111541" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="224.50784250975664" y="163.67244634128335"/>
+<p r="center" x="224.50784250975676" y="196.17244634128238"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="128" num="129" custom="true" val="0.02635315591720863" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="264.50784250975676" y="163.67244634128352"/>
+<p r="center" x="264.5078425097573" y="196.17244634128295"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="129" num="130" custom="true" val="0.17894329980857734" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="304.50784250975744" y="163.6724463412829"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="130" num="131" custom="true" val="0.9220420515895036" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="316.47847039412034" y="131.0042371826212"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="131" num="132" custom="true" val="0.2912132099152574" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="335.98416844186295" y="102.1938993635235"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="132" num="133" custom="true" val="0.07693483325865612" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="361.8702252618298" y="78.94696657888639"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="133" num="134" custom="true" val="0.1448996496809614" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="392.60422070638316" y="62.639626342226364"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="134" num="135" custom="true" val="0.23581040555488308" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="426.36674310675926" y="54.23725151455969"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="135" num="136" custom="true" val="0.2912132099152574" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="461.15909602489234" y="54.23725151456921"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="136" num="137" custom="true" val="0.3008228213237163" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="494.9216184252655" y="62.63962634222412"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="137" num="138" custom="true" val="0.3210038175868511" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="525.6556138699568" y="78.9469665781402"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="138" num="139" custom="true" val="0.3057458946813797" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="551.541670689787" y="102.19389936352415"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="139" num="140" custom="true" val="0.4095038717012226" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="571.0473687375303" y="131.00423718261672"/>
+<p r="center" x="443.76291956582605" y="196.17244634128147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="140" num="141" custom="true" val="0.746625162324361" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="583.0179966218944" y="163.67244634128096"/>
+<p r="center" x="583.0179966218943" y="196.17244634128093"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="141" num="142" custom="true" val="0.3655182215245033" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="623.0179966218941" y="163.6724463412806"/>
+<p r="center" x="623.0179966218941" y="196.17244634128028"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="142" num="143" custom="true" val="0.6664286233595221" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="663.0179966218943" y="163.6724463412794"/>
+<p r="center" x="663.0179966218943" y="196.1724463412801"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="143" num="144" custom="true" val="0.3775797899972509" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="703.0179966218939" y="163.67244634127883"/>
+<p r="center" x="703.0179966218949" y="196.1724463412802"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="144" num="145" custom="true" val="0.6144752151203824" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="743.0179966218943" y="163.67244634127974"/>
+<p r="center" x="743.0179966218947" y="196.17244634127968"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="145" num="146" custom="true" val="0.746625162324361" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="783.0179966218944" y="163.67244634128073"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="146" num="147" custom="true" val="1.0" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="797.2592288555719" y="142.70708056168218"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="147" num="148" custom="true" val="0.9680555771461302" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="817.5136740523436" y="127.44726589941718"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="148" num="149" custom="true" val="0.6347520014624386" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="841.6030890106355" y="119.53967554117087"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="149" num="150" custom="true" val="0.809751747262771" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="866.9484801877826" y="119.82457574066672"/>
+<p r="center" x="853.4159790639651" y="196.17244634127923"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="150" num="151" custom="true" val="0.45878265723355216" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="890.8458165613201" y="128.26712109475866"/>
+<p r="center" x="910.111491802331" y="154.4412258073927"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="151" num="152" custom="true" val="0.0794735706037285" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="923.0600992845616" y="104.55552079813003"/>
+<p r="center" x="942.3257745255727" y="130.7296255107641"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="152" num="153" custom="true" val="0.011147830387442765" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="955.2743820078032" y="80.84392050150254"/>
+<p r="center" x="974.5400572488136" y="107.01802521413533"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="153" num="154" custom="true" val="0.024298717947761114" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="987.4886647310444" y="57.132320204873395"/>
+<p r="center" x="1006.7543399720548" y="83.30642491750673"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="154" num="155" custom="true" val="0.04288725609875964" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="1019.7029474542857" y="33.42071990824481"/>
+<p r="center" x="1038.968622695296" y="59.59482462087845"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="155" num="156" custom="true" val="0.05560654736795764" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="1051.9172301775272" y="9.709119611616352"/>
+<p r="center" x="1102.7068306989208" y="12.679767570269519"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="156" num="157" custom="true" val="0.2599334021689725" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="1051.1866209135137" y="-10.568016300978687"/>
+<p r="center" x="1102.7068306989208" y="12.679767570269519"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="157" num="158" custom="true" val="0.27737129133826205" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1062.7181057942146" y="-27.266363052762898"/>
+<p r="center" x="1102.7068306989208" y="12.679767570269519"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="158" num="159" custom="true" val="0.01445399904022356" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="1081.9395085977578" y="-33.765109468684614"/>
+<p r="center" x="1113.2405622849838" y="-25.019022453944785"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="159" num="160" custom="true" val="0.176061982325188" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="1092.7039233851299" y="-72.28948323757811"/>
+<p r="center" x="1124.0049770723558" y="-63.54339622283828"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="160" num="161" custom="true" val="0.7227746524257325" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="1103.468338172502" y="-110.8138570064715"/>
+<p r="center" x="1134.7693918597279" y="-102.06776999173167"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="161" num="162" custom="true" val="0.22827757824649536" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="1114.232752959874" y="-149.338230775365"/>
+<p r="center" x="1161.2091829365158" y="-196.6921795795654"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="162" num="163" custom="true" val="0.1909478879208065" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1096.7226251507445" y="-179.64327035804752"/>
+<p r="center" x="1104.7777773647942" y="-211.12921202744155"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="163" num="164" custom="true" val="0.11925293695084045" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="1057.9706969422593" y="-189.5573038522624"/>
+<p r="center" x="1066.025849156309" y="-221.04324552165644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="164" num="165" custom="true" val="0.06867110513305613" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="1019.2187687337743" y="-199.4713373464773"/>
+<p r="center" x="1027.2739209478239" y="-230.95727901587134"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="165" num="166" custom="true" val="0.07093715149650967" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="980.4668405252891" y="-209.3853708406923"/>
+<p r="center" x="988.5219927393387" y="-240.87131251008623"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="166" num="167" custom="true" val="0.10818572446379085" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="941.7149123168041" y="-219.29940433490697"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="167" num="168" custom="true" val="0.9680555771461302" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="911.8025426915912" y="-201.12661854393252"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="168" num="169" custom="true" val="0.9220420515895036" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="876.8064834318424" y="-200.6014173556723"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="169" num="170" custom="true" val="0.9220420515895036" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="846.3622536020343" y="-217.86840522471948"/>
+<p r="center" x="893.338658959132" y="-265.2223784521775"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="170" num="171" custom="true" val="0.3370231708678044" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="828.8521100371767" y="-248.17343570380126"/>
+<p r="center" x="836.907245881538" y="-279.65938156110224"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="171" num="172" custom="true" val="0.18484816784601088" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="790.1001766743448" y="-258.0874490507076"/>
+<p r="center" x="798.1553125187061" y="-289.5733949080086"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="172" num="173" custom="true" val="0.12120455403275907" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="751.3482433115129" y="-268.00146239761375"/>
+<p r="center" x="759.4033791558742" y="-299.4874082549147"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="173" num="174" custom="true" val="0.011895693606067882" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="712.5963099486811" y="-277.9154757445201"/>
+<p r="center" x="720.6514457930423" y="-309.40142160182086"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="174" num="175" custom="true" val="0.028581295041563655" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="673.8443765858491" y="-287.82948909142624"/>
+<p r="center" x="681.8995124302104" y="-319.3154349487272"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="175" num="176" custom="true" val="0.12120455403275907" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="635.0924432230171" y="-297.7435024383326"/>
+<p r="center" x="611.805913575047" y="-337.2476724986939"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="176" num="177" custom="true" val="0.7111366461700386" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="600.4402238700304" y="-292.821745240695"/>
+<p r="center" x="611.805913575047" y="-337.2476724986939"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="177" num="178" custom="true" val="0.3775797899972509" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="572.4090299911799" y="-313.78008891872196"/>
+<p r="center" x="536.2106911122725" y="-356.58768777784644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="178" num="179" custom="true" val="0.758843950874465" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="539.9641249470804" y="-300.6527077374135"/>
+<p r="center" x="536.2106911122725" y="-356.58768777784644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="179" num="180" custom="true" val="0.6556978921951104" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="506.0562119353796" y="-309.3275815227157"/>
+<p r="center" x="536.2106911122725" y="-356.58768777784644"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="180" num="181" custom="true" val="0.4369758436353278" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="483.90186785182954" y="-336.42343061861357"/>
+<p r="center" x="491.957101545589" y="-367.9093514426727"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="181" num="182" custom="true" val="0.3057458946813797" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="445.14996529914134" y="-346.33756439554827"/>
+<p r="center" x="453.2051989929008" y="-377.8234852196074"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="182" num="183" custom="true" val="0.12725313808047323" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="406.39806274645315" y="-356.251698172483"/>
+<p r="center" x="414.4532964402126" y="-387.7376189965421"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="183" num="184" custom="true" val="0.1336035702664359" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="367.64616019376496" y="-366.1658319494177"/>
+<p r="center" x="307.5" y="-415.1001281624017"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="184" num="185" custom="true" val="0.22098538275893193" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="340.0" y="-344.7021457203309"/>
+<p r="center" x="307.5" y="-344.7021457203309"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="185" num="186" custom="true" val="0.5057153295259778" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="340.0" y="-304.7021457203309"/>
+<p r="center" x="307.5" y="-304.7021457203309"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="186" num="187" custom="true" val="0.45878265723355216" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="340.0" y="-264.7021457203309"/>
+<p r="center" x="307.5" y="-264.7021457203309"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="187" num="188" custom="true" val="0.5396417421912961" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="340.0" y="-224.70214572033092"/>
+<p r="center" x="307.5" y="-224.70214572033092"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="188" num="189" custom="true" val="0.6664286233595221" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="340.0" y="-184.70214572033103"/>
+<p r="center" x="307.5" y="-184.70214572033103"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="189" num="190" custom="true" val="0.6045810297425013" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="340.0" y="-144.70214572033103"/>
+<p r="center" x="307.5" y="-144.70214572033103"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="190" num="191" custom="true" val="0.6144752151203824" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="340.0" y="-104.70214572033103"/>
+<p r="center" x="307.5" y="-104.70214572033103"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="191" num="192" custom="true" val="0.6556978921951104" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="340.0" y="-64.70214572033103"/>
+<p r="center" x="307.5" y="-32.35107286016546"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="192" num="193" custom="true" val="0.49757237909340374" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="353.3567543029785" y="-32.35107286016557"/>
+<p r="center" x="307.5" y="-32.35107286016546"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="193" num="194" custom="true" val="0.27737129133826205" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="340.0" y="0.0"/>
+<p r="center" x="340.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="194" num="195" custom="true" val="0.44412711003286787" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="375.0" y="0.0"/>
+<p r="center" x="375.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="195" num="196" custom="true" val="0.35963270335587966" label="">
+<base><![CDATA[G]]></base>
+<p r="pos" x="410.0" y="0.0"/>
+<p r="center" x="410.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="196" num="197" custom="true" val="0.8640747434825014" label="">
+<base><![CDATA[C]]></base>
+<p r="pos" x="445.0" y="0.0"/>
+<p r="center" x="445.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="197" num="198" custom="true" val="0.6884197964379" label="">
+<base><![CDATA[A]]></base>
+<p r="pos" x="480.0" y="0.0"/>
+<p r="center" x="480.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="198" num="199" custom="true" val="0.746625162324361" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="515.0" y="0.0"/>
+<p r="center" x="515.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="199" num="200" custom="true" val="0.8640747434825014" label="">
+<base><![CDATA[U]]></base>
+<p r="pos" x="550.0" y="0.0"/>
+<p r="center" x="550.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="200" num="201" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="585.0" y="0.0"/>
+<p r="center" x="585.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="201" num="202" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="620.0" y="0.0"/>
+<p r="center" x="620.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="202" num="203" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="602.3061998169943" y="-30.19811322516955"/>
+<p r="center" x="652.5" y="-39.325198919912395"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="203" num="204" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="608.2366100467863" y="-64.6919799522077"/>
+<p r="center" x="652.5" y="-39.325198919912395"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="204" num="205" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="635.0000242337576" y="-87.2467193285097"/>
+<p r="center" x="652.5" y="-39.325198919912395"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="205" num="206" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="669.9999757662424" y="-87.2467193285097"/>
+<p r="center" x="652.5" y="-39.325198919912395"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="206" num="207" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="696.7633899532138" y="-64.6919799522077"/>
+<p r="center" x="652.5" y="-39.325198919912395"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="207" num="208" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="702.6938001830057" y="-30.198113225169436"/>
+<p r="center" x="652.5" y="-39.325198919912395"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+<nt index="208" num="209" custom="true" val="0.0" label="">
+<base><![CDATA[ ]]></base>
+<p r="pos" x="685.0" y="0.0"/>
+<p r="center" x="685.0" y="-65.0"/>
+<basestyle outline="#5B5B5B" inner="#F2F2F2" num="#404040" name="#000000"/>
+</nt>
+</bases>
+<BPs>
+<bp part5="3" part3="17" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="4" part3="16" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="5" part3="15" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="6" part3="14" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="7" part3="13" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="8" part3="12" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="20" part3="193" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="22" part3="191" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="23" part3="190" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="24" part3="189" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="25" part3="188" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="26" part3="187" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="27" part3="186" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="28" part3="185" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="29" part3="184" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="38" part3="183" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="39" part3="182" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="40" part3="181" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="41" part3="180" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="44" part3="177" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="46" part3="175" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="47" part3="174" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="48" part3="173" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="49" part3="172" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="50" part3="171" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="51" part3="170" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="55" part3="166" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="56" part3="165" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="57" part3="164" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="58" part3="163" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="59" part3="162" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="66" part3="161" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="67" part3="160" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="68" part3="159" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="69" part3="158" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="71" part3="155" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="72" part3="154" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="73" part3="153" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="74" part3="152" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="75" part3="151" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="76" part3="150" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="81" part3="145" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="82" part3="144" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="83" part3="143" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="84" part3="142" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="85" part3="141" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="86" part3="140" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="89" part3="100" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="90" part3="99" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="91" part3="98" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="92" part3="97" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="106" part3="129" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="107" part3="128" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="108" part3="127" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="109" part3="126" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="110" part3="125" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="111" part3="124" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="112" part3="123" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="113" part3="122" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="114" part3="121" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="115" part3="120" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+<bp part5="201" part3="208" edge5="WC" edge3="WC" orient="CIS" secstr="true">
+<BPstyle custom="false" color="#0000FF" thickness="-1.0" bent="0.0"/>
+</bp>
+</BPs>
+<backbone/>
+<annotations>
+<region outline="#00FF00" fill="#00FF00" radius="20.0">
+<baselist><![CDATA[162]]></baselist>
+</region>
+<region outline="#FF0033" fill="#FF0033" radius="20.0">
+<baselist><![CDATA[99]]></baselist>
+</region>
+<region outline="#FF00FF" fill="#FF00FF" radius="20.0">
+<baselist><![CDATA[99]]></baselist>
+</region>
+<region outline="#6600FF" fill="#6600FF" radius="20.0">
+<baselist><![CDATA[162]]></baselist>
+</region>
+<region outline="#990000" fill="#990000" radius="20.0">
+<baselist><![CDATA[99]]></baselist>
+</region>
+<region outline="#0000FF" fill="#0000FF" radius="20.0">
+<baselist><![CDATA[162]]></baselist>
+</region>
+</annotations>
+</RNA>
+<config drawoutline="true" fillbase="true" autofit="true" autocenter="true" modifiable="true" errors="true" specialbases="false" dashbases="true" usebasebps="false" drawnc="true" drawnonplanar="true" warnings="false" comparison="false" flat="true" drawbackground="false" drawcm="true" drawbackbone="true" cmh="30.0" cmw="120.0" cmx="40.0" cmy="0.0" defaultzoom="1.0" zoominc="1.2" bpthick="1.0" basethick="1.5" distnumbers="3.0" spacebetweenbases="1.0" numperiod="10" bpstyle="lw" backbonecol="#5B5B5B" hovercol="#E6E6E6" backgroundcol="#FFFFFF" bondcol="#0000FF" titlecol="#000000" specialco="#00FF00" dashcol="#FFFF00" cm="0.00:#0000FF,0.50:#FFFFFF,1.00:#FF0000">
+<font role="titlefont" name="SansSerif" style="1" size="18.0"/>
+<font role="numbersfont" name="SansSerif" style="1" size="2.0"/>
+<font role="basefont" name="SansSerif" style="0" size="2.0"/>
+<cmcaption/>
+</config>
+</VARNASession>
