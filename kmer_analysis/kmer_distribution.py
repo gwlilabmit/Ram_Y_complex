@@ -1,6 +1,6 @@
 '''
-Gets all unique kmers for a given value of k for all 21 sites and calculates their frequency
-This is meant to be used as a helper function--I'm going to iterate through k = 3->10 and identify the most enriched kmers 
+Gets all unique kmers for a given value of k for all 21 sites and calculates their frequency as well as p values
+I iterate through k = 3->10 and identify the most enriched kmers, then calculate their p values
 '''
 
 from scipy.misc import comb
