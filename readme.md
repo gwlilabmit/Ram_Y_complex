@@ -162,8 +162,8 @@ From here, go to locarna/ and run the following: java -cp path/to/VARNAv3-93.jar
 
 For all folds [MFE, MEA, centroid, pairing probability-constrained, consensus], navigate to their respective directories and run nearest\_hairpin.py. You can also do this for locaRNA but doing so isn't particularly informative. 
 
-### Figure 12
+### Figure 13
 
-![Figure 12](figures/fig12.png)
+![Figure 13](figures/fig13.png)
 
 Navigate to p\_value\_analysis/. Each subdirectory corresponds to a different fold [locaRNA not included]. In each directory run select\_21.py--this will produce the requisite p values. Change the input file names [\*\_3prime.txt, \*\_5prime.txt or \*\_random.txt] to determine p values for each background set. These scripts may take some time. Additional details available upon request. 
