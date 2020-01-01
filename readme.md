@@ -41,7 +41,7 @@ Unfortunately there's no way to denote the cleavage site in the MSA itself so yo
 If you want to recalculate the alignment-to-subtilis scores, take the average of all pairwise alignment scores of the form "Sequences (1:n) Aligned. Score: " [as seen above]. Note that ClustalW2 will output these scores _prior_ to producing the MSA, so be on the lookout. Sequence 1 in all \*\_evolutionary.txt files is always the _subtilis_ sequence. This was easy enough to do manually that I didn't bother automating it. 
 
 
-### Figure 6 
+### Figures 6, S8, S9, S10 and S11
 
 ![Figure 6](figures/fig6.png)
 
