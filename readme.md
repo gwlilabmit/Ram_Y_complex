@@ -155,6 +155,12 @@ Then, you're going to want to run paired\_prob/colormap\_from\_dat.py to get var
 
 From here, go to locarna/ and run the following: java -cp path/to/VARNAv3-93.jar fr.orsay.lri.varna.applications.VARNAcmd -i atpi\_locarna.txt -colorMapStyle "0.00:#0000FF,0.50:#FFFFFF,1.00:#FF0000" -colorMap [paste the colormap from colormap\_from\_dat here, leave a space between it and -colorMap].  
 
+### Figure 10
+
+![Figure 10](figures/fig10.png)
+
+Run paired\_prob/paired\_prob\_analysis.py. 
+
 
 ### Figure 11
 
