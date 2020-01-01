@@ -24,9 +24,15 @@ You can verify these sequences in Mochiview if you'd like--go to mochiview/subti
 
 Use sequences/rna\_21\_cleavage\_for\_seqlogo.txt [This is a fasta-format file containing RNA sequences of all 21 windows used. I've shortened my windows from the original ~200nt for visualization purposes so each window contains 25nt after the cleavage site. Since not all windows contain 25nt before the cleavage site I've standardized the length of all windows to be that of the shortest window, meaning that there are 12nt before the cleavage site. Please see methods if the rationale behind this is confusing. All cleavage sites occur between one-indexed nucleotides 11 and 12] as an input to [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option. You can view the full 112nt window used for frequency plot analysis using rna\_shortened\_21\_cleavage\_final.txt. 
 
+
 ### Figure 4
-![Figure 4a](figures/fig4a.png)
-![Figure 4b](figures/fig4b.png)
+![Figure 4](figures/fig4.png)
+
+Use staph/staph\_rny\_sites.txt as input into [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option. 
+
+### Figure S7
+![Figure s7a](figures/figs7a.png)
+![Figure s7b](figures/figs7b.png)
 
 Run staph/values\_from\_rend\_seq\_staph.py. I'm only plotting the 5 seemingly Y complex-dependent sites. The sixth one corresponds to the sequence TACTTACTAAATTTTATTTAACCTAAAAATGAACCACCTGGATGTGTGGG and doesn't seem to be Y complex-dependent. The locations of all staph cleavage sites from [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4608709/) can be found in staph/staph\_rny\_sites.txt. The wig files under staph/ need slight modification to run in mochiview. If this is your goal, go to mochiview/staph\_mochiview/. There you can find wt and ∆rny data for our staph strain [wt files are under wt\* and ∆ylbF are under ylbF\*]. We map reads to the [NC\_007795 genome](https://www.ncbi.nlm.nih.gov/nuccore/NC_007795.1). You can grab the NC\_007795 cds from the NCBI site [here](https://www.ncbi.nlm.nih.gov/genome/proteins/154?genome_assembly_id=299272). This requires some modification to be converted to the Mochiview format, so you can use staph\_mochiview/convert\_mochiview\_location.py to do the conversion for you. Or you can just use the already-converted CDS I have, namely NC\_007795\_mochi\_cds.txt. The one benefit of using the script is that it should work for any CDS that needs conversion from NCBI-\>Mochiview, not just NC\_007795. 
 
