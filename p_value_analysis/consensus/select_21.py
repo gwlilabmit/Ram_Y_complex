@@ -5,10 +5,10 @@ Randomly finds num_windows windows and sees how many of them have paired cleavag
 import glob
 import random
 
-structures = glob.glob("*random_consensus.txt") #get all dms-constrained folded sites 
+structures = glob.glob("*3prime_consensus.txt") #get all dms-constrained folded sites 
 
 num_windows = 21 #number of windows you want to get, same as what you have for cleavage sites
-cleavage_paired = 11 #number of cleavage sites you actually witness being paired 
+cleavage_paired = 10 #number of cleavage sites you actually witness being paired 
 
 num_repeats = 100000 #number of times you want to repeat this analysis 
 
