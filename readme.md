@@ -23,7 +23,7 @@ You can verify these sequences in Mochiview if you'd like--go to mochiview/subti
 ![Figure 3](figures/fig3.png)
 ![Figure S12](figures/figs12.png)
 
-To recreate figure 3 use seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt [This is a fasta-format file containing RNA sequences of all 21 windows used. I've shortened my windows from the original ~200nt for visualization purposes so each window contains 25nt after the cleavage site. Since not all windows contain 25nt before the cleavage site I've standardized the length of all windows to be that of the shortest window, meaning that there are 12nt before the cleavage site. Please see methods if the rationale behind this is confusing. 
+To recreate figure 2-2 use seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt [This is a fasta-format file containing RNA sequences of all 21 windows used. I've shortened my windows from the original ~200nt for visualization purposes so each window contains 25nt after the cleavage site. Since not all windows contain 25nt before the cleavage site I've standardized the length of all windows to be that of the shortest window, meaning that there are 12nt before the cleavage site. Please see methods if the rationale behind this is confusing. 
 For figure S12 use seqlogo/rna\_shortened\_21\_cleavage\_final.txt. In both instances all cleavage sites occur between one-indexed nucleotides 11 and 12] as an input to [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option. You can view the full 112nt window used for frequency plot analysis using rna\_shortened\_21\_cleavage\_final.txt. 
 
 
@@ -60,7 +60,7 @@ Shortened MSA snippets around the cleavage site [50nt either side] are under msa
 ![Figure 7](figures/fig7.png)
 ![Figure S13](figures/figs13.png)
 
-I ran weblogo in shell for this--the input file for figure 7 is seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt and the input for figure S13 is seqlogo/rna\_shortened\_21\_cleavage\_final.txt. The output file is seqlogo/sequence\_logo.eps. The seqlogo directory also has other files that can be used as input--rna\*.txt files have AUCG sequences whereas others have ATCG. To produce rna\_21\_cleavage\_for\_seqlogo.txt I took 21\_cleavage\_final.txt, ran equal\_size\_sequences\_seqlogo.py to standardize the length of all input sequences to be that of the shortest sequences and then ran shorten\_for\_seqlogo.py to get at most a 50nt window. I realize that equal\_size\_sequences\_seqlogo.py and shorten\_for\_seqlogo.py are somewhat redundant scripts. shorten\_for\_seqlogo.py will honestly get the job done if you're ok hard-coding window sizes. 
+I ran weblogo in shell for this--the input file for figure 2-6 is seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt and the input for figure S13 is seqlogo/rna\_shortened\_21\_cleavage\_final.txt. The output file is seqlogo/sequence\_logo.eps. The seqlogo directory also has other files that can be used as input--rna\*.txt files have AUCG sequences whereas others have ATCG. To produce rna\_21\_cleavage\_for\_seqlogo.txt I took 21\_cleavage\_final.txt, ran equal\_size\_sequences\_seqlogo.py to standardize the length of all input sequences to be that of the shortest sequences and then ran shorten\_for\_seqlogo.py to get at most a 50nt window. I realize that equal\_size\_sequences\_seqlogo.py and shorten\_for\_seqlogo.py are somewhat redundant scripts. shorten\_for\_seqlogo.py will honestly get the job done if you're ok hard-coding window sizes. 
 
 ### Figure 2-7
 
