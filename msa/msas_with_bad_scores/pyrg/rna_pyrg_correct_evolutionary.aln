@@ -1,0 +1,127 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+pyrg_subtilis               --------------UGGGCUCUUCAAAAACGAAGAGA-----GAACAUAG
+pyrg_amyloliquefaciens      ----------AUUUUGGGCUCUUCAAAAA-GAAGAGA-----AUUCAUAA
+pyrg_licheniformis          ----------AUUUUGGGCUCUUCAAAAC-GAAGAGAU-UCGAGUGAUAC
+pyrg_glycinifermentans      -----------UUUUGGGCUCUUCAAAAA-GAAGAGAU-UCGAGUGAUAC
+pyrg_atrophaeus             ---------------------------------GAGG----AAUUCAUAC
+pyrg_smithii                ---------UCUUUUAA---UGAGAAUUGUAGUAUGUUAUCUGGGCUCUA
+pyrg_pumilus                ---------------AG---CGAACUAUGUAGUAUGUAUUUUGGGCUCUC
+pyrg_methanolicus           ---------UUUUUUGGGCUCUAUAAAUUUGGAACGGUCUUAAAAUAAAG
+pyrg_pseudofirmus           AGAGGCUUGACUUCUGUCUCUGAACUAGGUAGAAUCAUUUUUGGGCUUUA
+pyrg_clausii                --------------UGA-UCUGUUAUCGGUAAAAUCAUUUUUGGGCUUCA
+pyrg_anthracis_ames         ------------------------UAAAGUGUAAAUAUAAAAGAAAAUUG
+pyrg_anthracis_sterne       ------------------------UAAAGUGUAAAUAUAAAAGAAAAUUG
+pyrg_thuringiensis          ------------------------UAAAGUGUAAAUAUAAAAGAAAAUUG
+pyrg_cereus                 ------------------------UAAAGUGUAAAUAUAAAAGAAAAUUG
+pyrg_cytotoxicus            ------------------------UUAAGUGUAAAUAUAAAAGAAAAUUG
+pyrg_megaterium             --------------------------------UUAUGUAUCAAUGUUUUA
+pyrg_flexus                 -----------------------------------------CUCAUCUUG
+pyrg_oceanisediminis        -------------CUUACUUACUUAAGUAAGAGGGGCGCUUUUUAUUUUU
+pyrg_horikoshii             -------------------------------UGGGGCGUUUUUUAUUUUA
+pyrg_cellulosilyticus       -------------------------UGGUGUCUGUUGUUUUUUUAUUUUA
+pyrg_simplex                -------------------------UUAAGGAAAUUUAUUCUUGUUCAUG
+pyrg_mycoides               ---------------------UUCAUGACUAAGUAUAUUUUUGUAACAGG
+pyrg_weihaiensis            ---------------------GGUAAGAGAGGACAAGCUUUAAAAAAGAG
+                                                                              
+
+pyrg_subtilis               U----A-CGUUAUGCUCCCUUUCAAGAAAUUGAAAGGGAGCUUUCUUAUU
+pyrg_amyloliquefaciens      G----AGUGCUACGCUCCCUUUCAAGAAAUUGAAAGGGAGCUUUCUUAUU
+pyrg_licheniformis          G----GACUAUCAGCUCCCUUUCAAGAAAUUGAAAGGGAGCUUUCUUGUU
+pyrg_glycinifermentans      G----GACUAUCAGCUCCCUUUCAAGAAAUUGAAAGGGAGCUUUCUUGUU
+pyrg_atrophaeus             G----AAUGCUACGCUCCCUUUCAAGAAAUUGAAAGGGAGCUUUCUUAUU
+pyrg_smithii                U----A--AAAACUUUUUUGUAUAUAAAGAAGAAAGAACGCUCCCUUACU
+pyrg_pumilus                U----A--AAAAGAGUAC-GUAAAGAUACGUUCAUUUACGCUCCCUUUC-
+pyrg_methanolicus           C----GGUAAAACGCUCCCUUACAUGAAGUAGGAGGAGCGUUUUUUAUUU
+pyrg_pseudofirmus           U-UAAAAGCAAAUGCAUAUUUUAUAACCAAAACAAAAGUGCGCCCC--CU
+pyrg_clausii                CAUGAGCGUAGAUAAUGAACAUGAAUACAAACAAAAGGGGCGCCCCAGCC
+pyrg_anthracis_ames         CUCCCUACUUAUUACUU---UAUGUGAUGAGGGGAGCAAUUUUCUUUUUU
+pyrg_anthracis_sterne       CUCCCUACUUAUUACUU---UAUGUGAUGAGGGGAGCAAUUUUCUUUUUU
+pyrg_thuringiensis          CUCCCUACUUAUUACUU---UAUGUGAUGAGGGGAGCAAUUUUCUUUUUU
+pyrg_cereus                 CUCCCUACUUAUUACUU---UUUGUGAUGAGGGGAGCAAUUUUCUUUUUU
+pyrg_cytotoxicus            CUCCCUACUUAUUGCGU---UUUGUAAUGAGGGGAGCAAUUUUCUUUUUU
+pyrg_megaterium             CACCCCGAUAUGUUCUUA--UAAAUCCUUGAUAGAAACUUUCUUUUGGUU
+pyrg_flexus                 CUGUCGAGUUUUUGCUUU--UUCGUACUGAACAGUUGAAUUCUUAUUCUU
+pyrg_oceanisediminis        UUAUAGGCCAUGUGCCUU-UUUAAAAGAGCUAAACCAUCCCUUUGCGAUA
+pyrg_horikoshii             UUAGUGAAUAGACAUUCAUAUGCUGAACCUGAGAAAUUGGGGGCAGCUUC
+pyrg_cellulosilyticus       U---GUACGAAAUACAAAAAUGUCUCCAAACGGAAAAACUUUUUUAUAGU
+pyrg_simplex                UAUCCUGCAUGACUCUCACUAAAAACCUUUAAGUGAUUAAUGGUUUGUAC
+pyrg_mycoides               CGGUGUAGUAUCGUCUUUAGGUAAAGGUAUUACAGCAGCAUCUCUUGGAA
+pyrg_weihaiensis            AGCUAAGCUGAUCGUUUUGAUUUUGCUAAAAAGCUAAAGAAGGCAUGCAG
+                                                                              
+
+pyrg_subtilis               UUCACCCCU---------CAU-UUUUCUUAUAAAUCAUUUAAAA------
+pyrg_amyloliquefaciens      UUCAUCUCC---------CAAAUUCUUUUACACAUCAUUUGUUUU-----
+pyrg_licheniformis          UUUCCGCCU---------CCUAAUCAUUU--AAAUCAUUUAGAAA-----
+pyrg_glycinifermentans      UUUCCGCCU---------CCUAAUCAUUU--GAAUCAUUUAGAAA-----
+pyrg_atrophaeus             UUCACCCCGAUAUAACGGUAUUUUCUUUGCAUAAUCAUUUAGAAAUAGAA
+pyrg_smithii                GUUCAUAGG----UAAGAGGGGCGUUUUUGUAUUUUACCCAAAAA-----
+pyrg_pumilus                AUUUAU-------UUGAAAGGGAGCUUUCUUAUUUU--UCAAGAG-----
+pyrg_methanolicus           UUUUAU---------AAAAUCGUUUUCCCUGUUUUUAAUUAAUUU-----
+pyrg_pseudofirmus           AUUUAGGGU--------GAGCUGUCGCUUUUGUUUUUUUUAUUUUA----
+pyrg_clausii                AUGCUGGGU--------GAGGUGCCGCUUUUGUUUUUUUUAUGAUA----
+pyrg_anthracis_ames         GUUUUUUGUUUAGAAAAUAAAAAGAGUCUAACAAU----------AAGAU
+pyrg_anthracis_sterne       GUUUUUUGUUUAGAAAAUAAAAAGAGUCUAACAAU----------AAGAU
+pyrg_thuringiensis          GUUUUUUGUUUAGAAAAUAAAAAGAGUCUAACAAU----------AAGAU
+pyrg_cereus                 GUUUUUUGUUUAGAAAAUAGAAAGAGUCUAACAAU----------AAGAU
+pyrg_cytotoxicus            GUUUUUUGUUUAGAAAAUAAAAAGAGUCUAACAAU----------AAGAU
+pyrg_megaterium             CUUGAACGUUUCACAUUCAUAAGGUUUCUUAUAAUUUCGCAUGC-ACAAU
+pyrg_flexus                 CUUCAAUAAGCAUUCCCAAUAAUGCUUUUAAUAAUUUCAUGCAUGAUGAU
+pyrg_oceanisediminis        AGCUUCCGCUGA--AAAAAUCGGAGGCUGAACAAUA--------------
+pyrg_horikoshii             AUUUUUUAGUAAAUGAAUUUCGUGUUUUUGACUAAUGAUAAAAAUG---U
+pyrg_cellulosilyticus       GGACAUAACAAUGCAUGAAAUAGGAAUUUUAAUUCCACUAUACAAA----
+pyrg_simplex                AGAUUUUAUGGUUAUAGCUUUAACCGCCUGUGUGGCGGAAGAUUUG----
+pyrg_mycoides               GACUUUUAA------AGAAUCGUGGUUUAAACGUAACUAUUCAAAAGUUU
+pyrg_weihaiensis            GAAUAGUUGGUGUGGAUCUUUAGGUUUUCGAAUAU---------------
+                                                                              
+
+pyrg_subtilis               ------GGC-UAAAUGAUUUUUUAUAAAAUAGUACAUUUUAAA-A--AUG
+pyrg_amyloliquefaciens      -----UAGU-GAAAUGAUUUUCUAUAAAACGGCACAUUUUAAAGA--AUG
+pyrg_licheniformis          -----AGAUCUAAAUGAUUUUUCAUAAA-AAGAGCAUUUUAAGAA--AUA
+pyrg_glycinifermentans      -----AGAUCUAAAUGAUUUUUCAUAAA-CGGAGCAUUUUAAUGA--AUA
+pyrg_atrophaeus             GCAAAAAAACUAAAUGAUUUUUUAUAAAACGGUACAUUUUAAAGA--AUG
+pyrg_smithii                --------ACUAAGGAACAUUAUAUACAACAGUUGUUUCAGAUAU--CAG
+pyrg_pumilus                --------AUUUAGGGAUACACUCUAAAAAGGAUGAAGCUGUGCA--UGG
+pyrg_methanolicus           --------UUAACGAAUUAAGCCUUUAAAGAGAAGGUAUUAUGCA--CAA
+pyrg_pseudofirmus           ----------UUG--ACCUUUUUAGGGGAAAAUACAUUUUGA--------
+pyrg_clausii                ----------UAGCAAAACGGACAGAAGAGCAGACAUCGUAAGCAUCCCC
+pyrg_anthracis_ames         GGAUACAGUGUUAUCUACAUACGUUGCGCUUUGCAACGGUGAUUAUAUAA
+pyrg_anthracis_sterne       GGAUACAGUGUUAUCUACAUACGUUGCGCUUUGCAACGGUGAUUAUAUAA
+pyrg_thuringiensis          GGAUACAGUGUUAUCUACAUACGUUGCGCUUUGCAACGGUGAUUAUAUAA
+pyrg_cereus                 GGAUACAGUGUUAUCUACAUACGUUGCGCUUUGCAACGGUGAUUAUAUAA
+pyrg_cytotoxicus            AGAUACAUUGUUAUCUACAUACGUUGCGCUUUGCAACGGUGAUUAUAUAA
+pyrg_megaterium             GAAUGAAUUGUGAU-UGUUUAUGUGAAAACUUUUAAUAUUGUACAGUUCA
+pyrg_flexus                 GAAUGAAUUGUGAU-UGUUUAUGUAAAAACUUUUAGUAUUGUACACUUUA
+pyrg_oceanisediminis        ----GAAUUUUUAUCAUCAAGUCUUUAAACCGGCAUCAUUAUGCA---CA
+pyrg_horikoshii             UAAAUGCCUCUUAAAAGCAUAUCCGUUACUUAUUAUUAUUUUCAA---AU
+pyrg_cellulosilyticus       -----AGAGUAUAAAAUUAUAGUUGAACUUUUUUAUUUUUUUAUAUUGAA
+pyrg_simplex                --------AUGCAGGUUCAGAUUAAAUGAUGUGAAGAACGGCAUUCGAAG
+pyrg_mycoides               GAUCCAUACAUUAACGUAGACCCAGGGACUAUGAGCCCCUACCAACACGG
+pyrg_weihaiensis            -------ACCCAAAUGAUUUCUCAAUAUCUGUACAAAAUAAAACUAUAUA
+                                                                              
+
+pyrg_subtilis               UAGCUAAGAGCGAAGAGAGGAGCAAACGAAA-UGACGAAAUAU
+pyrg_amyloliquefaciens      UAGCGCAGACCGAAGAGAGGAGCAAACGAAA-UGA--------
+pyrg_licheniformis          AGCGUUA-AUCGAAGAGAGGGGUACA-GAAA-UGA--------
+pyrg_glycinifermentans      AGUGUUAGAUUGAAGAGAGGGGUACA-GAUA-UGA--------
+pyrg_atrophaeus             UAGCUUAGACCGAAGAGAGGAGCAAUCGAAAAUGA--------
+pyrg_smithii                CGAACAUUAUGAAGGGGGAACUAAAUUGA--------------
+pyrg_pumilus                CUAGACAUGCAAGGGUAAAAAAGAGAGGAGCAUACGAAAUGA-
+pyrg_methanolicus           ACUGUUUUAGAGGGGGAAUAUACACAUGA--------------
+pyrg_pseudofirmus           UGAAAAGU--AGAGGAGUCGAUCGCAUGG--------------
+pyrg_clausii                UGACUAAUUCAAAGGAGGAGUCAAUAUGG--------------
+pyrg_anthracis_ames         CAGCAAAAUAGAAGGGAGCUUUUUCAUGA--------------
+pyrg_anthracis_sterne       CAGCAAAAUAGAAGGGAGCUUUUUCAUGA--------------
+pyrg_thuringiensis          CAGCAAAAUAGAAGGGAGCUUUUUCAUGA--------------
+pyrg_cereus                 CAGCAAAAUAGAAGGGAGCUUUUUCAUGA--------------
+pyrg_cytotoxicus            CAAGAAAGCAGAAGGGAGUACUUUCAUGA--------------
+pyrg_megaterium             -AAUUAUUUAGAGGGGGAAGUAUAGAUGA--------------
+pyrg_flexus                 -ACAAAUUUAGAGGGG-AAGACCAAAUGACAAAAUAUA-----
+pyrg_oceanisediminis        AACUGAUAUCAAGGGGGAAUUUUUCAUGA--------------
+pyrg_horikoshii             AAAAUUAUUUCGAGGGGGAGACAGCAUGA--------------
+pyrg_cellulosilyticus       AAAUUGAUAAAGCGAGGGAACUAACAUGG--------------
+pyrg_simplex                AAAACAAUCUAUAGGAGGAUAUAAGAUGA--------------
+pyrg_mycoides               UGAGGUAUUCGUAACAGAU------------------------
+pyrg_weihaiensis            AGCUUCUUUUAGGGGGAAAAACAUGACAAAGUAUA--------
+                                                                       

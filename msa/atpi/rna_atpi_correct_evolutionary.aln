@@ -1,0 +1,127 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+atpi_pseudofirmus           -----CUUUUAUUCUAGCUGGGUUCGGCUAUUUAAUUCGUAUUGUUCUUG
+atpi_clausii                --------UGGUUUUCGCGGGAUUGGGAUUUGUGUUUCGACUCAUCUUUG
+atpi_subtilis               -----------------GAUCUCUCGGGAGCGCAGCGCGGUGGUGCAAUG
+atpi_atrophaeus             -----------------GAUCUCUUGGGAGCGCAGCGCGGUGGUGCAAUG
+atpi_amyloliquefaciens      -----------------GAUCACUCGGGAGCGCAGCGCGUUGGUGCAAUG
+atpi_licheniformis          -----------------GUUCUCUCGGGACUGCUUCCAGAUUGUGCAACG
+atpi_glycinifermentans      -----------------GCUCUCUCGGGACCGCCUCCAGACUGUGCAAUG
+atpi_pumilus                -----------------GUUCAAUGGGAAGUACAGCCAGGUGGGCCAACG
+atpi_megaterium             -----GGAAAAAGCCCCGUUCAAUUGGGACUGUUGUAAGAUUUGCAACAG
+atpi_flexus                 ------------------UUCAGUAGGAACAUUUGCAAGGUUUGCAACCG
+atpi_horikoshii             --------------------CAUUAGGUUCUUUUUCAAGAAUGGCCGCCG
+atpi_anthracis_ames         --------------CGACAGCGGUAAGUACAUAUUCAAGAUUCGCCACGA
+atpi_cereus                 --------------CAACAGCGGUAAGUACAUAUUCAAGAUUCGCCACGA
+atpi_anthracis_sterne       --------------CGACAGCGGUAAGUACAUAUUCAAGAUUCGCCACGA
+atpi_thuringiensis          --------------CGACAGCGGUAAGUACAUAUUCAAGAUUCGCCACGA
+atpi_mycoides               ---------------GACAGCGGUAAGUACAUAUUCAAGAUUCGCCACGA
+atpi_methanolicus           --------AAAAAACGGUCUCUCUCGGAUCGUUUUCCAGAAUGGCAACGG
+atpi_oceanisediminis        --------AGAAGGUGCGUUCACUUGGAACGGUAUCCAGAAUGGCUACAG
+atpi_simplex                -----GUAAGAAAACGCGUUCCCUUGGUAGUUUAACUAGAAUGUCUGUAG
+atpi_weihaiensis            AGCAAAUGGGCGGAAAGUGACAUUAGGAACAGCCACUAGAAUGGCUUCAG
+atpi_cellulosilyticus       --------CGAGUCUUGUGAUUUUUGGAACGCUAACACGAAUUAUCGCUG
+atpi_cytotoxicus            --------------------------GCAUUUUAAAUCGUUUUGCAGCUG
+atpi_smithii                --------GCACCAUCUUAUCUCAGCUGGCAGGAUCUGUUUUGAUCGGGA
+                                                                              
+
+atpi_pseudofirmus           CACUCUCUGUGGUUUACUGGGCGCUCAUCAAUCCGGAUACACUUAAUGUU
+atpi_clausii                CGUUCAUAGCGAUUUGGCUGGCUCUUCAAUUUCCAGAAAACAUCCAUAUU
+atpi_subtilis               CGAUUCUUGCUGUGGCUGUUGCCUAUAAAAAUCCCGAAUACUUUCAUAUG
+atpi_atrophaeus             CGAUUCUCGCUGUGGCCAUUGCUUACAAGUAUCCCCAAAAUGUUCAUAUG
+atpi_amyloliquefaciens      CGAUACUUGCGAUGGCUAUCGCCUUUAAAUAUCCCGACAAAGUCAGUGUG
+atpi_licheniformis          CCAUUAUCGCGGCGGCCAUUGCUUAUAAAUACCCUGAAUAUAUUCAUUUG
+atpi_glycinifermentans      CCAUCAUAGCGGCGGCCAUUGCUUUCAAAUUUCCUGAGUAUAUUCAUUUG
+atpi_pumilus                CAAUUCUCGCAGUAGCGAUUGCUUGGCGUUACCCUAAUGAAGUUCAUCUG
+atpi_megaterium             CUGCUCUCGCAGUUGUGAUUACCAUCUCUUAUCCAAAAACCUUUCAUAUU
+atpi_flexus                 CUGCUCUAGCUGUUGUAAUUACAAUCUCUUAUCCAAAUACUUUUCAUAUU
+atpi_horikoshii             CAAUACUCGGUGUGGUCAUCGCUAUGAGAUAUCCAGAAACACUGAAUCUC
+atpi_anthracis_ames         UUGGGUUAUUAAUUUUAUUUGCAGCCAAAUAUCAAGAGUUAAUUGCGAUG
+atpi_cereus                 UUGGGUUAUUAAUUUUAUUUGCAGCCAAAUAUCAAGAGUUAAUCGCGAUG
+atpi_anthracis_sterne       UUGGGUUAUUAAUUUUAUUUGCAGCCAAAUAUCAAGAGUUAAUUGCGAUG
+atpi_thuringiensis          UUGGGUUAUUAAUUUUAUUUGCAGCCAAAUAUCAAGAGUUAAUUGCGAUG
+atpi_mycoides               UUGGGUUACUAAUUUUAUUUGCAGCCAAAUAUCAAGAGUUAAUUGCGAUG
+atpi_methanolicus           GUGCCUUUGCCGUAAUUAUUGCGAUGAGGUAUCCAGACACAUUUCACCUU
+atpi_oceanisediminis        CAGUAUUUGCUGUGAUGAUCGCUCUGGAAUAUCCGGAUAAGCUGCAUCUG
+atpi_simplex                CGGGUUUAGCUGCAAUUAUUGCAUUGAGAUAUCCAUAUGAGUUUCAAGUG
+atpi_weihaiensis            CUAUUGUCGGUGUUUUUUUUGCCUUGAAAUUUCCUGAGUAUAUAGAUUUG
+atpi_cellulosilyticus       CGGUCUUAGCUGUAACAAUCGCAAUGCGUUUUCCUGAAUACCUACAAAUC
+atpi_cytotoxicus            CGAUAUUAGGAGCCAUUAUUAUGUAUGAAAUCGAACAUGAAAUGGAAAUG
+atpi_smithii                UAUUUCUCGGUAGAUGGAUCGAUGGCAAAUGCCAAACAGAACCUCUGUU-
+                                                                            * 
+
+atpi_pseudofirmus           CUUUUAGUCAUUGCAGGGAUAUCCCUGAUUUAUGCCAUUAUUAUGCUUGA
+atpi_clausii                GUUGCGGUUGUGGUUGGGCUAGGGCUGCUAUACGGUGUGAUGAUGGUCGA
+atpi_subtilis               GCAAGUACAGUUAUUGGAUUAAUGACAAUAUACCCUGUCAUUAUGAUAGA
+atpi_atrophaeus             GCAAGCGUAAUUAUUGGAUUAAUGACGAUUUACCCUGUCAUUAUGAUAGA
+atpi_amyloliquefaciens      GCAAGUGUGAUUAUUGGAUUAAUGACAAUUUAUCCCGUCAUUAUGAUAGA
+atpi_licheniformis          GCAGGCGUCAUUGUGGGGUUGAUGACAAUUUAUCCUGUCAUUAUGAUAGA
+atpi_glycinifermentans      GCAGGCGUCAUUGUGGGGUUGAUGACAAUUUACCCUGUCAUUAUGAUAGA
+atpi_pumilus                GCAGGUGUUGUUAUAGGAUUAAUGACAAUAUAUCCUGUCAUUAUGAUAGA
+atpi_megaterium             AUUAGUGUAGUUGUGGGAUUAAUGACGUAUUACGUUGUCAUUAUCAUAGA
+atpi_flexus                 AUUGGUGUAGUUAUGGGAUUAAUGACAUCCUAUCUUGUCAUUAUCAUAGA
+atpi_horikoshii             UACGGCGUCAUCAUAGGGAUUAUGACAUCCUAUAUUGUCAUUAUCAUAGA
+atpi_anthracis_ames         UGGGGCUUAGGUGUAGGAUUGCUGACAGGAUACCUUGUCAUGAUCAUAGA
+atpi_cereus                 UGGGGCCUAGGUGUAGGAUUGCUGACAGGAUACCUUGUCAUGAUCAUAGA
+atpi_anthracis_sterne       UGGGGCUUAGGUGUAGGAUUGCUGACAGGAUACCUUGUCAUGAUCAUAGA
+atpi_thuringiensis          UGGGGCUUAGGUGUAGGAUUGCUGACAGGAUACCUUGUCAUGAUCAUAGA
+atpi_mycoides               UGGGGCUUAGGUGUAGGAUUGCUGACAGGAUACCUUGUCAUGAUCAUAGA
+atpi_methanolicus           AUCAGUGUAAUUAUUGGAUUAAUGACAUCUUAUAUUGUCAUUAUGAUAGA
+atpi_oceanisediminis        AUCAGUGUGGUAUUUGGAUUAAUGACAUCCUAUAUUGUCAUUAUGAUAGA
+atpi_simplex                GUCUGUGUGGUUGUGGGAUUAAUGACAGUUUAUUUUGUCAUUAUGAUAGA
+atpi_weihaiensis            AUAAGUGUAGUUUUGGGAUUAAUGACGAUGUACGUUGUCAUUAUGAUAGA
+atpi_cellulosilyticus       GAAGGUGUCAUCAUAGGUUUAGCAAUAACCUAUUUCAUUAUAUUAAUAGA
+atpi_cytotoxicus            UGGGCAUUUGGAACGGGAAUUUUAGGAGGUCACUUUUUGAUGAUUGCAAA
+atpi_smithii                -----UUUAGUGAUUGGGCUUUUAUCGGGAUUAGCGGCCGGAAUACUGGC
+                                           **  *                       *      
+
+atpi_pseudofirmus           UAUG----CUAUUUCAA------UUUAUGAGAAAGAGGUGAA-UAGUAUG
+atpi_clausii                CAUG----UUCAUAAAAGCU---CUCAUACGAAAGAGGUGAAAUAGUUUG
+atpi_subtilis               UUCC----UUUAUCCAGCUUAAACGUU-------CAUCAAUGGAAGAGAG
+atpi_atrophaeus             UUCC----UUUAUCCAGCUUAAACGUU-------CAUCAAUGGAAGAGAG
+atpi_amyloliquefaciens      UUCC----AUUAUUCAGCUCAAACGUU-------CAUCAAUGGAAGAGAG
+atpi_licheniformis          UUCC----UUUAUCCAGCUAAAACGUU-------CAUCAAUGGAAGAGAG
+atpi_glycinifermentans      UUCC----UUUAUCCAGCUAAAACGUU-------CAUCAAUGGAAGAGAG
+atpi_pumilus                UUCC----UUCAUUCAACUUAAACGUU-------CUACUAUGGAAGAGAG
+atpi_megaterium             UUUA----GUUGUUCAAAAU----AUGCG---UAGAAGAUAGAAAGAGAG
+atpi_flexus                 UUUA----GUUGUUCAAAAU----AUACG---CAGGAGAUGGGAAGAGAG
+atpi_horikoshii             UUCA----UUUGUA-ACACU----CUUUA---AAGCAGUGGGGAAGAGAG
+atpi_anthracis_ames         UUUU---CUUUAUUUAGAGU----AU-------AAGAGCAGGGAAGAGAG
+atpi_cereus                 UUUU---CUUUAUUUAGAGU----AU-------AAGAGCAGGGAAGAGAG
+atpi_anthracis_sterne       UUUU---CUUUAUUUAGAGU----AU-------AAGAGCAGGGAAGAGAG
+atpi_thuringiensis          UUUU---CUUUAUUUAGAGU----AU-------AAGAGCAGGGAAGAGAG
+atpi_mycoides               UUUU---CUUUAUUUAGAGU----AU-------ACGAGCAGGGAAGAGAG
+atpi_methanolicus           UUUUUUUCUUCAUUCAUUCU----AUUUACGUAAUUAGCGGGGAAGAGAG
+atpi_oceanisediminis        UUAU----UUUCUUCAAUCUUUUCAAUUACGUAAAUAGCGG-GAAGAGAG
+atpi_simplex                UUAU----UUUAUGCAAA------ACAUACGUAGGAAGUAAAGAAGAGAG
+atpi_weihaiensis            UUUU----UUAUUGAAGCAUUUACGUU-------AAUAGCUGGAAGAGAG
+atpi_cellulosilyticus       ACCU----AUGUUUCACAUUAAGCACCUU----AAUCGCUAAUGUGCAUG
+atpi_cytotoxicus            CUUAG---CUUAUGCAAACAUGCAAUUAGUGAAAGAAGAAAACAAGAAAA
+atpi_smithii                GAUGC---UGCGUACAAUACGCCGUUUCA---AUUCAGGGGAUUAGUGCG
+                                        *  *                             *    
+
+atpi_pseudofirmus           AA--CGAUCAUAAGCCGC-----------------
+atpi_clausii                CC--GGAACAUCAUCAA------------------
+atpi_subtilis               GU--GAAAACCCUUUGAAUCAUGGUUACAG-----
+atpi_atrophaeus             GU--GAAAACCCUUUGAAUCAUGAAUACAG-----
+atpi_amyloliquefaciens      GU--GAAAACCCAUUGAAUCACGAUUACAG-----
+atpi_licheniformis          GU--GAAAACCCUUUGAAUCACGAAUCUAG-----
+atpi_glycinifermentans      GU--GAAAACCCUUUGAAUCACGAAUCCAG-----
+atpi_pumilus                GU--GAAUACUCUUUGGGUCACAGUUCAAA-----
+atpi_megaterium             GU--GAAC-ACAGUUGGGU----------------
+atpi_flexus                 GU--GAAU-AUAGUUGGGUCAUGAAUCACCAA---
+atpi_horikoshii             GU--GAGU-AGUGUUGGGUCACAGUGCUCCUAUAG
+atpi_anthracis_ames         GU--GAAUUACUAGUGGAACACGGUAAAUU-----
+atpi_cereus                 GU--GAAUUACUAGUGGAACACGGUAAAUU-----
+atpi_anthracis_sterne       GU--GAAUUACUAGUGGAACACGGUAAAUU-----
+atpi_thuringiensis          GU--GAAUUACUAGUGGAACACGGUAAAUU-----
+atpi_mycoides               GU--GAAUUACUAGUGGAACACGGUAAAUUA----
+atpi_methanolicus           GU--GAAUUACUAU---------------------
+atpi_oceanisediminis        GU--GAAC-ACUAUUG-------------------
+atpi_simplex                GU--GAAU-ACUGUUGAA-----------------
+atpi_weihaiensis            GU--GAAUCAAUU----------------------
+atpi_cellulosilyticus       GC--AAAAAAUGUACAAA-----------------
+atpi_cytotoxicus            AAUAGAAAGGGUACUACAUAAAGAGCGCU------
+atpi_smithii                UU--AAAAUAUUUGAAAGCUAU-------------
+                                                               

@@ -1,0 +1,152 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+subtilis               -GUUGUGCA-UUGAAAAUGUCCUUAACGGCUUAAUUAUAGAUGAA-------GAAAAUGA
+atrophaeus             ---UGUGUU-UUGAAUAUGUCCUUAACGGCUUAAUUAUAGAUGAAUG-----AAAAACGA
+amyloliquefaciens      UGUUUUGAAGUUGAAUAUGUCCUUAACGGCUUAAUUAUAGAUUUA---------AAAUGA
+pumilus                ----------UGAAAUAAGCCCUUG-UGGAUUAAAUAUAUAUGAAAUAUGUCGAAAAAGA
+licheniformis          -----UGU-UUGAAAAAUGUCUUAAAAGGCUUUGAUAUAGAUUAUU----AGUCUGAUGA
+glycinifermentans      ---GUUGUGUUGAAAAAUGUCUUUUAUGGCUUUUACAUAGAUUG------AGUACGAUGA
+weihaiensis            ------------AAUUACUCAUUGUAAUUUUUAAAUAUGACAGAAG------UUUAACAU
+megaterium             ---------UUAUCUAUUUUUUUAAAUUU-UAAUAUGAUAAAAUUACAUUUAUGUGAGUU
+flexus                 ---------CAAACUAUUCACUUAGCUAAGUAAAAAAGCACCUCUCUAAUUUAGAGAGGU
+pseudofirmus           -CCUAUCUAUUUUUUUAUGGAUUGUUGUGAUAAAAUAACGCUUAUGUGAGAAA--AAUGU
+cellulosilyticus       ------AAAAAAAAUACUAGAUUGAAAAGUUAAAUCAAUAAAUAUUUAAUAAAUCGAGGU
+anthracis_ames         ------------------------------------------------------------
+anthracis_sterne       ------------------------------------------------------------
+thuringiensis          ------------------------------------------------------------
+cereus                 ------------------------------------------------------------
+cytotoxicus            ------------------------------------------------------------
+mycoides               ------------AGCCAUCCUCAUCACGUACAGAUUACAAAAGAGGCUCCAAACUACUCA
+oceanisediminis        ----------CUAUCUAUUCUUUGCACCAGAGUUAUGAUAAAAUAACAAAAGUGUAU-UA
+smithii                -----------UGUCUACUUUUUGUCUUGAGAGUAUGAUAAAAUAUCGAAGGUGUACAUA
+methanolicus           ----------CUGUCUAUCCAUUCGAAUAGAGUUAUGUUAAAAUUACGAAAGUGUAA-UA
+horikoshii             -----------UGUCUAUUUUUUUUGGACAUAGUGUGAUAAAAUAACGACUAUGUGA-AA
+simplex                --------------UGGAGGUAUUGGAAAUUGAAAAAAAUCAGCAAGAUUACCCUCAUUU
+clausii                ------------AAUGUGUGUUAUACAAGCGGAGGUGUAAAGGUGAAACAAAAGGGUUUA
+                                                                                   
+
+subtilis               --AAUACGGAGGUCGUACGAUU-GAACAUCAAGAAAUGUAAACAGCUACUGAUGUCAUUG
+atrophaeus             --AAUACGGAGGUCGUAAGAUU-GAACAUCAAGAAAUGUAAACAGCUGAUGAUGUCAUUU
+amyloliquefaciens      --AUGACGGAGGUCGUAAGAUU-GAACAUCACGAAAUGGAAACAGAUGUUGGUGUCAUUA
+pumilus                UGAUAACGGAGGUAUGACGAUU-GAACAGCAAGAUAUUGAAACAGCUUAUGGUCUCUAUC
+licheniformis          --AAAGCGGAGGUAUCACGAUUUGAAAAGCAAGAGAUUAAAGCAGCUGAUCAUGUUAAUC
+glycinifermentans      --AAAGCGGAGGUAU-ACAAUUUGAAAAGCAAGAAAUUCAAACAGCUGAUCAUGUUAGUU
+weihaiensis            --UUGACAGAG-UCUCGUACUCUGUCUAUUUUUUUGUAAAUUUAUAUGAUAAAAUCAAUC
+megaterium             UACGUUUGGAGGGUAUAGAGUGAGAAACGCAGUA--CAGAAACAAUUAAUUUGUGUCAUU
+flexus                 -GCUUUUUUAUGCUCAAGAUUGUUUUA-ACGGUA--CUUCUUUAUCUAUUUUUUUUAAUU
+pseudofirmus           GGAGGUGCGAUUGU-GAAAUUGUUAGGUAAGAAAAAAUGGGUUGCCGCGUUCAUGUCAUU
+cellulosilyticus       UGAUAGGAGAGGGU-AAUGUUGUUGAAAAGAAUGGGUAUGAUAGGUCUACUAAUUAUAUU
+anthracis_ames         --------------------------------------------------UUUUUUUGAU
+anthracis_sterne       -----------------------------------------CUGUCUAUUUUUUUUUGAU
+thuringiensis          -----------------------------------------CUGUCUAUUUUUUUUUGAU
+cereus                 -----------------------------------------CUGUCUAUUUUUUUUUGAU
+cytotoxicus            -------------------------------------------GUCUAUUUUUUUUUGAU
+mycoides               UUAUAAUGUCUUAUAUACAAAUAGACAGAGAUUUGAUAUCUCUGUCUAUUUUUUUUUGAU
+oceanisediminis        AAACGUUGGAGG-GCAGUAAAUUGAAGAAAACAUUUUACCGUAAGUCUAUCGCUGGAUUC
+smithii                UAAAGAUGGAGG-GCUAUUGAGUGAGAAAGAAGAAGGUUUACAAAAGUAUCGCCUGUUUA
+methanolicus           AAACGUUGGAGG-GCAUUACUGUGAACAAACAUUUCUAUCGUAAAACGGUUGCGAUCAUG
+horikoshii             AAAUUCUGGAGGUAAGACAAGGUGAAAAGAAGCUUUAAACAAUUGUUCGUCAGUUUAUUA
+simplex                UCACUUUUG----UCUUUGCUCUUGUUAUGUCGCAAUUUGCCUAUCAACCGGGGGAAGCU
+clausii                CCAAGCUGGACAAUGCGUAUAAUGGCUGCAUUGGCUAUGCUUGCUUUCGUACUAGGACCA
+                                                                                   
+
+subtilis               GUUGUGUUAACUCUAGCUGUCACGUGUCUGGCUCCAAUGUCAAAAGCGAAAGCAGCCA-G
+atrophaeus             UUUGUAUUAACUCUAAUUGUGACUUGUCUGGCUCCAAUGUCCAGAGCAAAAGCAGCCA-G
+amyloliquefaciens      GUGGUACUGGCACUGACCGCAACUUGCUUUGUUCCGAUGUCUAAAGCGGAAGCAGCCG-G
+pumilus                CUUGCUCUGGCAUUGAUUGUGACAGCAUUUACACCAAUGUCCAAAGCAAAAGCAGCUG-A
+licheniformis          GUUGCUUUUGCCGUGACUGUAGGUGCAUUUUCUCCUAUGUCAACUGCAAAAGCUGCAA-A
+glycinifermentans      GUUGCUUUUGCAGUGGUGAUAGGAGCAUUUUCUCCUAUAUCAAACGCAAAGGCUGCAA-A
+weihaiensis            UUGUUGUUUGAAAAAAAUACAAAUUUAUUAUAGAUGAUUAAAAUGAUGGAGGUAGAAACG
+megaterium             GCUGUUAUGUUAA-UGGCCAGCGUAUUUUUUGUCUCUACACAAGCAUCAGCUGCUCCU-A
+flexus                 UUUGUGUGAUAAAAUAACCUCUAUGUGAUUUAUGUCUGGA-GGGUAUUGGUAGUGAAG-A
+pseudofirmus           UGUUUUAAUGGCUACGCUUAUAGUACAACCAACCACAGCUGAUGCA--GCGCUUGAUU-U
+cellulosilyticus       UACAUUUACGAGUUUACUUACUG---GAGUAACAACGACAAAGGCA--GACUAUGAGU-C
+anthracis_ames         UAUGUUAGAAUAACGGUUAUGUGAGUACAU--AGAUAUUGGGGGUAGCAAAAGUGAAA-G
+anthracis_sterne       UAUGUUAGAAUAACGGUUAUGUGAGUACAU--AGAUAUUGGGGGUAGCAAAAGUGAAA-G
+thuringiensis          UAUGUUAGAAUAACGGUUAUGUGAGUACAU--AGAUAUUGGGGGUAGCAAAAGUGAAA-G
+cereus                 UAUGUUAGAAUAACGGUUAUGUGAGUACAU--AGAUAUUGGGGGUAGCAAAAGUGAAA-G
+cytotoxicus            UAUGUUAGAAUAACGGUUAUGUGAGUACAAUGAGAUAUUGGGGGUAACUGAAGUGAAA-G
+mycoides               UAUGUUAGAAUAACGGUUAUGUGAGUACAU--AGAUAUUGGGGGUAGCAAAAGUGAAA-G
+oceanisediminis        CUUGCCUUGGUCAUGAUAUUAGGUCUUUUACC---U-GGUAUACA--UAAAGCUCAUG-C
+smithii                GUCAGCUUGUU---GCUAUUGACCGUUUUACU---UCAAUCUCCCGUUCAAGCUCAAG-C
+methanolicus           AUGACUGCUCUGUUGUUCUUUGCCAUUUUUUCAGGUAACAACAAAGCAGAAGCAGAAG-C
+horikoshii             GUACUUACGCUUAUGGUUUCAA---UAUUUCCUGGUAAAUCUGC---UCAAGCAGAAG-A
+simplex                GUUGCUGAAUCUGAUAAUUUAGGUUUAAAAGCAGAGGCAGCCAUCAUCAUUGAUGGUA--
+clausii                AUUAAGCCUGCGAGUGCGCAGUCUUUAACAGUAGAUGCCAGUGCAGCGAUUGUCGUUA-A
+                                                                                   
+
+subtilis               CGAU---CCA-AUUGAUAUCAAUGCAUCUGCUGCUAUUAUGAUCGAAGC-----------
+atrophaeus             CGAU---CCG-AUUGACGUUAAUGCGUCAGCAGCUAUUAUGAUCGAAGC-----------
+amyloliquefaciens      CAAUGACCCG-AUUGAUGUCAAUGCAUCAGCUGCGAUAAUGAUUGA--------------
+pumilus                AGAU---CCA-UUCAAUGUGAAUGCGAAAGCAGCGAUCCUAAUUGAAGC-----------
+licheniformis          UGAU---CCA-AUCAAUGUAGACGCGAAAGCAGCAAUCCUGGUGGAAGC-----------
+glycinifermentans      UGAU---CCA-AUUAAUGUAAACGCAAAGGCGGCCAUUUUGAUUGAGGC-----------
+weihaiensis            UGGUUAACAACAAGAAUUUUAAACAAAUAAUAGCGUUAGUACUUGCUUUUACA-------
+megaterium             AAACA--GAUGAUAUUGGCGUU-GAAGCAGAUGCAGCGAUCUUAGUAGA-----------
+flexus                 AAAAAUUGAUAAAACAGCUUUUUGCAUUAGUUGCUGUUUUCUUAAUG-------------
+pseudofirmus           AGAUGC---AGAAUCAGCUAUU-UUAGUAGAGGCAGAGUCUGG-----------------
+cellulosilyticus       AGACUUGUUAGAGACUGGUAUA-UUAGUUGACGCUGAUACAGGAAA--------------
+anthracis_ames         GUAUGUUUUGCAAAAGAUUCAUUGCACUAGUAACGAUGCUUACACUAGUUUGUAGUAUGU
+anthracis_sterne       GUAUGUUUUGCAAAAGAUUCAUUGCACUAGUAACGAUGCUUACACUAGUUUGUAGUAUGU
+thuringiensis          GUAUGUUUUGCAAAAGAUUCAUUGCGCUAGUAACAAUGCUUACACUAGCUUGUAGUAUGU
+cereus                 GUAUGUUUUGCAAAAGAUUCAUUGCUUUGGUAACAGUGCUUACACUAGCUUGUAGCAUUU
+cytotoxicus            GUAUGUUUUGCAAAAGAUUCAUUGCAAUGGUAACAGUGCUGACAUUAUUUUUUAGCGCGU
+mycoides               GUAUGUUUUGCAAAAGAUUCAUUGCGUUGGUAACAGUGCUUACAAUA-------------
+oceanisediminis        AGAAGAUAUCUUAAACAUUAAU-GCAGAUGCUGCUAUUUUAGUAGAUGCAGA--------
+smithii                GGAAGAAACUCCAAAUAUUAAC-GCUGCAGCUGCAAUUCUAAUAGAUGGAGA--------
+methanolicus           AGAAGAUGCUUUAAAUAUUCAU-GCAAAUGCUGCUAUUUUAGUAGA--------------
+horikoshii             AAAUGAUUUUCUGAAUAUAAAU-GCGAAAGCUGCUAUAUUAAUAGAAUUUAA--------
+simplex                AAACAGGACAAAUCGUGUAUGAAAAAAAUGCCGAUGAAGUAUUAGGGAUUGC--------
+clausii                UGCCGAUACUGGACAAAUUUUAUUUGAACAAAAUAGCGAUGAACA---------------
+                                                                                   
+
+subtilis               ------------------------------------------------------------
+atrophaeus             ------------------------------------------------------------
+amyloliquefaciens      ------------------------------------------------------------
+pumilus                ------------------------------------------------------------
+licheniformis          ------------------------------------------------------------
+glycinifermentans      ------------------------------------------------------------
+weihaiensis            ------------------------------------------------------------
+megaterium             ------------------------------------------------------------
+flexus                 ------------------------------------------------------------
+pseudofirmus           ------------------------------------------------------------
+cellulosilyticus       ------------------------------------------------------------
+anthracis_ames         UGUUACCAUAUAGCAAUGCGUCAGCAGAAACAGGAUCUGCUUUAAACAUUGAAGCAGGUG
+anthracis_sterne       UGUUACCAUAUAGCAAUGCGUCAGCAGAAACAGGAUCUGCUUUAAACAUUGAAGCAGGUG
+thuringiensis          UGUUACCAUAUAGCAAUGCGUCAGCUGAAACAGGAGCCGCUUUAAACAUUGAAGCAGGUG
+cereus                 UUAUGCCAUAUAGCAAUGCAUCAGCUGAAACAGGAGCCGCUUUAAACAUUGAAGCAGGUG
+cytotoxicus            UCGUUACAUAUAGCAGUGUAUCAGCAGAAACAAGUUCUGCUUUAAAUAUUGAAGCAGGCG
+mycoides               ------------------------------------------------------------
+oceanisediminis        ------------------------------------------------------------
+smithii                ------------------------------------------------------------
+methanolicus           ------------------------------------------------------------
+horikoshii             ------------------------------------------------------------
+simplex                ------------------------------------------------------------
+clausii                ------------------------------------------------------------
+                                                                                   
+
+subtilis               -------------------------
+atrophaeus             -------------------------
+amyloliquefaciens      -------------------------
+pumilus                -------------------------
+licheniformis          -------------------------
+glycinifermentans      -------------------------
+weihaiensis            -------------------------
+megaterium             -------------------------
+flexus                 -------------------------
+pseudofirmus           -------------------------
+cellulosilyticus       -------------------------
+anthracis_ames         CGGCAAUUUUAGUUGAAGCGAAUUC
+anthracis_sterne       CGGCAAUUUUAGUUGA---------
+thuringiensis          CGGCAAUUUUAGUAGA---------
+cereus                 CGGCAAUUUUAGUAGA---------
+cytotoxicus            CAGCAAUUUUAGUAGA---------
+mycoides               -------------------------
+oceanisediminis        -------------------------
+smithii                -------------------------
+methanolicus           -------------------------
+horikoshii             -------------------------
+simplex                -------------------------
+clausii                -------------------------
+                                                

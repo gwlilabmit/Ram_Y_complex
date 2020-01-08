@@ -1,0 +1,127 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ffh_subtilis               -CUGCUUAAGCAGUUUGAUGAAAUGAAAAAAAUGAUGAAGCAGAUGACAA
+ffh_atrophaeus             -CUGCUGAAGCAGUUUGAAGAAAUGAAAAAAAUGAUGAAGCAGAUGACCA
+ffh_amyloliquefaciens      -CUUUUAAAGCAGUUCGAGGAAAUGAAAAAAAUGAUGAAGCAGAUGACAA
+ffh_pumilus                -CUUUUAAAGCAAUUUGACGAAAUGAAAAAGAUGAUGAAGCAAAUGACCA
+ffh_licheniformis          -CUUUUAAAGCAAUUUGAAGAAAUGAAAAAAAUGAUGAAACAGAUGACAA
+ffh_glycinifermentans      -CUGCUAAAGCAAUUUGAUGAAAUGAAAAAAAUGAUGAAGCAGAUGACAA
+ffh_oceanisediminis        -------------UUUGAAGACAUGAAAAAGAUGAUGAAGCAAAUGGCUG
+ffh_methanolicus           -------------UUUGAGGAAAUGAAGAAAAUGAUGAAACAAAUGACCG
+ffh_horikoshii             -------AAACAAUUUGAAGAGAUGAAAAAAAUGAUGAAACAGAUGACAA
+ffh_simplex                -CUAUUGAAGCAAUUCGAAGAAAUGAAAAAGAUGAUGAAACAGGUUACGA
+ffh_weihaiensis            ACUUUUAAAGCAGUUUGAAGAUAUGAAAAAAAUGAUGAAACAAAUGACAU
+ffh_megaterium             ---GCUUAAACAAUUUGAAGACAUGAAAAAAAUGAUGAAACAAAUGACAA
+ffh_flexus                 ----UUGAAGCAGUUUGAAGACAUGAAGAAAAUGAUGAAGCAAAUGACAA
+ffh_smithii                -CUGUUGAAACAAUUUGAAGAAAUGAAAAAAAUGAUGAAACAAAUGACCA
+ffh_pseudofirmus           ------------------AGAUAUGAAGAAAAUGAUGAAGCAAAUGACUA
+ffh_clausii                ------------------AGACAUGAAAAAAAUGAUGAAACAAAUGACCG
+ffh_cellulosilyticus       ---------GCAAUUUGGAGAAAUGAAAAAAAUGAUGAAACAAAUGGCUG
+ffh_mycoides               ----------CAAUUUGAUGAUAUGAAAAAAAUGAUGAAGACGAUGACGG
+ffh_cereus                 ---------ACAAUUCGAUGACAUGAAAAAAAUGAUGAAGACGAUGACGG
+ffh_anthracis_ames         ---------GCAAUUUGAUGAUAUGAAAAAGAUGAUGAAAACGAUGACUG
+ffh_anthracis_sterne       ---------GCAAUUUGAUGAUAUGAAAAAGAUGAUGAAAACGAUGACUG
+ffh_thuringiensis          ---------GCAAUUUGAUGAUAUGAAAAAGAUGAUGAAAACGAUGACUG
+ffh_cytotoxicus            ---------ACAGUUUGAAGACAUGAAAAAAAUGAUGAAGACGCUGACAG
+                                              ** ***** ** ********     *  *  
+                                                  9
+ffh_subtilis               ACAUGUC------AAAAGGCAAGAAAAAAGGG---------------UUU
+ffh_atrophaeus             ACAUGUC------AAAAGGAAAGAAAAAGGGA---------------UUU
+ffh_amyloliquefaciens      ACAUGUC------AAAAGGGAAGAAAAAAGGC---------------UUU
+ffh_pumilus                ACAUGUC------CAAAGGGAAGAAAAAAGGC---------------UUU
+ffh_licheniformis          ACAUGAC------AAAAGGCAAGAAAAAAGGG---------------UUU
+ffh_glycinifermentans      ACAUGAC------AAAAGGGAAGAAAAAAGGA---------------UUU
+ffh_oceanisediminis        GCAUGCAGCA---AAAAGGCAAGAAAAAAGGCG------------GAUUU
+ffh_methanolicus           GAAUGCAGCA---AAAAGGAAAAAGAAAAGGCG------------GCUUC
+ffh_horikoshii             GCAUGCAAAA---AGGAAAAGGUAAAAAAGGCG------------GCUUC
+ffh_simplex                ACAUGCA------AAAAGGGAAGAAAAAGGGA---------------UUC
+ffh_weihaiensis            CUAUGAC------UAAAGGAAAGAAAAAGGGU---------------AUG
+ffh_megaterium             AUAUGUC------AAAAGGCAAGAAAAAGGGU---------------AUG
+ffh_flexus                 ACAUGUC------UAAAGGGAAGAAAAAGGGC---------------AUG
+ffh_smithii                GCAUGCA------AAAAGGAAAGAAAAAGGGC---------------UUC
+ffh_pseudofirmus           ACAUGACAUCAGGUAAAGGCAAGAAAAAAGGUAAAGGUUUUGGAGGCUUA
+ffh_clausii                CCAUGCAAGGCGGCAAAGGCAAAAAACGAGGCAAAGGCCUUGGCGGGCUU
+ffh_cellulosilyticus       GUAUGCAAAAAGGUAAAGGGAAGAAAAAGGGU------------GGAUUU
+ffh_mycoides               GAAUGCAAAAAGGUAAGAAAAAAGGACUAGGU------------GGAUUG
+ffh_cereus                 GAAUGCAAAAAGGUAAGAAAAAAGGACUAGGU------------GGAUUG
+ffh_anthracis_ames         GAAUGCAAAAAGGUAAGAAAAAAGGACUAGGU------------GGAUUG
+ffh_anthracis_sterne       GAAUGCAAAAAGGUAAGAAAAAAGGACUAGGU------------GGAUUG
+ffh_thuringiensis          GAAUGCAAAAAGGUAAGAAAAAAGGACUAGGU------------GGAUUG
+ffh_cytotoxicus            GCAUGCAAAAAGGGAAGAAAAAAGGACUAGGU------------GGAUUG
+                             ***                    *   **                 * 
+
+ffh_subtilis               AAGCUACCUUUUAUGUAA--UCGGUUAUACAUG------------AUAAA
+ffh_atrophaeus             AAAUUACCUUUUAUGUAA--UCGGUUAUACAUG------------AUAAA
+ffh_amyloliquefaciens      AAAUUACCUUUUAUGUAA--UCGGUUAUACAUG------------AUAAA
+ffh_pumilus                AAAUUACCAUUUAUGUAA--UUGGUUAUACAUG------------AUAAA
+ffh_licheniformis          AAACUGCCCUUCAUGUAAACCUGUUUUCAGAUG------------AUAAA
+ffh_glycinifermentans      AAAUUGCCCUUCAUGUAAUCUUGUUUUCAAAUG------------AUAAA
+ffh_oceanisediminis        AAGCUUCCUUUUA---ACCCUUUUUAAGCUGUC---AGCAAAGCUUUUCA
+ffh_methanolicus           AAGUUGCCGUUUA---AUCCUUUUUAACUUGGC---UUCAUUCGUAUUUG
+ffh_horikoshii             AAAUUCCCUUUCAUGUAAGCAUCAACAGCAUUU---UUUCUCUUAAUAAA
+ffh_simplex                AAAUUCCCGUUCAUGUAAGGUUUAUUUUAGGUUGAAACUAAGGGGAAAUA
+ffh_weihaiensis            AAGUUCCCUUUUAUGUAGGGUGAAAUCCUGUUU-----UUAGGCGAAAUA
+ffh_megaterium             AAACUUCCAUUCUUUUCAUGAUAAAAC--GCUU-------------GAUU
+ffh_flexus                 AAAUUACCUUUCUUUUC---UUAAUUUGUCACU------------AAAUU
+ffh_smithii                AAAUUCCCUUUUAUGUAACGCGAUGAGCGGCCCGUAACUAUUUCACCCUU
+ffh_pseudofirmus           AAGCUUCCGUUUUAAAGAGGAAAUCCUUUUUUUUAGACUGUAAAGGAAAU
+ffh_clausii                AAGCUCCCGUUUUGAUUAAGGAAUCCAUUUUAACAGUUUGU---------
+ffh_cellulosilyticus       AAGCUUCCAUUU-AUGUAAAAUGUAGGGUGUAAAGUUUUUUUACUUUACU
+ffh_mycoides               AAGUUUCCAUUC-AUGUAAGGAAAAAA-GAUGGCUCUGU-UAAGAAAAAA
+ffh_cereus                 AAGUUUCCAUUC-AUGUAAGGAAAAAAAGAUGGCUCUGU-UAAGAAAAAA
+ffh_anthracis_ames         AAGUUUCCAUUC-AUGUAAGGAAAAAA-GAUGGCUCUGU-UAAGAAAAAA
+ffh_anthracis_sterne       AAGUUUCCAUUC-AUGUAAGGAAAAAA-GAUGGCUCUGU-UAAGAAAAAA
+ffh_thuringiensis          AAGUUUCCAUUC-AUGUAAGGAAAAAA-GAUGGCUCUGU-UAAGAAAAAA
+ffh_cytotoxicus            AAGUUUCCAUUU-AUGUAAGAGAAAAAAGAUAGCUCUGU-UAAGAAAAAA
+                           **  * ** **                                       
+
+ffh_subtilis               ACCGUUGUUAAGAAAAAACACUUUACAAACACUUUUAUCAUU-GUUAAUA
+ffh_atrophaeus             ACCAUUGUUAAGAAAAAACACUUUACAAACACUUUUAUCAUU-GUUAAUA
+ffh_amyloliquefaciens      ACCGUUGUUAAGAAAAAACACUUUACAAACACUUUUAUCAUU-GUUAAUA
+ffh_pumilus                ACCGUUGUUAAGAAAAAACACUUUACAAACCCUUUUAUCAUU-GUUAAUA
+ffh_licheniformis          AACGUUGUUAAGAAAAAACACUUUACAAACACUUUUAUCAUU-GUUAAUA
+ffh_glycinifermentans      ACCGUUGUUAAGAAAAAACACUUUACAAACACUUUUAUCAUU-GUUAAUA
+ffh_oceanisediminis        UAAGAUGUAAAGAAAAAAACCUUUACAAACUAAUUAACAAUCUGAUAUUA
+ffh_methanolicus           UUGUGUGUUAAGAAAAAAACCUUUACAAAAUGUAUUUCUGUUUGAUAUUA
+ffh_horikoshii             UAAAGUGACAAGAAAAAACACUUUACAAAC-AAGUAACUACUUGUUAUCA
+ffh_simplex                CGGGU-UAAAGCCAUGUGUUUC-AACACUUUUUUCACCUGUUAAGAAAAA
+ffh_weihaiensis            UUUGUCUAAAAAAACAAAUUUCCAAAGGAAUUUUCUUCUGACAAGAAAAA
+ffh_megaterium             CGGACUGAAAAACCAAAGAAAAUAAAAUAUUUUUCUAGUGUUAAGAAAAA
+ffh_flexus                 UAGUUGUAAAAAUAAACAGAAUAAAAUAUUUUUUAUACUGUUAAGAAAAA
+ffh_smithii                UUCAUGUGAGAUCUAUGAUGUUUUAC---UUUUACGGGUCUUGAUCUAAA
+ffh_pseudofirmus           UCCCUUGAAAUCUAAGAAAAUUGAUGAUAUUAUAUACCAUUGUGU-UAAC
+ffh_clausii                ---CUUGCAGAUUGUUAGAAUUGAUGAUAUGAUAAAAAAUUGUGUGCAAU
+ffh_cellulosilyticus       GGGGUUGUCCUUCAGUAUAGUUUAUGGUAAUAUACUUAAUUGUGU-GAAU
+ffh_mycoides               UACUUUACAAAGCAAUAGUCUUUUUGCUAAUAUAAUUAUCUGUGU-GAAA
+ffh_cereus                 UACUUUACAAAGCAAUAGUCUUUUUGCUAAUAUAAUUAUCUGUGU-GAAA
+ffh_anthracis_ames         UACUUUACAAAGCAAUAGUCUUUUUGCUAAUAUAAUUAUCUGUGU-GAAA
+ffh_anthracis_sterne       UACUUUACAAAGCAAUAGUCUUUUUGCUAAUAUAAUUAUCUGUGU-GAAA
+ffh_thuringiensis          UACUUUACAAAGCAAUAGUCUUUUUGCUAAUAUAAUUAUCUGUGU-GAAA
+ffh_cytotoxicus            UACUUUACAAAGCAAUAGUCUUUUUGCUAAUAUAAUUAUCUGUGU-GAAA
+                                                                             
+
+ffh_subtilis               UACUAUCUUGU---UGAAAUAUUUUCGGAGGUGCUAGUAA
+ffh_atrophaeus             UACUAUCUUGU---UGAAAUAUUUUCGGAGGUGCUAGUAA
+ffh_amyloliquefaciens      UACUAUCUUGU---UGAAAUAUUUUCGGAGGUGCUAGUAA
+ffh_pumilus                UACUAUCUUGU---UGAAAUAUUUUCGGAGGUGCUAGUAA
+ffh_licheniformis          UACUAUCUUGU---UGAAAUAUUUUCGGAGGUGCUAGU--
+ffh_glycinifermentans      UACUAUCUUGU---UGAAAUAUUUUCGGAGGUGCUAGU--
+ffh_oceanisediminis        UACUAUCAUGU--GUGAAAC-UAUUCGGAGGUGCUUA---
+ffh_methanolicus           UAAUAUCUUGU--GUGAAAC-UAUUCGGAGGUGCUUA---
+ffh_horikoshii             UACUAUCUUGU--GUGAAAUAUUUUCGG------------
+ffh_simplex                AACCUUUACAAACAUACAAGACAU----------------
+ffh_weihaiensis            AACCUUUACAU-CACAUUAUUUAUUUG-------------
+ffh_megaterium             AACCUUUACAAACAUUUUACCUAUUUGAUAUUAUAUUAU-
+ffh_flexus                 AACCUUUACAAACAUUUUAUCUUUUUGAUAUUAUAUUAUC
+ffh_smithii                CACUUUUAAAU---UGUAAGUUUUUUGA------------
+ffh_pseudofirmus           UAUUUUUGGAG--GUGUCUAA-------------------
+ffh_clausii                UAUUUUUGGAG--GUGUACAGCAAAUGGCUGU--------
+ffh_cellulosilyticus       GAAUUUUGGAG--GUGAAACACAUG---------------
+ffh_mycoides               UAAAUUCGGAG--GUGCUUUAUAAAUGG------------
+ffh_cereus                 UAAAUUCGGAG--GUGCUUUAUAAAU--------------
+ffh_anthracis_ames         UAAAUUCGGAG--GUGCUUUAUAAAUG-------------
+ffh_anthracis_sterne       UAAAUUCGGAG--GUGCUUUAUAAAUG-------------
+ffh_thuringiensis          UAAAUUCGGAG--GUGCUUUAUAAAUG-------------
+ffh_cytotoxicus            UAAAUUCGGAG--GUGCUUUAUAAAU--------------
+                            *   *                                  
