@@ -155,7 +155,7 @@ for i in range(len(starting)):
 	plt.autoscale()	
 	plt.xlabel("Location along window")
 	plt.ylabel("Read counts")
-	plt.ylim(top=4.5)
+	#plt.ylim(top=4.5)
 	plt.title(window_name+" Rend-seq reads")
 	j += 1
 	plt.draw()
@@ -240,7 +240,7 @@ for i in range(len(starting)):
 	plt.autoscale()	
 	plt.xlabel("Location along window")
 	plt.ylabel("Read counts")
-	plt.ylim(top=4.5)
+	#plt.ylim(top=4.5)
 	plt.title(window_name+" Rend-seq reads")
 	j += 1
 	plt.draw()
