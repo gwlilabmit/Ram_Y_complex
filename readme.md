@@ -13,9 +13,9 @@ Should you want rend-seq visualizations of the 200nt windows I've been using, lo
 * 168 treated with a 5' exonuclease to identify 5' monophosphates [to determine if a 5' end is an alternative isoform or the product of cleavage] ["5exo\*"]
 * ∆PNPase 168 [to identify 3' peaks that may result from cleavage] ["pnpA\*"]
 * ∆RNase Y 168 ["rny\*"]
-* ∆_ylbF_ 168 ["ylbF\*"]
+* ∆ _ylbF_ 168 ["ylbF\*"]
 
-Add the appropriate 5'f/r and 3'f/r wigs into plot\_rend\_seq.py [currently can only plot one set of 5'/3/ files but it's a really easy fix to modify if needed] and run!
+Add the appropriate 5'f/r and 3'f/r wigs into rend\_seq/plot\_rend\_seq.py [currently can only plot one set of 5'/3/ files but it's a really easy fix to modify if needed] and run!
 If you want to visualize a different set of windows, just use a different bedfile as input--21\_cleavage\_final.bed12 contains all 21 windows that I use for analysis. 
 You can verify these sequences in Mochiview if you'd like--go to mochiview/subtilis\_mochiview. There are wigs for [all using derivatives of _B. subtilis_ strain 168 in LB exponential] wt, ∆RNase Y, ∆_ylbF_, ∆_yaaT_ and ∆_ymcA_. You can use Mochiview's find function to search for the 200nt windows, i.e. 21\_cleavage\_final.txt. 
 
@@ -41,7 +41,7 @@ Run staph/values\_from\_rend\_seq\_staph.py. I'm only plotting the 5 seemingly Y
 ### Figures 2-4 and S12
 ![Figure 5](figures/fig5.png)
 
-I use [Clustalw2](http://www.clustal.org/omega/#Download) in shell to run all my MSAs. Under msa\_for\_paper I have directories for each cleavage site producing a MSA with alignment-to-subtilis score \>30. I've included alignments for all other sites for which I found sufficient homologs to construct a MSA under msa\_for\_paper/msas\_with\_bad\_scores. All genomes are available under genome\_fasta\_files/ [this also has a file for the staph genome]. I first grab sequences from my fasta files [atpi\_correct\_evolutionary.txt], standardize the length of all sequences to be that of the shortest sequences [equal\_size\_sequences\_seqlogo.py] and convert all T's to U's [dna\_to\_rna\_sequences.py]. From there I run the MSA on my equal-length RNA sequences [rna\_atpi\_correct\_evolutionary.txt] using the slow/accurate option. If you want to further shorten sequences to visualize their sequence logos I've included shorten\_for\_seqlogo.py--this produces 50nt windows that you can use in weblogo. That's really more for fun, though. Those sequence logos don't really tell you much. 
+I use [Clustalw2](http://www.clustal.org/omega/#Download) in shell to run all my MSAs. Under msa/ I have directories for each cleavage site producing a MSA with alignment-to-subtilis score \>30. The actual alignment is provided in each subdirectory as a \*.aln file. I've included alignments for all other sites for which I found sufficient homologs to construct a MSA under msa/msas\_with\_bad\_scores. All genomes are available under genome\_fasta\_files/ [this also has a file for the staph genome]. I first grab sequences from my fasta files [atpi\_correct\_evolutionary.txt], standardize the length of all sequences to be that of the shortest sequences [equal\_size\_sequences\_seqlogo.py] and convert all T's to U's [dna\_to\_rna\_sequences.py]. From there I run the MSA on my equal-length RNA sequences [rna\_atpi\_correct\_evolutionary.txt] using the slow/accurate option. If you want to further shorten sequences to visualize their sequence logos I've included shorten\_for\_seqlogo.py--this produces 50nt windows that you can use in weblogo. That's really more for fun, though. Those sequence logos don't really tell you much. 
 Unfortunately there's no way to denote the cleavage site in the MSA itself so you have to search for it manually. 
 
 ![Figure 14](figures/fig14.png)
@@ -53,14 +53,14 @@ If you want to recalculate the alignment-to-subtilis scores, take the average of
 
 ![Figure 6](figures/fig6.png)
 
-Shortened MSA snippets around the cleavage site [50nt either side] are under msa\_for\_paper/msa\_nucleotide\_enrichment/\*.txt. sequences\_for\_analysis.txt contains all 8 MSAs, whereas the other \*.txt files are for individual MSAs. You can check for enrichment of A/U/C/G by running plots\_of\_sequences.py and adding the appropriate file as input. I didn't find looking at individual MSAs to be particularly illuminating but I've included them in here regardless. 
+Shortened MSA snippets around the cleavage site [50nt either side] are under msa/msa\_nucleotide\_enrichment/\*.txt. sequences\_for\_analysis.txt contains all 8 MSAs, whereas the other \*.txt files are for individual MSAs. You can check for enrichment of A/U/C/G by running plots\_of\_sequences.py and adding the appropriate file as input. I didn't find looking at individual MSAs to be particularly illuminating but I've included them in here regardless. 
 
 ### Figures 2-6 and S13
 
 ![Figure 7](figures/fig7.png)
 ![Figure S13](figures/figs13.png)
 
-I ran weblogo in shell for this--the input file for figure 2-6 is seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt and the input for figure S13 is seqlogo/rna\_shortened\_21\_cleavage\_final.txt. The output file is seqlogo/sequence\_logo.eps. The seqlogo directory also has other files that can be used as input--rna\*.txt files have AUCG sequences whereas others have ATCG. To produce rna\_21\_cleavage\_for\_seqlogo.txt I took 21\_cleavage\_final.txt, ran equal\_size\_sequences\_seqlogo.py to standardize the length of all input sequences to be that of the shortest sequences and then ran shorten\_for\_seqlogo.py to get at most a 50nt window. I realize that equal\_size\_sequences\_seqlogo.py and shorten\_for\_seqlogo.py are somewhat redundant scripts. shorten\_for\_seqlogo.py will honestly get the job done if you're ok hard-coding window sizes. 
+I ran weblogo in shell for this--the input file for figure 2-6 is seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt [output available in seqlogo/sequence\_logo.eps] and the input for figure S13 is seqlogo/rna\_shortened\_21\_cleavage\_final.txt. The output file is seqlogo/sequence\_logo.eps. The seqlogo directory also has other files that can be used as input--rna\*.txt files have AUCG sequences whereas others have ATCG. To produce rna\_21\_cleavage\_for\_seqlogo.txt I took 21\_cleavage\_final.txt, ran equal\_size\_sequences\_seqlogo.py to standardize the length of all input sequences to be that of the shortest sequences and then ran shorten\_for\_seqlogo.py to get at most a 50nt window. I realize that equal\_size\_sequences\_seqlogo.py and shorten\_for\_seqlogo.py are somewhat redundant scripts. shorten\_for\_seqlogo.py will honestly get the job done if you're ok hard-coding window sizes. 
 
 ### Figure 2-7
 
