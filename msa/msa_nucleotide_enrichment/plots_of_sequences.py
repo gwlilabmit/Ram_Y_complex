@@ -76,6 +76,7 @@ plt.xticks(np.arange(0,len(adenine),5),rotation="vertical")
 plt.autoscale()	
 plt.xlabel("Location along window")
 plt.ylabel("Fraction of A's")
+plt.ylim(top=0.7)
 plt.title("Fraction of A's in MSA")
 j += 1
 plt.draw()
@@ -96,6 +97,7 @@ plt.autoscale()
 plt.xlabel("Location along window")
 plt.ylabel("Fraction of U's")
 plt.title("Fraction of U's in MSA")
+plt.ylim(top=0.7)
 j += 1
 plt.draw()
 
@@ -115,6 +117,7 @@ plt.autoscale()
 plt.xlabel("Location along window")
 plt.ylabel("Fraction of C's")
 plt.title("Fraction of C's in MSA")
+plt.ylim(top=0.7)
 j += 1
 plt.draw()
 
@@ -134,6 +137,7 @@ plt.autoscale()
 plt.xlabel("Location along window")
 plt.ylabel("Fraction of G's")
 plt.title("Fraction of G's in MSA")
+plt.ylim(top=0.7)
 plt.draw()
 
 plt.show()
