@@ -51,7 +51,7 @@ If you want to recalculate the alignment-to-subtilis scores, take the average of
 
 ### Figures 2-5, S8, S9, S10 and S11
 
-![Figure 6](figures/fig7.png)
+![Figure 6](figures/fig6.png)
 
 Shortened MSA snippets around the cleavage site [50nt either side] are under msa/msa\_nucleotide\_enrichment/\*.txt. sequences\_for\_analysis.txt contains all 8 MSAs, whereas the other \*.txt files are for individual MSAs. You can check for enrichment of A/U/C/G by running plots\_of\_sequences.py and adding the appropriate file as input. I didn't find looking at individual MSAs to be particularly illuminating but I've included them in here regardless. 
 
