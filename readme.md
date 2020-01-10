@@ -68,9 +68,9 @@ I ran weblogo in shell for this--the input file for figure 2-6 is seqlogo/rna\_2
 
 I ran [MEME](http://meme-suite.org/tools/meme) on 21\_cleavage\_final.txt to find the top 5 motifs with a minimum motif width of 3nt and max width of 50nt. Running the search with both a 0-order and 1st-order background yields the same results. 
 
-### Kmer analysis
+### K-mer analysis
 
-For this I ran kmer\_analysis/kmer\_distribution.py. This prints out a list of all kmers in ascending order of p value. For each kmer I also note the number of times it appeared in the 21 sites. 
+For this I ran kmer\_analysis/kmer\_distribution.py. This prints out a list of all k-mers in ascending order of p value. For each k-mer I also note the number of times it appeared in the 21 sites. 
 
 ### Figure 3-1
 
