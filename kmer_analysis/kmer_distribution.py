@@ -136,12 +136,12 @@ def kmerdist(k):
 			pvalue += newprob
 
 		
-		pvalues[kmer] = pvalue
+		pvalues[kmer] = pvalue*numkmers #multiplying by numkmers for bonferroni correction
 		
 
 	cleavagesites.close()
 
-	#print sorted(subtiprobs.items(), key=lambda x: x[1])
+	#print sorted(subtiprobs.items(), key=lambda x: x[1]) #uncomment to get a list of all kmers and their associated p values
 
 	return pvalues, subtiliscounts
 

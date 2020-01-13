@@ -27,7 +27,24 @@ To recreate figure 2-2 use seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt [This is 
 For figure S12 use seqlogo/rna\_shortened\_21\_cleavage\_final.txt. In both instances all cleavage sites occur between one-indexed nucleotides 11 and 12] as an input to [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option. You can view the full 112nt window used for frequency plot analysis using rna\_shortened\_21\_cleavage\_final.txt. 
 
 
-### Figure 2-3
+### Figures 2-3 and S12
+![Figure 5](figures/fig5.png)
+
+I use [Clustalw2](http://www.clustal.org/omega/#Download) in shell to run all my MSAs. Under msa/ I have directories for each cleavage site producing a MSA with alignment-to-subtilis score \>30. The actual alignment is provided in each subdirectory as a \*.aln file. I've included alignments for all other sites for which I found sufficient homologs to construct a MSA under msa/msas\_with\_bad\_scores. All genomes are available under genome\_fasta\_files/ [this also has a file for the staph genome]. I first grab sequences from my fasta files [atpi\_correct\_evolutionary.txt], standardize the length of all sequences to be that of the shortest sequences [equal\_size\_sequences\_seqlogo.py] and convert all T's to U's [dna\_to\_rna\_sequences.py]. From there I run the MSA on my equal-length RNA sequences [rna\_atpi\_correct\_evolutionary.txt] using the slow/accurate option. If you want to further shorten sequences to visualize their sequence logos I've included shorten\_for\_seqlogo.py--this produces 50nt windows that you can use in weblogo. That's really more for fun, though. Those sequence logos don't really tell you much. 
+Unfortunately there's no way to denote the cleavage site in the MSA itself so you have to search for it manually. 
+
+![Figure 14](figures/fig14.png)
+
+If you want to recalculate the alignment-to-subtilis scores, take the average of all pairwise alignment scores of the form "Sequences (1:n) Aligned. Score: " [as seen above]. Note that ClustalW2 will output these scores _prior_ to producing the MSA, so be on the lookout. Sequence 1 in all \*\_evolutionary.txt files is always the _subtilis_ sequence. This was easy enough to do manually that I didn't bother automating it. 
+
+### Figures 2-4, S8, S9, S10 and S11
+
+![Figure 6](figures/fig6.png)
+
+Shortened MSA snippets around the cleavage site [50nt either side] are under msa/msa\_nucleotide\_enrichment/\*.txt. sequences\_for\_analysis.txt contains all 8 MSAs, whereas the other \*.txt files are for individual MSAs. You can check for enrichment of A/U/C/G by running plots\_of\_sequences.py and adding the appropriate file as input. I didn't find looking at individual MSAs to be particularly illuminating but I've included them in here regardless. 
+
+
+### Figure 2-5
 ![Figure 4](figures/fig4.png)
 
 Use staph/staph\_rny\_sites.txt as input into [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option. 
@@ -38,22 +55,7 @@ Use staph/staph\_rny\_sites.txt as input into [weblogo](https://weblogo.berkeley
 
 Run staph/values\_from\_rend\_seq\_staph.py. I'm only plotting the 5 seemingly Y complex-dependent sites. The sixth one corresponds to the sequence TACTTACTAAATTTTATTTAACCTAAAAATGAACCACCTGGATGTGTGGG and doesn't seem to be Y complex-dependent. The locations of all staph cleavage sites from [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4608709/) can be found in staph/staph\_rny\_sites.txt. The wig files under staph/ need slight modification to run in mochiview. If this is your goal, go to mochiview/staph\_mochiview/. There you can find wt and ∆rny data for our staph strain [wt files are under wt\* and ∆ylbF are under ylbF\*]. We map reads to the [NC\_007795 genome](https://www.ncbi.nlm.nih.gov/nuccore/NC_007795.1). You can grab the NC\_007795 cds from the NCBI site [here](https://www.ncbi.nlm.nih.gov/genome/proteins/154?genome_assembly_id=299272). This requires some modification to be converted to the Mochiview format, so you can use staph\_mochiview/convert\_mochiview\_location.py to do the conversion for you. Or you can just use the already-converted CDS I have, namely NC\_007795\_mochi\_cds.txt. The one benefit of using the script is that it should work for any CDS that needs conversion from NCBI-\>Mochiview, not just NC\_007795. 
 
-### Figures 2-4 and S12
-![Figure 5](figures/fig5.png)
 
-I use [Clustalw2](http://www.clustal.org/omega/#Download) in shell to run all my MSAs. Under msa/ I have directories for each cleavage site producing a MSA with alignment-to-subtilis score \>30. The actual alignment is provided in each subdirectory as a \*.aln file. I've included alignments for all other sites for which I found sufficient homologs to construct a MSA under msa/msas\_with\_bad\_scores. All genomes are available under genome\_fasta\_files/ [this also has a file for the staph genome]. I first grab sequences from my fasta files [atpi\_correct\_evolutionary.txt], standardize the length of all sequences to be that of the shortest sequences [equal\_size\_sequences\_seqlogo.py] and convert all T's to U's [dna\_to\_rna\_sequences.py]. From there I run the MSA on my equal-length RNA sequences [rna\_atpi\_correct\_evolutionary.txt] using the slow/accurate option. If you want to further shorten sequences to visualize their sequence logos I've included shorten\_for\_seqlogo.py--this produces 50nt windows that you can use in weblogo. That's really more for fun, though. Those sequence logos don't really tell you much. 
-Unfortunately there's no way to denote the cleavage site in the MSA itself so you have to search for it manually. 
-
-![Figure 14](figures/fig14.png)
-
-If you want to recalculate the alignment-to-subtilis scores, take the average of all pairwise alignment scores of the form "Sequences (1:n) Aligned. Score: " [as seen above]. Note that ClustalW2 will output these scores _prior_ to producing the MSA, so be on the lookout. Sequence 1 in all \*\_evolutionary.txt files is always the _subtilis_ sequence. This was easy enough to do manually that I didn't bother automating it. 
-
-
-### Figures 2-5, S8, S9, S10 and S11
-
-![Figure 6](figures/fig6.png)
-
-Shortened MSA snippets around the cleavage site [50nt either side] are under msa/msa\_nucleotide\_enrichment/\*.txt. sequences\_for\_analysis.txt contains all 8 MSAs, whereas the other \*.txt files are for individual MSAs. You can check for enrichment of A/U/C/G by running plots\_of\_sequences.py and adding the appropriate file as input. I didn't find looking at individual MSAs to be particularly illuminating but I've included them in here regardless. 
 
 ### Figures 2-6 and S13
 
