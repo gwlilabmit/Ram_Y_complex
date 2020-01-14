@@ -39,9 +39,11 @@ def kmerdist(k):
 
 	numkmers = 0 #number of kmers total in all sequences 
 
-	gc = 0.436 #from https://www.ncbi.nlm.nih.gov/genome/?term=Bacillus%20subtilis[Organism]&cmd=DetailsSearch -- %GC in 168, which I use as p(G or C)
-	at = 1-gc #p(A or T)
-
+	###probabilities from nt_probabilities.py--I took the 168 genome and counted the A's, G's etc. 
+	proba = 0.281827333959
+	probg = 0.217077212624
+	probc = 0.218066868678
+	probt = 0.28302858474
 
 	##################################################
 	#get all sequences for background sets
@@ -105,11 +107,15 @@ def kmerdist(k):
 		p = 1
 		freq = subtiliscounts[kmer]
  
-		for i in range(len(kmer)): 
-			if kmer[i] == "A" or kmer[i] == "T": 
-				p *= at/2 #assuming a and t are equally likely
+		for i in range(len(kmer)): #calculate probabilities for each kmer
+			if kmer[i] == "A": 
+				p *= proba 
+			elif kmer[i]=="T": 
+				p *= probt
+			elif kmer[i] == "G": 
+				p *= probg
 			else: 
-				p *= gc/2 #assuming g and c are equally likely
+				p *= probc
 
 		comb = ncr(numkmers, freq)
 		pfreq = p**freq
@@ -141,7 +147,7 @@ def kmerdist(k):
 
 	cleavagesites.close()
 
-	#print sorted(subtiprobs.items(), key=lambda x: x[1]) #uncomment to get a list of all kmers and their associated p values
+	print sorted(subtiprobs.items(), key=lambda x: x[1]) #uncomment to get a list of all kmers and their associated p values
 
 	return pvalues, subtiliscounts
 
@@ -179,6 +185,6 @@ for key in significantkmers.keys():
 	pvalsandfreqs[key] = [pval, freq]
 
 #from https://thispointer.com/python-how-to-sort-a-dictionary-by-key-or-value/ -- prints kmercounts in ascending order of probabilities [values]
-print sorted(pvalsandfreqs.items() , key=lambda x: x[1])
+#print sorted(pvalsandfreqs.items() , key=lambda x: x[1])
 	
 
