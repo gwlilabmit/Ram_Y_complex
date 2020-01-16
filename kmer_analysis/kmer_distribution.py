@@ -21,7 +21,7 @@ def kmerdist(k):
 	#input files
 	#################
 
-	cleavagesites = open("21_cleavage_final.txt", 'r') #windows for all 21 sites in subtilis
+	cleavagesites = open("21_cleavage_rna.txt", 'r') #windows for all 21 sites in subtilis
 
 	###############################
 	#global vars and dictionaries
@@ -43,7 +43,7 @@ def kmerdist(k):
 	proba = 0.281827333959
 	probg = 0.217077212624
 	probc = 0.218066868678
-	probt = 0.28302858474
+	probu = 0.28302858474
 
 	##################################################
 	#get all sequences for background sets
@@ -110,8 +110,8 @@ def kmerdist(k):
 		for i in range(len(kmer)): #calculate probabilities for each kmer
 			if kmer[i] == "A": 
 				p *= proba 
-			elif kmer[i]=="T": 
-				p *= probt
+			elif kmer[i]=="U": 
+				p *= probu
 			elif kmer[i] == "G": 
 				p *= probg
 			else: 
@@ -147,7 +147,7 @@ def kmerdist(k):
 
 	cleavagesites.close()
 
-	print sorted(subtiprobs.items(), key=lambda x: x[1]) #uncomment to get a list of all kmers and their associated p values
+	#print sorted(subtiprobs.items(), key=lambda x: x[1]) #uncomment to get a list of all kmers and their associated p values
 
 	return pvalues, subtiliscounts
 
@@ -171,12 +171,14 @@ for k in range(3, 11): #using 11 so we capture all kmers of size 3->10
 	kmerfreqs.update(kfreq)
 
 
-###################################
-#get all kmers with p<=pvalthresh
-###################################
-
+#######################################################
+#get all kmers with p<=pvalthresh, or all kmers total
+#######################################################
 #from https://stackoverflow.com/questions/18807079/selecting-elements-of-a-python-dictionary-greater-than-a-certain-value/18807120
-significantkmers = dict((k, v) for k, v in kmerpvals.items() if v <= pvalthresh)
+
+significantkmers = dict((k, v) for k, v in kmerpvals.items() if v <= pvalthresh) ###this shows only the top 15 kmers when pvalthresh=0.001 or top 42 if pvalthresh=0.05
+
+#significantkmers=kmerpvals #uncomment this and comment the above line if you want to view all p values
 
 for key in significantkmers.keys(): 
 	pval = significantkmers[key]
@@ -185,6 +187,9 @@ for key in significantkmers.keys():
 	pvalsandfreqs[key] = [pval, freq]
 
 #from https://thispointer.com/python-how-to-sort-a-dictionary-by-key-or-value/ -- prints kmercounts in ascending order of probabilities [values]
-#print sorted(pvalsandfreqs.items() , key=lambda x: x[1])
-	
+print "All kmers with p<0.001: "
+print sorted(pvalsandfreqs.items() , key=lambda x: x[1])
+
+
+
 
