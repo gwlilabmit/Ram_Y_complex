@@ -2,8 +2,8 @@
 Literally takes a DNA sequence and converts it to RNA, i.e. literally converts T's to U's from a fasta-format input
 '''
 
-infile = open("ruva_correct_evolutionary.txt", "r")
-outfile = open("rna_ruva_correct_evolutionary.txt", "w")
+infile = open("21_cleavage_final.txt", "r")
+outfile = open("21_cleavage_rna.txt", "w")
 
 for line in infile: 
 	if ">" in line: #i.e. if it's a fasta header

@@ -4,6 +4,10 @@ Below you will find detailed instructions for recreating each figure/means of an
 
 Please note that all figures used in the paper can also be found under figures/. All varna files for structures can be found under varna/.
 
+###Quick note on bedtools getfasta
+
+Bedtools getfasta will not reverse complement strands for you. Please take your getfasta output and corresponding bedfile and use as input to strand\_directionality.py. Note that this script needs base\_complement.py and string\_reversal.py to run, so keep those in the same directory.
+
 ### Figure 1-1
 ![Figure 1](figures/fig1.png)
 
