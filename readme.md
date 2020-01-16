@@ -80,7 +80,9 @@ I ran [MEME](http://meme-suite.org/tools/meme) on 21\_cleavage\_final.txt to fin
 
 For this I ran kmer\_analysis/kmer\_distribution.py. This prints out a list of all k-mers in ascending order of p value. For each k-mer I also note the number of times it appeared in the 21 sites. To get the probabilities of A/U/G/C I ran kmer\_analysis/nt\_probabilities.py.  
 
-![Figure S14] For these figures I literally just searched through the sequences and found the matching k-mers. Nothing fancy.
+![Figure S14](figures/figs14.png)
+
+For these figures I literally just searched through the sequences and found the matching k-mers. Nothing fancy.
 
 ### Figure 3-1
 
