@@ -93,10 +93,10 @@ def kmerdist(k):
 	#calculate the probability of seeing each kmer subtiliscounts[kmer] times and add to subtiprobs
 	################################################################################################
 
-	#We take this to be p(n times) = (N choose n)*p^n(1-p)^{N-n}, where p = p(kmer), n=freq and N = numkmers
-	#say the kmer is AGG--in that case p = at*gc*gc 
+	#We take this to be q(n times) = (N choose n)*q^n(1-q)^{N-n}, where q = expected probability of kmer randomly occurring, n=freq and N = numkmers
+	#say the kmer is AGG--in that case q = proba*probg*probg 
 
-	#additionally, we take the p value to be sum_n^N (N choose n)p^n(1-p)^{N-n}
+	#additionally, we take the p value to be sum_n^N (N choose n)q^n(1-q)^{N-n}
 
 	for kmer in subtiliscounts.keys():
 
