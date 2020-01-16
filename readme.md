@@ -31,13 +31,13 @@ To recreate figure 2-2 use seqlogo/rna\_21\_cleavage\_for\_seqlogo.txt [This is 
 For figure S12 use seqlogo/rna\_shortened\_21\_cleavage\_final.txt. In both instances all cleavage sites occur between one-indexed nucleotides 11 and 12] as an input to [weblogo](https://weblogo.berkeley.edu/logo.cgi), making sure to click the "Frequency Plot" option. You can view the full 112nt window used for frequency plot analysis using rna\_shortened\_21\_cleavage\_final.txt. 
 
 
-### Figures 2-3 and S12
+### Figures 2-3 and S30
 ![Figure 5](figures/fig5.png)
 
 I use [Clustalw2](http://www.clustal.org/omega/#Download) in shell to run all my MSAs. Under msa/ I have directories for each cleavage site producing a MSA with alignment-to-subtilis score \>30. The actual alignment is provided in each subdirectory as a \*.aln file. I've included alignments for all other sites for which I found sufficient homologs to construct a MSA under msa/msas\_with\_bad\_scores. All genomes are available under genome\_fasta\_files/ [this also has a file for the staph genome]. I first grab sequences from my fasta files [atpi\_correct\_evolutionary.txt], standardize the length of all sequences to be that of the shortest sequences [equal\_size\_sequences\_seqlogo.py] and convert all T's to U's [dna\_to\_rna\_sequences.py]. From there I run the MSA on my equal-length RNA sequences [rna\_atpi\_correct\_evolutionary.txt] using the slow/accurate option. If you want to further shorten sequences to visualize their sequence logos I've included shorten\_for\_seqlogo.py--this produces 50nt windows that you can use in weblogo. That's really more for fun, though. Those sequence logos don't really tell you much. 
 Unfortunately there's no way to denote the cleavage site in the MSA itself so you have to search for it manually. 
 
-![Figure 14](figures/fig14.png)
+![Figure s30](figures/figs30.png)
 
 If you want to recalculate the alignment-to-subtilis scores, take the average of all pairwise alignment scores of the form "Sequences (1:n) Aligned. Score: " [as seen above]. Note that ClustalW2 will output these scores _prior_ to producing the MSA, so be on the lookout. Sequence 1 in all \*\_evolutionary.txt files is always the _subtilis_ sequence. This was easy enough to do manually that I didn't bother automating it. 
 
@@ -74,9 +74,13 @@ I ran weblogo in shell for this--the input file for figure 2-6 is seqlogo/rna\_2
 
 I ran [MEME](http://meme-suite.org/tools/meme) on 21\_cleavage\_final.txt to find the top 5 motifs with a minimum motif width of 3nt and max width of 50nt. Running the search with both a 0-order and 1st-order background yields the same results. 
 
-### K-mer analysis
+### Table 2-1 and Figures S14-S29
+
+![Table 2.1](figures/table2_1.png)
 
 For this I ran kmer\_analysis/kmer\_distribution.py. This prints out a list of all k-mers in ascending order of p value. For each k-mer I also note the number of times it appeared in the 21 sites. To get the probabilities of A/U/G/C I ran kmer\_analysis/nt\_probabilities.py.  
+
+![Figure S14] For these figures I literally just searched through the sequences and found the matching k-mers. Nothing fancy.
 
 ### Figure 3-1
 
